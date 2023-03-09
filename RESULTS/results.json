@@ -1,0 +1,69 @@
+{
+    "results": [
+        {
+            "vendor": "FOO",
+            "application_id": "BAR",
+            "version": "1.0.8",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2022-02-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "FOO2",
+            "application_id": "BAR",
+            "version": "21.01.00",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2022-02-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "FOO2",
+            "application_id": "BAZ",
+            "version": "21.01.00",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2022-02-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "PIPPO",
+            "application_id": "BAO",
+            "version": "1",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION","PUBBLICATION"
+            ],
+            "date": "2022-02-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "TEST",
+            "application_id": "APPBELLISSIMA",
+            "version": "42",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2022-02-25",
+            "gtw_version": "1.0"
+        }
+    ]
+}
