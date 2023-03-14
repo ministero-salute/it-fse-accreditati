@@ -64,6 +64,19 @@
             ],
             "date": "2022-02-25",
             "gtw_version": "1.0"
+        },
+         {
+            "vendor": "TEST_STE",
+            "application_id": "maronsLab",
+            "version": "52",
+            "doc_type": [
+                "MAR"
+            ],
+            "service": [
+                "POTATION"
+            ],
+            "date": "2023-03-14",
+            "gtw_version": "1.0"
         }
     ]
 }
