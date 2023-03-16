@@ -1,8 +1,34 @@
 {
     "results": [
         {
-            "vendor": "FOO",
-            "application_id": "BAR",
+            "vendor": "Engineering Ingegneria Informatica S.p.A.",
+            "application_id": "OpenLisCS",
+            "version": "21.01.00",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-02-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Engineering Ingegneria Informatica S.p.A.",
+            "application_id": "OpenLisWeb",
+            "version": "21.01.00",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-02-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "SCS SRL",
+            "application_id": "ALCHYMIA",
             "version": "1.0.8",
             "doc_type": [
                 "LAB"
@@ -10,72 +36,72 @@
             "service": [
                 "VALIDATION"
             ],
-            "date": "2022-02-17",
+            "date": "2023-02-17",
             "gtw_version": "1.0"
         },
         {
-            "vendor": "FOO2",
-            "application_id": "BAR",
-            "version": "21.01.00",
+            "vendor": "DEDALUS SPA",
+            "application_id": "CONCERTO",
+            "version": "22.1.0",
             "doc_type": [
                 "LAB"
             ],
             "service": [
                 "VALIDATION"
             ],
-            "date": "2022-02-17",
+            "date": "2023-03-10",
             "gtw_version": "1.0"
         },
         {
-            "vendor": "FOO2",
-            "application_id": "BAZ",
-            "version": "21.01.00",
+            "vendor": "Engineering Ingegneria Informatica S.p.A.",
+            "application_id": "AREAS ADTWEB",
+            "version": "20.15.00",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-03-13",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "El.Co.",
+            "application_id": "Fenix",
+            "version": "3.19.05",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-03-13",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DEDALUS SPA",
+            "application_id": "DNLAB_THEMIS",
+            "version": "3.0.0",
             "doc_type": [
                 "LAB"
             ],
             "service": [
                 "VALIDATION"
-            ],
-            "date": "2022-02-17",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "PIPPO",
-            "application_id": "BAO",
-            "version": "1",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION","PUBBLICATION"
-            ],
-            "date": "2022-02-17",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "TEST",
-            "application_id": "APPBELLISSIMA",
-            "version": "42",
-            "doc_type": [
-                "PSS"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2022-02-25",
-            "gtw_version": "1.0"
-        },
-         {
-            "vendor": "TEST_STE",
-            "application_id": "maronsLab",
-            "version": "52",
-            "doc_type": [
-                "MAR"
-            ],
-            "service": [
-                "POTATION"
             ],
             "date": "2023-03-14",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Engineering Ingegneria Informatica S.p.A.",
+            "application_id": "AREAS PSWEB",
+            "version": "20.15.00",
+            "doc_type": [
+                "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-03-15",
             "gtw_version": "1.0"
         }
     ]
