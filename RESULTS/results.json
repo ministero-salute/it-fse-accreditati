@@ -1,42 +1,16 @@
 {
     "results": [
         {
-            "vendor": "Engineering Ingegneria Informatica S.p.A.",
-            "application_id": "OpenLisCS",
-            "version": "21.01.00",
+            "vendor": "AGFA GEVAERT SPA",
+            "application_id": "ELEFANTE.NET",
+            "version": "2",
             "doc_type": [
-                "LAB"
+                "RAD"
             ],
             "service": [
                 "VALIDATION"
             ],
-            "date": "2023-02-17",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "Engineering Ingegneria Informatica S.p.A.",
-            "application_id": "OpenLisWeb",
-            "version": "21.01.00",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-02-17",
-            "gtw_version": "1.0"
-        },
-        {
-            "vendor": "SCS SRL",
-            "application_id": "ALCHYMIA",
-            "version": "1.0.8",
-            "doc_type": [
-                "LAB"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-02-17",
+            "date": "2023-03-21",
             "gtw_version": "1.0"
         },
         {
@@ -53,16 +27,16 @@
             "gtw_version": "1.0"
         },
         {
-            "vendor": "Engineering Ingegneria Informatica S.p.A.",
-            "application_id": "AREAS ADTWEB",
-            "version": "20.15.00",
+            "vendor": "DEDALUS SPA",
+            "application_id": "DNLAB_THEMIS",
+            "version": "3.0.0",
             "doc_type": [
-                "LDO"
+                "LAB"
             ],
             "service": [
                 "VALIDATION"
             ],
-            "date": "2023-03-13",
+            "date": "2023-03-14",
             "gtw_version": "1.0"
         },
         {
@@ -79,16 +53,42 @@
             "gtw_version": "1.0"
         },
         {
-            "vendor": "DEDALUS SPA",
-            "application_id": "DNLAB_THEMIS",
-            "version": "3.0.0",
+            "vendor": "Engineering Ingegneria Informatica S.p.A.",
+            "application_id": "OpenLisWeb",
+            "version": "21.01.00",
             "doc_type": [
                 "LAB"
             ],
             "service": [
                 "VALIDATION"
             ],
-            "date": "2023-03-14",
+            "date": "2023-02-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Engineering Ingegneria Informatica S.p.A.",
+            "application_id": "OpenLisCS",
+            "version": "21.01.00",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-02-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Engineering Ingegneria Informatica S.p.A.",
+            "application_id": "AREAS ADTWEB",
+            "version": "20.15.00",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-03-13",
             "gtw_version": "1.0"
         },
         {
@@ -103,6 +103,21 @@
             ],
             "date": "2023-03-15",
             "gtw_version": "1.0"
+        },
+        {
+            "vendor": "SCS SRL",
+            "application_id": "ALCHYMIA",
+            "version": "1.0.8",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-02-17",
+            "gtw_version": "1.0"
         }
     ]
 }
+
+
