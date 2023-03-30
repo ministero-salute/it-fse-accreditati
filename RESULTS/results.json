@@ -117,6 +117,45 @@
             "date": "2023-03-23",
             "gtw_version": "1.0"
         },
+         {
+            "vendor": "mimedical",
+            "application_id": "webrap3",
+            "version": "webrap3",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-03-29",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "OnitGroup",
+            "application_id": "OnVac",
+            "version": "V.4.43.0.0",
+            "doc_type": [
+                "SING_VACC", "CERT_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-03-29",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "OnitGroup",
+            "application_id": "SIRVa",
+            "version": "V.4.42.0.0",
+            "doc_type": [
+                "SING_VACC", "CERT_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-03-29",
+            "gtw_version": "1.0"
+        },
         {
             "vendor": "SCS SRL",
             "application_id": "ALCHYMIA",
