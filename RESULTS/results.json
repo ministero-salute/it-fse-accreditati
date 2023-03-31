@@ -105,6 +105,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Engineering Ingegneria Informatica S.p.A.",
+            "application_id": "Ellipse ADT",
+            "version": "3.4.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-03-31",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "MEDIACLINICS ITALIA",
             "application_id": "MargheritaTre",
             "version": "V.3.3.0",
@@ -168,9 +181,19 @@
             ],
             "date": "2023-02-17",
             "gtw_version": "1.0"
+        },
+        {
+            "vendor": "SIEMENS",
+            "application_id": "RA2000",
+            "version": "1.9.2",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-03-31",
+            "gtw_version": "1.0"
         }
     ]
 }
-
-
-
