@@ -27,6 +27,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "BCS",
+            "application_id": "WINLAB",
+            "version": "6.0.41.1",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-04-13",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "DEDALUS SPA",
             "application_id": "CONCERTO",
             "version": "22.1.0",
@@ -76,6 +89,19 @@
                 "VALIDATION"
             ],
             "date": "2023-04-06",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Dedalus",
+            "application_id": "ER4H",
+            "version": "2.7.1",
+            "doc_type": [
+                "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-04-13",
             "gtw_version": "1.0"
         },
         {
@@ -209,6 +235,32 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "OnitGroup",
+            "application_id": "SIAVr",
+            "version": "4",
+            "doc_type": [
+                "SING_VACC", "CERT_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-04-12",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "OnitGroup",
+            "application_id": "AVacS",
+            "version": "4",
+            "doc_type": [
+                "SING_VACC", "CERT_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-04-12",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "SCS SRL",
             "application_id": "ALCHYMIA",
             "version": "1.0.8",
@@ -245,6 +297,19 @@
                 "VALIDATION"
             ],
             "date": "2023-04-06",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Werfen S.p.A",
+            "application_id": "Modulab",
+            "version": "4.5.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-04-13",
             "gtw_version": "1.0"
         }
     ]
