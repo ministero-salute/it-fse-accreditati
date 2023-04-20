@@ -118,6 +118,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "dedalus",
+            "application_id": "caleido_fse20_connector",
+            "version": "2023",
+            "doc_type": [
+                "LAB", "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-04-20",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "El.Co.",
             "application_id": "Fenix",
             "version": "3.19.05",
@@ -287,6 +300,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "INFOSYS SRL",
+            "application_id": "SIOWEB",
+            "version": "1.1.2",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-04-20",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "INSIEL",
             "application_id": "CLINICO",
             "version": "G4.3.0",
@@ -310,6 +336,19 @@
                 "VALIDATION"
             ],
             "date": "2023-04-19",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Log 80 s.r.l.",
+            "application_id": "SUITE LOG80",
+            "version": "2.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-04-20",
             "gtw_version": "1.0"
         },
         {
