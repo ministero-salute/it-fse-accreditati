@@ -14,6 +14,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Arbitek",
+            "application_id": "XM-Lab",
+            "version": "2.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-04-21",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "ASL3 Genovese",
             "application_id": "SIVIS",
             "version": "v.1.0.0",
