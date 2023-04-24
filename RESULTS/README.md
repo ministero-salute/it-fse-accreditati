@@ -5,6 +5,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Fornitore|Applicativo|Versione|Tipo Documento|Servizio|Data validazione|Versione Gateway|
 |---|---|---|---|---|---|---|
 |AGFA GEVAERT SPA|ELEFANTE.NET|2|RAD|VALIDATION|2023-03-21|1.0|
+|Arbitek|XM-Lab|2.0|LAB|VALIDATION|2023-04-21|1.0|
 |ASL3 Genovese|SIVIS|v.1.0.0|LDO,VPS|VALIDATION|2023-04-19|1.0|
 |BCS|WINDEG|7.11.0.0|LDO|VALIDATION|2023-04-06|1.0|
 |BCS|WINLAB|6.0.41.1|LAB|VALIDATION|2023-04-13|1.0|
@@ -25,6 +26,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Fujifilm Italia S.p.A.|Synapse Workflow|4.33|RAD|VALIDATION|2023-04-19|1.0|
 |GPI_SPA|CCE_Cartella_Clinica_Elettronica|14|LDO|VALIDATION|2023-04-19|1.0|
 |GPI_SPA|NGH PS|4.0|VPS|VALIDATION|2023-04-19|1.0|
+|GPI_SPA|NGH ADT|8.0|LDO|VALIDATION|2023-04-21|1.0|
 |IASI S.r.l|SISWeb|2.4.8|LDO,VPS,RAD,RSA|VALIDATION|2023-04-19|1.0|
 |Infonext S.r.l.|eVac|3.0.0|SING_VACC,CERT_VACC|VALIDATION|2023-04-19|1.0|
 |INFOSYS SRL|SIOWEB|1.1.2|LDO|VALIDATION|2023-04-20|1.0|
