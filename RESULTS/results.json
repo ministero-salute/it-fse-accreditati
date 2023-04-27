@@ -27,6 +27,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "ASCOM UMS",
+            "application_id": "DIGISTAT",
+            "version": "8",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-04-26",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "ASL3 Genovese",
             "application_id": "SIVIS",
             "version": "v.1.0.0",
@@ -482,6 +495,32 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "TESI SPA",
+            "application_id": "WINLAB",
+            "version": "5.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-04-27",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "TESI SPA",
+            "application_id": "WEBLAB",
+            "version": "2.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-04-27",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "THEMIX ITALIA SRL",
             "application_id": "WLAB",
             "version": "126.2.c.a2",
@@ -509,3 +548,5 @@
         }
     ]
 }
+
+
