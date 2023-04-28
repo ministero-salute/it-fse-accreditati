@@ -248,6 +248,32 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Engineering Ingegneria Informatica SpA",
+            "application_id": "Eliot 3.0",
+            "version": "20.15.04",
+            "doc_type": [
+                "LAB_TRASF"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-04-28",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Engineering Ingegneria Informatica SpA",
+            "application_id": "Eliot CS",
+            "version": "20.16.00",
+            "doc_type": [
+                "LAB_TRASF"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-04-28",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Fujifilm Italia S.p.A.",
             "application_id": "Synapse Value",
             "version": "1.6",
@@ -548,5 +574,3 @@
         }
     ]
 }
-
-
