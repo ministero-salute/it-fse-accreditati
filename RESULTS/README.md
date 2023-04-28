@@ -23,6 +23,8 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Engineering Ingegneria Informatica S.p.A.|AREAS PSWEB|20.15.00|VPS|VALIDATION|2023-03-15|1.0|
 |Engineering Ingegneria Informatica S.p.A.|Ellipse ADT|3.4.0|LDO|VALIDATION|2023-03-31|1.0|
 |Engineering Ingegneria Informatica S.p.A.|Ellipse PS|2.7.0|VPS|VALIDATION|2023-04-19|1.0|
+|Engineering Ingegneria Informatica SpA|Eliot 3.0|20.15.04|LAB_TRASF|VALIDATION|2023-04-28|1.0|
+|Engineering Ingegneria Informatica SpA|Eliot CS|20.16.00|LAB_TRASF|VALIDATION|2023-04-28|1.0|
 |Fujifilm Italia S.p.A.|Synapse Value|1.6|RAD|VALIDATION|2023-04-19|1.0|
 |Fujifilm Italia S.p.A.|Synapse Workflow|4.33|RAD|VALIDATION|2023-04-19|1.0|
 |GPI_SPA|CCE_Cartella_Clinica_Elettronica|14|LDO|VALIDATION|2023-04-19|1.0|
