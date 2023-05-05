@@ -53,6 +53,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "ASL4",
+            "application_id": "OASIS4",
+            "version": "V.9.9.0",
+            "doc_type": [
+                "LDO", "VPS", "SING_VACC" , "CERT_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-05",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "BCS",
             "application_id": "WINDEG",
             "version": "7.11.0.0",
@@ -76,6 +89,19 @@
                 "VALIDATION"
             ],
             "date": "2023-04-13",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "BOLLINOITSPA",
+            "application_id": "BOLLINOFSE",
+            "version": "1.0",
+            "doc_type": [
+                "LAB", "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-03",
             "gtw_version": "1.0"
         },
         {
@@ -391,6 +417,45 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "GPI_SPA",
+            "application_id": "PSNET",
+            "version": "PSW04.00.05.11",
+            "doc_type": [
+                "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-05",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GPI_SPA",
+            "application_id": "IM-LISA",
+            "version": "3.21_b5",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-05",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GPI_SPA",
+            "application_id": "G2CLINICO",
+            "version": "G2.0.01.011",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-05",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "IASI S.r.l",
             "application_id": "SISWeb",
             "version": "2.4.8",
@@ -508,6 +573,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "nuvyta",
+            "application_id": "nuplatform",
+            "version": "2.4",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-05",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "OnitGroup",
             "application_id": "OnVac",
             "version": "V.4.43.0.0",
@@ -583,6 +661,32 @@
                 "VALIDATION"
             ],
             "date": "2023-03-31",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "SIEMENS HEALTHCARE",
+            "application_id": "TDSYNERGY_SIEMENS",
+            "version": "V.0.0.1",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-05",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "TES",
+            "application_id": "WSP-R",
+            "version": "V10",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-03",
             "gtw_version": "1.0"
         },
         {
