@@ -66,6 +66,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "ASL Caserta",
+            "application_id": "ASLCE_ADTPS",
+            "version": "1.0",
+            "doc_type": [
+                "LDO", "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-08",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "BCS",
             "application_id": "WINDEG",
             "version": "7.11.0.0",
@@ -128,6 +141,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-02",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Cooperativa EDP La Traccia",
+            "application_id": "Gepadial",
+            "version": "V.2.0.3",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-08",
             "gtw_version": "1.0"
         },
         {
@@ -219,6 +245,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-02",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DEDALUS",
+            "application_id": "TCWA",
+            "version": "10.6",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-08",
             "gtw_version": "1.0"
         },
         {
@@ -453,6 +492,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-05",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GPI_SPA",
+            "application_id": "HCSUITE",
+            "version": "3.19.23",
+            "doc_type": [
+                "LDO", "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-08",
             "gtw_version": "1.0"
         },
         {
@@ -743,5 +795,3 @@
         }
     ]
 }
-
-
