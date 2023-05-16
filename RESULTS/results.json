@@ -118,6 +118,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "BCS",
+            "application_id": "PriamoRIS",
+            "version": "4.14.0.0",
+            "doc_type": [
+                "RIS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-16",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "BOLLINOITSPA",
             "application_id": "BOLLINOFSE",
             "version": "1.0",
@@ -287,6 +300,32 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "DEDALUS SPA",
+            "application_id": "HERO",
+            "version": "5.2",
+            "doc_type": [
+                "VPS", "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-16",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DEDALUS SPA",
+            "application_id": "DSHOP-CCE",
+            "version": "3.0.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-16",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "EBITSRL",
             "application_id": "SUITESTENSA",
             "version": "2.1b34.x",
@@ -297,6 +336,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-15",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "EDINEXT SRL",
+            "application_id": "AVR",
+            "version": "2.0",
+            "doc_type": [
+                "SING_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-16",
             "gtw_version": "1.0"
         },
         {
@@ -938,5 +990,3 @@
         }
     ]
 }
-
-
