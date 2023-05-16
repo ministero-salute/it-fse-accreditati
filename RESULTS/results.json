@@ -14,6 +14,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "agilesrl",
+            "application_id": "cliniclick",
+            "version": "1.15.9",
+            "doc_type": [
+                "LDO", "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-15",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Arbitek",
             "application_id": "XM-Lab",
             "version": "2.0",
@@ -261,6 +274,32 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Dedalus",
+            "application_id": "Tabula",
+            "version": "1.0.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-15",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "EBITSRL",
+            "application_id": "SUITESTENSA",
+            "version": "2.1b34.x",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-15",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "El.Co.",
             "application_id": "Fenix",
             "version": "3.19.05",
@@ -417,6 +456,45 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "GESAN SRL",
+            "application_id": "WLEXT-VPS",
+            "version": "V.2.0",
+            "doc_type": [
+                "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-15",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GESAN SRL",
+            "application_id": "WLEXT-LDO",
+            "version": "V.2.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-15",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GESAN SRL",
+            "application_id": "WLEXT-RIS",
+            "version": "V.2.0",
+            "doc_type": [
+                "RIS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-15",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "GPI_SPA",
             "application_id": "CCE_Cartella_Clinica_Elettronica",
             "version": "14",
@@ -505,6 +583,45 @@
                 "VALIDATION"
             ],
             "date": "2023-05-08",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GPI_SPA",
+            "application_id": "IE-DEA",
+            "version": "8.112_b13",
+            "doc_type": [
+                "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-15",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GPI_SPA",
+            "application_id": "PIESSE",
+            "version": "8832_b1",
+            "doc_type": [
+                "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-15",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GPI_SPA",
+            "application_id": "AMICO",
+            "version": "2.21.2",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-15",
             "gtw_version": "1.0"
         },
         {
@@ -611,7 +728,20 @@
             "date": "2023-03-23",
             "gtw_version": "1.0"
         },
-         {
+        {
+            "vendor": "MEDARCHIVER",
+            "application_id": "MEDARCHIVER_FSE2.0",
+            "version": "1.0.0.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-15",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "mimedical",
             "application_id": "webrap3",
             "version": "webrap3",
@@ -700,6 +830,19 @@
                 "VALIDATION"
             ],
             "date": "2023-02-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "SID SRL",
+            "application_id": "SICO",
+            "version": "V2023",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-15",
             "gtw_version": "1.0"
         },
         {
@@ -795,3 +938,5 @@
         }
     ]
 }
+
+
