@@ -577,12 +577,25 @@
             "application_id": "WLEXT-RIS",
             "version": "V.2.0",
             "doc_type": [
-                "RIS"
+                "RAD"
             ],
             "service": [
                 "VALIDATION"
             ],
             "date": "2023-05-15",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Gmed S.r.l.",
+            "application_id": "VIRTUHIS",
+            "version": "22.0.3",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-18",
             "gtw_version": "1.0"
         },
         {
