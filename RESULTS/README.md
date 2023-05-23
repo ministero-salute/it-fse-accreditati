@@ -6,6 +6,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |---|---|---|---|---|---|---|
 |AGFA GEVAERT SPA|ELEFANTE.NET|2|RAD|VALIDATION|2023-03-21|1.0|
 |agilesrl|cliniclick|1.15.9|LDO,VPS|VALIDATION|2023-05-15|1.0|
+|AO Ordine Mauriziano|BABELE_WPF|1.0|RAD|VALIDATION|2023-05-23|1.0|
 |Arbitek|XM-Lab|2.0|LAB|VALIDATION|2023-04-21|1.0|
 |ASCOM UMS|DIGISTAT|8|LDO|VALIDATION|2023-04-26|1.0|
 |ASL3 Genovese|SIVIS|v.1.0.0|LDO,VPS|VALIDATION|2023-04-19|1.0|
@@ -43,6 +44,10 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Engineering Ingegneria Informatica SpA|Eliot 3.0|20.15.04|LAB_TRASF|VALIDATION|2023-04-28|1.0|
 |Engineering Ingegneria Informatica SpA|Eliot CS|20.16.00|LAB_TRASF|VALIDATION|2023-04-28|1.0|
 |ESTAR|PLEIADE|3|LDO|VALIDATION|2023-05-17|1.0|
+|EXPRIVIA|EDOTTO|29722|VPS|VALIDATION|2023-05-23|1.0|
+|exprivia|eris|5|RAD|VALIDATION|2023-05-23|1.0|
+|Fondazione Toscana Gabriele Monasterio|C7|8.11.1|LDO|VALIDATION|2023-05-23|1.0|
+|Fondazione Toscana Gabriele Monasterio|ISA|1.15.0|LDO|VALIDATION|2023-05-23|1.0|
 |Fujifilm Italia S.p.A.|Synapse Value|1.6|RAD|VALIDATION|2023-04-19|1.0|
 |Fujifilm Italia S.p.A.|Synapse Workflow|4.33|RAD|VALIDATION|2023-04-19|1.0|
 |GESAN SRL|WLEXT-LIS|V.2.0|LIS|VALIDATION|2023-05-02|1.0|
@@ -66,6 +71,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |INFOSYS SRL|SIOWEB|1.1.2|LDO|VALIDATION|2023-04-20|1.0|
 |INSIEL|CLINICO|G4.3.0|LDO,RAD|VALIDATION|2023-04-19|1.0|
 |INSIEL|SEI|SEI 03.00.02.01|VPS|VALIDATION|2023-04-19|1.0|
+|InterSystems Italia S.r.l.|TrakCare|ITXX|VPS,RAD,LDO,RSA|VALIDATION|2023-05-23|1.0|
 |Log 80 s.r.l.|SUITE LOG80|2.0|LDO|VALIDATION|2023-04-20|1.0|
 |Log 80 s.r.l.|SUITE LOG80|1.0|LDO|VALIDATION|2023-05-02|1.0|
 |MEDIACLINICS ITALIA|MargheritaTre|V.3.3.0|LDO|VALIDATION|2023-03-23|1.0|
