@@ -27,6 +27,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "AO Ordine Mauriziano",
+            "application_id": "BABELE_WPF",
+            "version": "1.0",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-23",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Arbitek",
             "application_id": "XM-Lab",
             "version": "2.0",
@@ -508,6 +521,58 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "EXPRIVIA",
+            "application_id": "EDOTTO",
+            "version": "29722",
+            "doc_type": [
+                "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-23",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "exprivia",
+            "application_id": "eris",
+            "version": "5",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-23",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Fondazione Toscana Gabriele Monasterio",
+            "application_id": "C7",
+            "version": "8.11.1",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-23",
+            "gtw_version": "1.0"
+        },
+                {
+            "vendor": "Fondazione Toscana Gabriele Monasterio",
+            "application_id": "ISA",
+            "version": "1.15.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-23",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Fujifilm Italia S.p.A.",
             "application_id": "Synapse Value",
             "version": "1.6",
@@ -804,6 +869,19 @@
                 "VALIDATION"
             ],
             "date": "2023-04-19",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "InterSystems Italia S.r.l.",
+            "application_id": "TrakCare",
+            "version": "ITXX",
+            "doc_type": [
+                "VPS", "RAD", "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-23",
             "gtw_version": "1.0"
         },
         {
