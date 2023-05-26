@@ -135,12 +135,38 @@
             "application_id": "PriamoRIS",
             "version": "4.14.0.0",
             "doc_type": [
-                "RIS"
+                "RAD"
             ],
             "service": [
                 "VALIDATION"
             ],
             "date": "2023-05-16",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "BCS",
+            "application_id": "WINPS",
+            "version": "8.0.49.5",
+            "doc_type": [
+                "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "BiMind",
+            "application_id": "Human",
+            "version": "10.6",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-26",
             "gtw_version": "1.0"
         },
         {
@@ -365,6 +391,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "DEDALUS",
+            "application_id": "ARIANNAVACCINAZIONI",
+            "version": "2303.05.01.00",
+            "doc_type": [
+                "SING_VACC", "CERT_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-26",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "EBITSRL",
             "application_id": "SUITESTENSA",
             "version": "2.1b34.x",
@@ -505,6 +544,19 @@
                 "VALIDATION"
             ],
             "date": "2023-04-28",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "E-SC SRL",
+            "application_id": "RADX",
+            "version": "V.9",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-26",
             "gtw_version": "1.0"
         },
         {
@@ -807,6 +859,45 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "GPI SPA",
+            "application_id": "IE-OPERA",
+            "version": "5.0",
+            "doc_type": [
+                "LDO", "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GPI SPA",
+            "application_id": "IE-DEGENTI",
+            "version": "9.98_b25",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GPI SPA",
+            "application_id": "PHI",
+            "version": "1.67",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-26",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "IASI S.r.l",
             "application_id": "SISWeb",
             "version": "2.4.8",
@@ -937,6 +1028,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "METEDA S.r.l.",
+            "application_id": "MetaClinic",
+            "version": "10",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-26",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "mimedical",
             "application_id": "webrap3",
             "version": "webrap3",
@@ -947,6 +1051,58 @@
                 "VALIDATION"
             ],
             "date": "2023-03-29",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "NEXERA",
+            "application_id": "ASAP",
+            "version": "V.1.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "NEXERA",
+            "application_id": "RIS",
+            "version": "1.0",
+            "doc_type": [
+                "RIS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Nolex",
+            "application_id": "NIGR",
+            "version": "2023.04.01.1200",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Nolex",
+            "application_id": "NIGS",
+            "version": "2023.05.01.1200",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-26",
             "gtw_version": "1.0"
         },
         {
