@@ -404,6 +404,32 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "DEDALUS",
+            "application_id": "P4PVACCINAZIONI",
+            "version": "1.0.0",
+            "doc_type": [
+                "SING_VACC", "CERT_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-29",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DEDALUS SPA",
+            "application_id": "INFOCLIN",
+            "version": "2205.02.07.00",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-29",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "EBITSRL",
             "application_id": "SUITESTENSA",
             "version": "2.1b34.x",
@@ -611,7 +637,7 @@
             "date": "2023-05-23",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "Fondazione Toscana Gabriele Monasterio",
             "application_id": "ISA",
             "version": "1.15.0",
@@ -622,6 +648,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-23",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Fondazione Toscana Gabriele Monasterio",
+            "application_id": "C6",
+            "version": "6.1.3",
+            "doc_type": [
+                "RAD", "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-29",
             "gtw_version": "1.0"
         },
         {
@@ -700,6 +739,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-15",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GESAN SRL",
+            "application_id": "WLEXT-AMB",
+            "version": "V.2.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-29",
             "gtw_version": "1.0"
         },
         {
@@ -898,6 +950,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "GPI SPA",
+            "application_id": "IM-PATIDOK",
+            "version": "IT_10.0.1",
+            "doc_type": [
+                "LDO", "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-05-29",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "IASI S.r.l",
             "application_id": "SISWeb",
             "version": "2.4.8",
@@ -1071,7 +1136,7 @@
             "application_id": "RIS",
             "version": "1.0",
             "doc_type": [
-                "RIS"
+                "RAD"
             ],
             "service": [
                 "VALIDATION"
