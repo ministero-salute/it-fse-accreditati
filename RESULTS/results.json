@@ -66,6 +66,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "asl2savonese",
+            "application_id": "onesys",
+            "version": "2.6.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-06",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "ASL3 Genovese",
             "application_id": "SIVIS",
             "version": "v.1.0.0",
@@ -1002,6 +1015,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "GPI SPA",
+            "application_id": "DEGENZA",
+            "version": "20.86",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-06",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "IASI S.r.l",
             "application_id": "SISWeb",
             "version": "2.4.8",
@@ -1223,6 +1249,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Nolex",
+            "application_id": "NIGL",
+            "version": "2023.05.12.1200",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-06",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "nuvyta",
             "application_id": "nuplatform",
             "version": "2.4",
@@ -1350,6 +1389,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-05",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Synlab SDN",
+            "application_id": "Sdn.Net",
+            "version": "1.1.0.0",
+            "doc_type": [
+                "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-06",
             "gtw_version": "1.0"
         },
         {
