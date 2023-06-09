@@ -456,6 +456,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "dxc",
+            "application_id": "sinfonia-vaccini",
+            "version": "2.0",
+            "doc_type": [
+                "SING_VACC", "CERT_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-08",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "EBITSRL",
             "application_id": "SUITESTENSA",
             "version": "2.1b34.x",
@@ -664,6 +677,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "exprivia",
+            "application_id": "aurora",
+            "version": "2",
+            "doc_type": [
+                "LDO", "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-08",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Fondazione Toscana Gabriele Monasterio",
             "application_id": "C7",
             "version": "8.11.1",
@@ -733,7 +759,7 @@
             "application_id": "WLEXT-LIS",
             "version": "V.2.0",
             "doc_type": [
-                "LIS"
+                "LAB"
             ],
             "service": [
                 "VALIDATION"
@@ -1327,6 +1353,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "PRAEZISION",
+            "application_id": "ISOLABELLA",
+            "version": "3.29.0.X",
+            "doc_type": [
+                "VPS", "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-08",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "S3K SPA",
             "application_id": "JHIS",
             "version": "423.01.01",
@@ -1467,6 +1506,19 @@
                 "VALIDATION"
             ],
             "date": "2023-04-13",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Zucchetti Centro Sistema s.p.a",
+            "application_id": "JLAB",
+            "version": "v.9.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-08",
             "gtw_version": "1.0"
         }
     ]
