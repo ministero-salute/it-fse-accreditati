@@ -1,6 +1,19 @@
 {
     "results": [
         {
+            "vendor": "ACSINFORMATICA",
+            "application_id": "WINGLA",
+            "version": "1",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-16",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "AGFA GEVAERT SPA",
             "application_id": "ELEFANTE.NET",
             "version": "2",
@@ -1054,6 +1067,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "GPI SPA",
+            "application_id": "AIRO",
+            "version": "2.7.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-16",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "IASI S.r.l",
             "application_id": "SISWeb",
             "version": "2.4.8",
@@ -1353,6 +1379,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Philips",
+            "application_id": "VuePACS-SignPlugin",
+            "version": "1.0",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-16",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "PRAEZISION",
             "application_id": "ISOLABELLA",
             "version": "3.29.0.X",
@@ -1428,6 +1467,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-05",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Siemens",
+            "application_id": "BeSimple",
+            "version": "2.0",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-16",
             "gtw_version": "1.0"
         },
         {
