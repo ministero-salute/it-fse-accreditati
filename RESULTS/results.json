@@ -274,6 +274,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Data Processing SPA",
+            "application_id": "Smart*Health",
+            "version": "4.5.048",
+            "doc_type": [
+                "LDO", "RSA", "VPS", "SING_VACC", "CERT_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-26",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "DEDALUS SPA",
             "application_id": "CONCERTO",
             "version": "22.1.0",
@@ -466,6 +479,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-29",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DEDALUS SPA",
+            "application_id": "LDOTO5",
+            "version": "2.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-26",
             "gtw_version": "1.0"
         },
         {
@@ -1119,6 +1145,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "INNOVATION GROUP",
+            "application_id": "NOVAMED",
+            "version": "8.4",
+            "doc_type": [
+                "LDO", "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-26",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "INSIEL",
             "application_id": "CLINICO",
             "version": "G4.3.0",
@@ -1155,6 +1194,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-23",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "KIRANET",
+            "application_id": "FIDCARE",
+            "version": "V.5.4.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-26",
             "gtw_version": "1.0"
         },
         {
@@ -1327,6 +1379,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Olomedia",
+            "application_id": "oloHealth",
+            "version": "V.3.0.0",
+            "doc_type": [
+                "RSA", "LDO", "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-26",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "OnitGroup",
             "application_id": "OnVac",
             "version": "V.4.43.0.0",
@@ -1379,6 +1444,32 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "OnitGroup",
+            "application_id": "SIAMA",
+            "version": "4",
+            "doc_type": [
+                "SING_VACC", "CERT_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Penta Sistemi srl",
+            "application_id": "GSD.System",
+            "version": "4.4",
+            "doc_type": [
+                "LAB", "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-26",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Philips",
             "application_id": "VuePACS-SignPlugin",
             "version": "1.0",
@@ -1402,6 +1493,19 @@
                 "VALIDATION"
             ],
             "date": "2023-06-08",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Regione Puglia",
+            "application_id": "CCE",
+            "version": "1",
+            "doc_type": [
+                "RSA", "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-26",
             "gtw_version": "1.0"
         },
         {
