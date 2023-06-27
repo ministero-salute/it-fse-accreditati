@@ -1,11 +1,10 @@
 from typing import List
 import jinja2
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 import json
 from pathlib import Path
 import xlsxwriter
 import csv
-
 
 RESULTS_PATH = Path("RESULTS/results.json")
 
@@ -21,10 +20,11 @@ class ResultLine:
     vendor: str
     application_id: str
     version: str
-    doc_type: List[str]
-    service: List[str]
+    doc_type: list[str]
+    service: list[str]
     date: str
     gtw_version: str
+    equiv_releases: list[str] = field(default_factory=list)
 
     def md_table_line(self) -> str:
         return (
@@ -34,6 +34,7 @@ class ResultLine:
                     self.vendor.replace("|", r"\|"),
                     self.application_id.replace("|", r"\|"),
                     self.version.replace("|", r"\|"),
+                    ", ".join(map(lambda x: x.replace("|", r"\|"), self.equiv_releases)),
                     ",".join(map(lambda x: x.replace("|", r"\|"), self.doc_type)),
                     ",".join(map(lambda x: x.replace("|", r"\|"), self.service)),
                     self.date.replace("|", r"\|"),
@@ -48,6 +49,7 @@ class ResultLine:
             self.vendor,
             self.application_id,
             self.version,
+            ", ".join(self.equiv_releases),
             ",".join(self.doc_type),
             ",".join(self.service),
             self.date,
@@ -95,6 +97,7 @@ if __name__ == "__main__":
                 "Fornitore",
                 "Applicativo",
                 "Versione",
+                "Versioni Equivalenti",
                 "Tipo Documento",
                 "Servizio",
                 "Data validazione",
