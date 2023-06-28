@@ -696,6 +696,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "EXPLORA CONSULTING SRL",
+            "application_id": "VLFSE",
+            "version": "1.40",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-28",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "EXPRIVIA",
             "application_id": "EDOTTO",
             "version": "29722",
@@ -745,6 +758,19 @@
                 "VALIDATION"
             ],
             "date": "2023-06-27",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "EXPRIVIA",
+            "application_id": "CCE_COSENZA",
+            "version": "1",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-28",
             "gtw_version": "1.0"
         },
         {
@@ -1122,6 +1148,19 @@
                 "VALIDATION"
             ],
             "date": "2023-06-16",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GPI SPA",
+            "application_id": "SSI",
+            "version": "2.0",
+            "doc_type": [
+                "LDO", "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-28",
             "gtw_version": "1.0"
         },
         {
@@ -1710,3 +1749,4 @@
         }
     ]
 }
+
