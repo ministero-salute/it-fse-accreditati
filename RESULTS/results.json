@@ -342,6 +342,12 @@
             "vendor": "Dedalus",
             "application_id": "ER4H",
             "version": "2.7.1",
+            "equiv_releases": [
+                "2.7.2",
+                "3.1.0",
+                "3.1.1",
+                "3.1.2"
+            ],
             "doc_type": [
                 "VPS"
             ],
@@ -726,6 +732,19 @@
                 "VALIDATION"
             ],
             "date": "2023-06-08",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "exprivia",
+            "application_id": "eEmergency",
+            "version": "1",
+            "doc_type": [
+                "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-27",
             "gtw_version": "1.0"
         },
         {
@@ -1408,6 +1427,11 @@
             "vendor": "OnitGroup",
             "application_id": "SIRVa",
             "version": "V.4.42.0.0",
+            "equiv_releases": [
+                "V.4",
+                "V.4.43",
+                "V.4.44"
+            ],
             "doc_type": [
                 "SING_VACC", "CERT_VACC"
             ],
@@ -1616,6 +1640,9 @@
             "vendor": "TESI SPA",
             "application_id": "WINLAB",
             "version": "5.0",
+            "equiv_releases": [
+                "version5.2"
+            ],
             "doc_type": [
                 "LAB"
             ],
@@ -1629,6 +1656,10 @@
             "vendor": "TESI SPA",
             "application_id": "WEBLAB",
             "version": "2.0",
+            "equiv_releases": [
+                "version2.11",
+                "version3.0"
+            ],
             "doc_type": [
                 "LAB"
             ],
