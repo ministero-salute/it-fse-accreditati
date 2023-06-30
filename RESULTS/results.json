@@ -53,6 +53,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "APSS",
+            "application_id": "SIO",
+            "version": "2.12.0",
+            "doc_type": [
+                "LDO", "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-30",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Arbitek",
             "application_id": "XM-Lab",
             "version": "2.0",
@@ -92,6 +105,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "asl2savonese",
+            "application_id": "onesys-ps",
+            "version": "2.6.0",
+            "doc_type": [
+                "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-30",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "ASL3 Genovese",
             "application_id": "SIVIS",
             "version": "v.1.0.0",
@@ -115,6 +141,32 @@
                 "VALIDATION"
             ],
             "date": "2023-05-05",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "ASL5",
+            "application_id": "GestioneVaccinazioni",
+            "version": "1.0",
+            "doc_type": [
+                "SING_VACC" , "CERT_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-30",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "ASL5",
+            "application_id": "PHTRACK",
+            "version": "1.0",
+            "doc_type": [
+                "SING_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-30",
             "gtw_version": "1.0"
         },
         {
@@ -514,6 +566,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "e-Shark S.r.l.",
+            "application_id": "Faith",
+            "version": "2.8.4",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-30",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "EBITSRL",
             "application_id": "SUITESTENSA",
             "version": "2.1b34.x",
@@ -693,6 +758,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "EUROMEDICAL",
+            "application_id": "MEDIWEB",
+            "version": "1.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-30",
             "gtw_version": "1.0"
         },
         {
@@ -1722,6 +1800,32 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "topgate",
+            "application_id": "letteradimissione",
+            "version": "1.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-30",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "topgate",
+            "application_id": "skipper",
+            "version": "1.0",
+            "doc_type": [
+                "CERT_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-06-30",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Werfen S.p.A",
             "application_id": "Modulab",
             "version": "4.5.0",
@@ -1749,4 +1853,3 @@
         }
     ]
 }
-
