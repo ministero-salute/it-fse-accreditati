@@ -212,6 +212,9 @@
             "vendor": "BCS",
             "application_id": "PriamoRIS",
             "version": "4.14.0.0",
+            "equiv_releases": [
+                "4.15.0.0"
+            ],
             "doc_type": [
                 "RAD"
             ],
@@ -326,6 +329,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "D.EVO",
+            "application_id": "DEVORIS",
+            "version": "1.0",
+            "doc_type": [
+                "LAB", "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-07-06",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Data Processing SPA",
             "application_id": "Smart*Health",
             "version": "4.5.048",
@@ -381,6 +397,12 @@
             "vendor": "Dedalus",
             "application_id": "GALILEO",
             "version": "1.5.7",
+            "equiv_releases": [
+                "1.5.4",
+                "1.5.5",
+                "1.5.6",
+                "1.5.8"
+            ],
             "doc_type": [
                 "LDO"
             ],
@@ -1650,6 +1672,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "xenia-reply",
+            "application_id": "appheal-ldo",
+            "version": "1.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-07-06",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "S3K SPA",
             "application_id": "JHIS",
             "version": "23.01.01",
@@ -1853,3 +1888,4 @@
         }
     ]
 }
+
