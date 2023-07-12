@@ -588,6 +588,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "DTS CONSULTING SRL",
+            "application_id": "DTSHIS",
+            "version": "1.0",
+            "doc_type": [
+                "LAB", "LDO", "RAD", "VPS", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-07-11",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "dxc",
             "application_id": "sinfonia-vaccini",
             "version": "2.0",
@@ -1459,6 +1472,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "NBS",
+            "application_id": "networksanitario",
+            "version": "v.4.10.106",
+            "doc_type": [
+                "LDO", "RAD", "RSA", "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-07-12",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "NEXERA",
             "application_id": "ASAP",
             "version": "V.1.0",
@@ -1669,6 +1695,19 @@
                 "VALIDATION"
             ],
             "date": "2023-06-08",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "PrismaNet",
+            "application_id": "MeFiSto",
+            "version": "V.1.3",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-07-11",
             "gtw_version": "1.0"
         },
         {
@@ -1914,5 +1953,7 @@
         }
     ]
 }
+
+
 
 
