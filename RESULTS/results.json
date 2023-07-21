@@ -53,6 +53,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "AOUCAREGGI",
+            "application_id": "ARCHIMED",
+            "version": "8.48",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-07-21",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "APSS",
             "application_id": "SIO",
             "version": "2.12.0",
@@ -76,6 +89,19 @@
                 "VALIDATION"
             ],
             "date": "2023-04-21",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "ARIA SPA",
+            "application_id": "CDA2VACC",
+            "version": "1.0",
+            "doc_type": [
+                "CERT_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-07-19",
             "gtw_version": "1.0"
         },
         {
@@ -585,6 +611,19 @@
                 "VALIDATION"
             ],
             "date": "2023-07-07",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DEDALUS SPA",
+            "application_id": "CONCERTO",
+            "version": "22.1.1",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-07-19",
             "gtw_version": "1.0"
         },
         {
@@ -1163,6 +1202,9 @@
             "vendor": "GPI_SPA",
             "application_id": "AMICO",
             "version": "2.21.2",
+            "equiv_releases": [
+                "2.22.0"
+            ],
             "doc_type": [
                 "LDO"
             ],
@@ -1446,6 +1488,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Medusa Software",
+            "application_id": "Urania FSE",
+            "version": "v.1.0.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-07-17",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "METEDA S.r.l.",
             "application_id": "MetaClinic",
             "version": "10",
@@ -1685,6 +1740,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "POLIS-NET SRL",
+            "application_id": "SIS4CARE",
+            "version": "v.1.1.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-07-21",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "PRAEZISION",
             "application_id": "ISOLABELLA",
             "version": "3.29.0.X",
@@ -1815,6 +1883,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "SINCON S.R.L",
+            "application_id": "GIAVA",
+            "version": "6",
+            "doc_type": [
+                "SING_VACC", "CERT_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-07-19",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Synlab SDN",
             "application_id": "Sdn.Net",
             "version": "1.1.0.0",
@@ -1858,7 +1939,7 @@
             "application_id": "WINLAB",
             "version": "5.0",
             "equiv_releases": [
-                "version5.2"
+                "5.2"
             ],
             "doc_type": [
                 "LAB"
@@ -1874,8 +1955,8 @@
             "application_id": "WEBLAB",
             "version": "2.0",
             "equiv_releases": [
-                "version2.11",
-                "version3.0"
+                "2.11",
+                "3.0"
             ],
             "doc_type": [
                 "LAB"
@@ -1953,7 +2034,6 @@
         }
     ]
 }
-
 
 
 
