@@ -53,6 +53,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "AO Ordine Mauriziano",
+            "application_id": "BABELE_WPF",
+            "version": "1.0",
+            "doc_type": [
+                "RAD", "LDO", "VPS", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-07-26",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "AOUCAREGGI",
             "application_id": "ARCHIMED",
             "version": "8.48",
@@ -718,6 +731,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "eliossuite",
+            "application_id": "0012023",
+            "version": "3",
+            "doc_type": [
+                "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-07-26",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Engineering Ingegneria Informatica S.p.A.",
             "application_id": "OpenLisWeb",
             "version": "21.01.00",
@@ -1371,6 +1397,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Innogea srl",
+            "application_id": "CareMed",
+            "version": "1.0",
+            "doc_type": [
+                "LAB", "LDO", "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-07-26",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "INNOVATION GROUP",
             "application_id": "NOVAMED",
             "version": "8.4",
@@ -1880,6 +1919,19 @@
                 "VALIDATION"
             ],
             "date": "2023-06-16",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "sinapsys",
+            "application_id": "1.0.1",
+            "version": "1",
+            "doc_type": [
+                "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-07-26",
             "gtw_version": "1.0"
         },
         {
