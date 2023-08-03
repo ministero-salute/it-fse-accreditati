@@ -565,6 +565,9 @@
             "vendor": "DEDALUS",
             "application_id": "ARIANNAVACCINAZIONI",
             "version": "2303.05.01.00",
+            "equiv_releases": [
+                "2308.06.00.00"
+            ],
             "doc_type": [
                 "SING_VACC", "CERT_VACC"
             ],
@@ -637,6 +640,19 @@
                 "VALIDATION"
             ],
             "date": "2023-07-19",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Dedalus",
+            "application_id": "ELEKTRA",
+            "version": "4.2",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-08-03",
             "gtw_version": "1.0"
         },
         {
@@ -858,6 +874,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "E-SC SRL",
+            "application_id": "RADX",
+            "version": "V.9",
+            "doc_type": [
+                "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-08-03",
             "gtw_version": "1.0"
         },
         {
@@ -1257,6 +1286,14 @@
             "vendor": "GPI SPA",
             "application_id": "IE-OPERA",
             "version": "5.0",
+            "equiv_releases": [
+                "5.10", 
+                "5.11", 
+                "5.13", 
+                "5.13.3", 
+                "5.14", 
+                "5.22"
+            ],
             "doc_type": [
                 "LDO", "VPS"
             ],
@@ -2059,6 +2096,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "topgate",
+            "application_id": "skipper",
+            "version": "1.0",
+            "doc_type": [
+                "CERT_VACC", "SING_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-08-03",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Werfen S.p.A",
             "application_id": "Modulab",
             "version": "4.5.0",
@@ -2086,6 +2136,3 @@
         }
     ]
 }
-
-
-
