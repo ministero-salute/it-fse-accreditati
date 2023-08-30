@@ -40,6 +40,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "agilesrl",
+            "application_id": "cliniclick",
+            "version": "1.15.9",
+            "doc_type": [
+                "LDO", "VPS", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-08-30",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "AO Ordine Mauriziano",
             "application_id": "BABELE_WPF",
             "version": "1.0",
@@ -277,6 +290,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "BCS",
+            "application_id": "PriamoAMB",
+            "version": "4.16.0.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-08-30",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "BiMind",
             "application_id": "Human",
             "version": "10.6",
@@ -300,6 +326,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-03",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "BOLLINOITSPA",
+            "application_id": "BOLLINOFSE",
+            "version": "1.0",
+            "doc_type": [
+                "LAB", "RAD", "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-08-30",
             "gtw_version": "1.0"
         },
         {
@@ -526,6 +565,10 @@
             "vendor": "DEDALUS SPA",
             "application_id": "HERO",
             "version": "5.2",
+            "equiv_releases": [
+                "5.3",
+                "5.4"
+            ],
             "doc_type": [
                 "VPS", "LDO", "RSA"
             ],
@@ -994,6 +1037,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Exprivia",
+            "application_id": "ClinicalCare",
+            "version": "7",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-08-30",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Fondazione Toscana Gabriele Monasterio",
             "application_id": "C7",
             "version": "8.11.1",
@@ -1056,6 +1112,19 @@
                 "VALIDATION"
             ],
             "date": "2023-04-19",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GEMSI",
+            "application_id": "CENTRICITYRIS",
+            "version": "7",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-08-30",
             "gtw_version": "1.0"
         },
         {
@@ -1421,6 +1490,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Infordata Digital Health Solutions",
+            "application_id": "AstroL@bI/O",
+            "version": "11.231.650",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-08-30",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "INFOSYS SRL",
             "application_id": "SIOWEB",
             "version": "1.1.2",
@@ -1483,6 +1565,19 @@
                 "VALIDATION"
             ],
             "date": "2023-04-19",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "INSIEL",
+            "application_id": "CLINICO",
+            "version": "G4.3.10",
+            "doc_type": [
+                "LDO", "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-08-30",
             "gtw_version": "1.0"
         },
         {
@@ -2136,3 +2231,4 @@
         }
     ]
 }
+
