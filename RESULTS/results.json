@@ -699,6 +699,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "DHARMA",
+            "application_id": "HEALTHNET",
+            "version": "0.1",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-09-05",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "DTS CONSULTING SRL",
             "application_id": "DTSHIS",
             "version": "1.0",
@@ -1047,6 +1060,19 @@
                 "VALIDATION"
             ],
             "date": "2023-08-30",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "exprivia",
+            "application_id": "evisit",
+            "version": "5",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-09-01",
             "gtw_version": "1.0"
         },
         {
@@ -1516,6 +1542,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "INFOSYS SRL",
+            "application_id": "SIOWEB-PAINT",
+            "version": "1.1.2",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-09-01",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Innogea srl",
             "application_id": "CareMed",
             "version": "1.0",
@@ -1908,6 +1947,19 @@
                 "VALIDATION"
             ],
             "date": "2023-06-16",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Philips",
+            "application_id": "VueRIS-SignPlugin",
+            "version": "1.0",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-09-05",
             "gtw_version": "1.0"
         },
         {
