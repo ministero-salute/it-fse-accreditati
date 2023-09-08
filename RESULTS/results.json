@@ -420,6 +420,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "D-MEDICAL SRL",
+            "application_id": "MEDINET-LAB",
+            "version": "V.3.15.0.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-09-08",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Data Processing SPA",
             "application_id": "Smart*Health",
             "version": "4.5.048",
@@ -774,6 +787,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-16",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "EDINEXT_SRL",
+            "application_id": "AVR",
+            "version": "v3.0.0",
+            "doc_type": [
+                "SING_VACC", "CERT_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-09-06",
             "gtw_version": "1.0"
         },
         {
