@@ -5,6 +5,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Fornitore|Applicativo|Versione|Versioni Equivalenti|Tipo Documento|Servizio|Data validazione|Versione Gateway|
 |---|---|---|---|---|---|---|---|
 |ACSINFORMATICA|WINGLA|1||LAB|VALIDATION|2023-06-16|1.0|
+|ACTA Service srl|ACTALAB|5.48.1660||LAB|VALIDATION|2023-09-15|1.0|
 |AGFA GEVAERT SPA|ELEFANTE.NET|2||RAD|VALIDATION|2023-03-21|1.0|
 |agilesrl|cliniclick|1.15.9||LDO,VPS|VALIDATION|2023-05-15|1.0|
 |agilesrl|cliniclick|1.15.9||LDO,VPS,RSA|VALIDATION|2023-08-30|1.0|
@@ -33,6 +34,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |CB Sistemi|StudioLAB|3.3.0.0||LAB|VALIDATION|2023-05-17|1.0|
 |CiD Software SpA|ADT|3.0||LDO|VALIDATION|2023-05-02|1.0|
 |CiD Software SpA|PS|3.0||VPS|VALIDATION|2023-05-02|1.0|
+|Connect Informatics SRL|Equipe FSE Gateway|V1.0||LDO,RAD,RSA|VALIDATION|2023-09-15|1.0|
 |CONSORZIO METIS|SISPC|V.23||SING_VACC,CERT_VACC|VALIDATION|2023-06-05|1.0|
 |Cooperativa EDP La Traccia|Gepadial|V.2.0.3||LDO,RSA|VALIDATION|2023-05-08|1.0|
 |D.EVO|DEVORIS|1.0||LAB,RAD|VALIDATION|2023-07-06|1.0|
@@ -172,6 +174,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |TES|WSP-S|V10||RSA|VALIDATION|2023-07-07|1.0|
 |TESI SPA|WINLAB|5.0|5.2|LAB|VALIDATION|2023-04-27|1.0|
 |TESI SPA|WEBLAB|2.0|2.11, 3.0|LAB|VALIDATION|2023-04-27|1.0|
+|TESI SPA|ECOPLUS|4.0||RSA|VALIDATION|2023-09-15|1.0|
 |THEMIX ITALIA SRL|WLAB|126.2.c.a2||LAB|VALIDATION|2023-04-06|1.0|
 |topgate|letteradimissione|1.0||LDO|VALIDATION|2023-06-30|1.0|
 |topgate|skipper|1.0||CERT_VACC|VALIDATION|2023-06-30|1.0|
