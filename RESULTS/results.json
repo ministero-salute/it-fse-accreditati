@@ -14,6 +14,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "ACTA Service srl",
+            "application_id": "ACTALAB",
+            "version": "5.48.1660",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-09-15",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "AGFA GEVAERT SPA",
             "application_id": "ELEFANTE.NET",
             "version": "2",
@@ -378,6 +391,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-02",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Connect Informatics SRL",
+            "application_id": "Equipe FSE Gateway",
+            "version": "V1.0",
+            "doc_type": [
+                "LDO", "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-09-15",
             "gtw_version": "1.0"
         },
         {
@@ -2230,6 +2256,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "TESI SPA",
+            "application_id": "ECOPLUS",
+            "version": "4.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-09-15",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "THEMIX ITALIA SRL",
             "application_id": "WLAB",
             "version": "126.2.c.a2",
@@ -2309,4 +2348,5 @@
         }
     ]
 }
+
 
