@@ -2184,6 +2184,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "SPE.IT s.r.l.",
+            "application_id": "FSE INI Adapter",
+            "version": "1.0",
+            "doc_type": [
+                "LAB", "RAD", "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-09-21",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Synlab SDN",
             "application_id": "Sdn.Net",
             "version": "1.1.0.0",
@@ -2259,6 +2272,9 @@
             "vendor": "TESI SPA",
             "application_id": "ECOPLUS",
             "version": "4.0",
+            "equiv_releases": [
+                "5.0"
+            ],
             "doc_type": [
                 "RSA"
             ],
@@ -2318,6 +2334,19 @@
                 "VALIDATION"
             ],
             "date": "2023-08-03",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "WECONSTUDIO",
+            "application_id": "CDCSM",
+            "version": "1.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-09-21",
             "gtw_version": "1.0"
         },
         {
