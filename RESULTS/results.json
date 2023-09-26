@@ -1142,6 +1142,19 @@
         },
         {
             "vendor": "Fondazione Toscana Gabriele Monasterio",
+            "application_id": "C7",
+            "version": "8.11.1",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-09-25",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Fondazione Toscana Gabriele Monasterio",
             "application_id": "ISA",
             "version": "1.15.0",
             "doc_type": [
@@ -2337,6 +2350,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "topgate",
+            "application_id": "topamb",
+            "version": "1.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-09-25",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "WECONSTUDIO",
             "application_id": "CDCSM",
             "version": "1.0",
@@ -2377,5 +2403,3 @@
         }
     ]
 }
-
-
