@@ -90,6 +90,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Exprivia|ClinicalCare|7||LDO,RSA|VALIDATION|2023-08-30|1.0|
 |exprivia|evisit|5||RSA|VALIDATION|2023-09-01|1.0|
 |Fondazione Toscana Gabriele Monasterio|C7|8.11.1||LDO|VALIDATION|2023-05-23|1.0|
+|Fondazione Toscana Gabriele Monasterio|C7|8.11.1||LDO,RSA|VALIDATION|2023-09-25|1.0|
 |Fondazione Toscana Gabriele Monasterio|ISA|1.15.0||LDO|VALIDATION|2023-05-23|1.0|
 |Fondazione Toscana Gabriele Monasterio|C6|6.1.3||RAD,LAB|VALIDATION|2023-05-29|1.0|
 |Fujifilm Italia S.p.A.|Synapse Value|1.6||RAD|VALIDATION|2023-04-19|1.0|
@@ -180,6 +181,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |topgate|letteradimissione|1.0||LDO|VALIDATION|2023-06-30|1.0|
 |topgate|skipper|1.0||CERT_VACC|VALIDATION|2023-06-30|1.0|
 |topgate|skipper|1.0||CERT_VACC,SING_VACC|VALIDATION|2023-08-03|1.0|
+|topgate|topamb|1.0||RSA|VALIDATION|2023-09-25|1.0|
 |WECONSTUDIO|CDCSM|1.0||LDO|VALIDATION|2023-09-21|1.0|
 |Werfen S.p.A|Modulab|4.5.0||LAB|VALIDATION|2023-04-13|1.0|
 |Zucchetti Centro Sistema s.p.a|JLAB|v.9.0||LAB|VALIDATION|2023-06-08|1.0|
