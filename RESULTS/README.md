@@ -140,6 +140,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Medusa Software|Urania FSE|v.1.0.0||LAB|VALIDATION|2023-07-17|1.0|
 |METEDA S.r.l.|MetaClinic|10||RSA|VALIDATION|2023-05-26|1.0|
 |mimedical|webrap3|webrap3||RAD|VALIDATION|2023-03-29|1.0|
+|MultimediaSrl|Medica|3.2.0.0||RAD,RSA,LDO,LAB|VALIDATION|2023-09-29|1.0|
 |NBS|networksanitario|v.4.10.106||LDO,RAD,RSA,VPS|VALIDATION|2023-07-12|1.0|
 |NEXERA|ASAP|V.1.0||LDO|VALIDATION|2023-05-26|1.0|
 |NEXERA|RIS|1.0||RAD|VALIDATION|2023-05-26|1.0|
