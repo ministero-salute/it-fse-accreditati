@@ -1802,6 +1802,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "MultimediaSrl",
+            "application_id": "Medica",
+            "version": "3.2.0.0",
+            "doc_type": [
+                "RAD", "RSA","LDO", "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-09-29",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "NBS",
             "application_id": "networksanitario",
             "version": "v.4.10.106",
@@ -2403,3 +2416,4 @@
         }
     ]
 }
+
