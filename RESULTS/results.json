@@ -368,6 +368,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Ciditech",
+            "application_id": "Point",
+            "version": "6.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-18",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "CiD Software SpA",
             "application_id": "ADT",
             "version": "3.0",
@@ -469,6 +482,32 @@
                 "VALIDATION"
             ],
             "date": "2023-06-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DATASOFT SRL",
+            "application_id": "LABGUI",
+            "version": "3.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-20",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DEDALO SOFTWARE",
+            "application_id": "DS LABO",
+            "version": "1.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-20",
             "gtw_version": "1.0"
         },
         {
@@ -735,6 +774,32 @@
                 "VALIDATION"
             ],
             "date": "2023-08-03",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DEDALUS SPA",
+            "application_id": "INVITRO LIS",
+            "version": "1.4",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-18",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Dedalus",
+            "application_id": "4C Suite",
+            "version": "6.1",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-20",
             "gtw_version": "1.0"
         },
         {
@@ -1284,6 +1349,45 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "GESANTHCS SRL",
+            "application_id": "ENERGY-LIS",
+            "version": "V2.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-20",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GESANTHCS SRL",
+            "application_id": "ENERGY-RIS",
+            "version": "V2.0",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-20",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Giotto Informatica",
+            "application_id": "LeoLab",
+            "version": "5.0/2023",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-20",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Gmed S.r.l.",
             "application_id": "VIRTUHIS",
             "version": "22.0.3",
@@ -1737,6 +1841,32 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Log 80 s.r.l.",
+            "application_id": "MEDICAL 80",
+            "version": "1.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-20",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "MCA S.A.S.",
+            "application_id": "LAB2000",
+            "version": "2.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-20",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "MEDIACLINICS ITALIA",
             "application_id": "MargheritaTre",
             "version": "V.3.3.0",
@@ -1916,6 +2046,32 @@
                 "VALIDATION"
             ],
             "date": "2023-05-05",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "o3enterprise",
+            "application_id": "mis",
+            "version": "3.10.0",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "o3enterprise",
+            "application_id": "ris",
+            "version": "7.0.0",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-17",
             "gtw_version": "1.0"
         },
         {
@@ -2119,6 +2275,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "santec_vendor",
+            "application_id": "santec_ecaresuite",
+            "version": "5.0.0",
+            "doc_type": [
+                "RSA", "LDO", "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-20",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "SCS SRL",
             "application_id": "ALCHYMIA",
             "version": "1.0.8",
@@ -2311,6 +2480,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "TESI SPA",
+            "application_id": "DECIA",
+            "version": "4.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-20",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "THEMIX ITALIA SRL",
             "application_id": "WLAB",
             "version": "126.2.c.a2",
@@ -2416,4 +2598,3 @@
         }
     ]
 }
-
