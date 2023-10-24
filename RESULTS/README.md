@@ -4,6 +4,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 
 |Fornitore|Applicativo|Versione|Versioni Equivalenti|Tipo Documento|Servizio|Data validazione|Versione Gateway|
 |---|---|---|---|---|---|---|---|
+|4WardPro|8055060650018|1.2023.2.15||LDO|VALIDATION|2023-10-24|1.0|
 |ACSINFORMATICA|WINGLA|1||LAB|VALIDATION|2023-06-16|1.0|
 |ACTA Service srl|ACTALAB|5.48.1660||LAB|VALIDATION|2023-09-15|1.0|
 |AGFA GEVAERT SPA|ELEFANTE.NET|2||RAD|VALIDATION|2023-03-21|1.0|
@@ -40,6 +41,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Cooperativa EDP La Traccia|Gepadial|V.2.0.3||LDO,RSA|VALIDATION|2023-05-08|1.0|
 |D.EVO|DEVORIS|1.0||LAB,RAD|VALIDATION|2023-07-06|1.0|
 |D-MEDICAL SRL|MEDINET-LAB|V.3.15.0.0||LAB|VALIDATION|2023-09-08|1.0|
+|D-MEDICAL SRL|MEDINET-RAD|V.3.15.0.0||RAD|VALIDATION|2023-10-24|1.0|
 |Data Processing SPA|Smart*Health|4.5.048||LDO,RSA,VPS,SING_VACC,CERT_VACC|VALIDATION|2023-06-26|1.0|
 |DATASOFT SRL|LABGUI|3.0||LAB|VALIDATION|2023-10-20|1.0|
 |DEDALO SOFTWARE|DS LABO|1.0||LAB|VALIDATION|2023-10-20|1.0|
@@ -97,6 +99,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Fondazione Toscana Gabriele Monasterio|C7|8.11.1||LDO|VALIDATION|2023-05-23|1.0|
 |Fondazione Toscana Gabriele Monasterio|C7|8.11.1||LDO,RSA|VALIDATION|2023-09-25|1.0|
 |Fondazione Toscana Gabriele Monasterio|ISA|1.15.0||LDO|VALIDATION|2023-05-23|1.0|
+|Fondazione Toscana Gabriele Monasterio|ISA|1.15.0||LDO,RSA|VALIDATION|2023-10-24|1.0|
 |Fondazione Toscana Gabriele Monasterio|C6|6.1.3||RAD,LAB|VALIDATION|2023-05-29|1.0|
 |Fujifilm Italia S.p.A.|Synapse Value|1.6||RAD|VALIDATION|2023-04-19|1.0|
 |Fujifilm Italia S.p.A.|Synapse Workflow|4.33||RAD|VALIDATION|2023-04-19|1.0|
@@ -108,6 +111,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |GESAN SRL|WLEXT-AMB|V.2.0||RSA|VALIDATION|2023-05-29|1.0|
 |GESANTHCS SRL|ENERGY-LIS|V2.0||LAB|VALIDATION|2023-10-20|1.0|
 |GESANTHCS SRL|ENERGY-RIS|V2.0||RAD|VALIDATION|2023-10-20|1.0|
+|GESANTHCS SRL|ENERGY-RSA|V2.0||RSA|VALIDATION|2023-10-24|1.0|
 |Giotto Informatica|LeoLab|5.0/2023||LAB|VALIDATION|2023-10-20|1.0|
 |Gmed S.r.l.|VIRTUHIS|22.0.3||RAD|VALIDATION|2023-05-18|1.0|
 |GPI_SPA|CCE_Cartella_Clinica_Elettronica|14||LDO|VALIDATION|2023-04-19|1.0|
@@ -129,6 +133,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |GPI SPA|DEGENZA|20.86||LDO|VALIDATION|2023-06-06|1.0|
 |GPI SPA|AIRO|2.7.0||LDO|VALIDATION|2023-06-16|1.0|
 |GPI SPA|SSI|2.0||LDO,VPS|VALIDATION|2023-06-28|1.0|
+|Hi.Tech|PS3|3.0.0||VPS|VALIDATION|2023-10-24|1.0|
 |IASI S.r.l|SISWeb|2.4.8||LDO,VPS,RAD,RSA|VALIDATION|2023-04-19|1.0|
 |Infonext S.r.l.|eVac|3.0.0||SING_VACC,CERT_VACC|VALIDATION|2023-04-19|1.0|
 |Infordata Digital Health Solutions|AstroL@bI/O|11.231.650||LAB|VALIDATION|2023-08-30|1.0|
@@ -141,6 +146,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |INSIEL|CLINICO|G4.3.10||LDO,RAD,RSA|VALIDATION|2023-08-30|1.0|
 |InterSystems Italia S.r.l.|TrakCare|ITXX||VPS,RAD,LDO,RSA|VALIDATION|2023-05-23|1.0|
 |KIRANET|FIDCARE|5.4.0||RSA|VALIDATION|2023-06-26|1.0|
+|KOSGROUP|NETHOSPITAL|2.5.0||RSA,LDO|VALIDATION|2023-10-24|1.0|
 |Log 80 s.r.l.|SUITE LOG80|2.0||LDO|VALIDATION|2023-04-20|1.0|
 |Log 80 s.r.l.|SUITE LOG80|1.0||LDO|VALIDATION|2023-05-02|1.0|
 |Log 80 s.r.l.|MEDICAL 80|1.0||LDO|VALIDATION|2023-10-20|1.0|
@@ -197,6 +203,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |topgate|skipper|1.0||CERT_VACC|VALIDATION|2023-06-30|1.0|
 |topgate|skipper|1.0||CERT_VACC,SING_VACC|VALIDATION|2023-08-03|1.0|
 |topgate|topamb|1.0||RSA|VALIDATION|2023-09-25|1.0|
+|Unicode srl|8054145120002|2023.02.10.224||LDO|VALIDATION|2023-10-24|1.0|
 |WECONSTUDIO|CDCSM|1.0||LDO|VALIDATION|2023-09-21|1.0|
 |Werfen S.p.A|Modulab|4.5.0||LAB|VALIDATION|2023-04-13|1.0|
 |Zucchetti Centro Sistema s.p.a|JLAB|v.9.0||LAB|VALIDATION|2023-06-08|1.0|
