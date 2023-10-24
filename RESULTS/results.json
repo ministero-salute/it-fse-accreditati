@@ -1,6 +1,19 @@
 {
     "results": [
         {
+            "vendor": "4WardPro",
+            "application_id": "8055060650018",
+            "version": "1.2023.2.15",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-24",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "ACSINFORMATICA",
             "application_id": "WINGLA",
             "version": "1",
@@ -469,6 +482,19 @@
                 "VALIDATION"
             ],
             "date": "2023-09-08",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "D-MEDICAL SRL",
+            "application_id": "MEDINET-RAD",
+            "version": "V.3.15.0.0",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-24",
             "gtw_version": "1.0"
         },
         {
@@ -1233,6 +1259,19 @@
         },
         {
             "vendor": "Fondazione Toscana Gabriele Monasterio",
+            "application_id": "ISA",
+            "version": "1.15.0",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-24",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Fondazione Toscana Gabriele Monasterio",
             "application_id": "C6",
             "version": "6.1.3",
             "doc_type": [
@@ -1372,6 +1411,19 @@
                 "VALIDATION"
             ],
             "date": "2023-10-20",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GESANTHCS SRL",
+            "application_id": "ENERGY-RSA",
+            "version": "V2.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-24",
             "gtw_version": "1.0"
         },
         {
@@ -1659,6 +1711,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Hi.Tech",
+            "application_id": "PS3",
+            "version": "3.0.0",
+            "doc_type": [
+                "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-24",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "IASI S.r.l",
             "application_id": "SISWeb",
             "version": "2.4.8",
@@ -1812,6 +1877,19 @@
                 "VALIDATION"
             ],
             "date": "2023-06-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "KOSGROUP",
+            "application_id": "NETHOSPITAL",
+            "version": "2.5.0",
+            "doc_type": [
+                "RSA", "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-24",
             "gtw_version": "1.0"
         },
         {
@@ -2555,6 +2633,19 @@
                 "VALIDATION"
             ],
             "date": "2023-09-25",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Unicode srl",
+            "application_id": "8054145120002",
+            "version": "2023.02.10.224",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-24",
             "gtw_version": "1.0"
         },
         {
