@@ -118,6 +118,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "APINFORMATICA",
+            "application_id": "ENERGYOMEGAPLUS-LIS",
+            "version": "3.0.0000",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-27",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "APSS",
             "application_id": "SIO",
             "version": "2.12.0",
@@ -1721,6 +1734,19 @@
                 "VALIDATION"
             ],
             "date": "2023-10-24",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "HS INFORMATICA",
+            "application_id": "HS LABO",
+            "version": "1.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-10-27",
             "gtw_version": "1.0"
         },
         {
