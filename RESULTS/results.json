@@ -131,6 +131,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "APINFORMATICA",
+            "application_id": "ENERGYOMEGAPLUS-RIS",
+            "version": "3.0.0000",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-03",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "APSS",
             "application_id": "SIO",
             "version": "2.12.0",
@@ -780,6 +793,9 @@
             "vendor": "Dedalus",
             "application_id": "4C Suite",
             "version": "5.5.0",
+            "equiv_releases": [
+                "6.1"
+            ],
             "doc_type": [
                 "LDO"
             ],
@@ -2143,6 +2159,9 @@
             "vendor": "nuvyta",
             "application_id": "nuplatform",
             "version": "2.4",
+            "equiv_releases": [
+                "3.2"
+            ],
             "doc_type": [
                 "LDO", "RSA"
             ],
@@ -2226,6 +2245,12 @@
             "vendor": "OnitGroup",
             "application_id": "SIAVr",
             "version": "4",
+            "equiv_releases": [
+                "4.041",
+                "4.020",
+                "4.042",
+                "4.060"
+            ],
             "doc_type": [
                 "SING_VACC", "CERT_VACC"
             ],
@@ -2587,6 +2612,9 @@
             "vendor": "TESI SPA",
             "application_id": "DECIA",
             "version": "4.0",
+            "equiv_releases": [
+                "5.0"
+            ],
             "doc_type": [
                 "RSA"
             ],
