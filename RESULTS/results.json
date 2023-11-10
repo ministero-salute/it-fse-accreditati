@@ -653,6 +653,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "dedalus",
+            "application_id": "caleido_fse20_connector",
+            "version": "2023",
+            "doc_type": [
+                "LAB", "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-10",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "DEDALUS SPA",
             "application_id": "APEIRON",
             "version": "3.0.0",
@@ -739,7 +752,8 @@
             "application_id": "ARIANNAVACCINAZIONI",
             "version": "2303.05.01.00",
             "equiv_releases": [
-                "2308.06.00.00"
+                "2308.06.00.00",
+                "2311.07.00.00"
             ],
             "doc_type": [
                 "SING_VACC", "CERT_VACC"
@@ -1650,6 +1664,19 @@
         },
         {
             "vendor": "GPI SPA",
+            "application_id": "IE-OPERA",
+            "version": "5.0",
+            "doc_type": [
+                "LDO", "VPS", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-08",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GPI SPA",
             "application_id": "IE-DEGENTI",
             "version": "9.98_b25",
             "doc_type": [
@@ -1737,6 +1764,19 @@
                 "VALIDATION"
             ],
             "date": "2023-06-28",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "HEALTH INSIDE",
+            "application_id": "SADI HEALTH",
+            "version": "V.1.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-10",
             "gtw_version": "1.0"
         },
         {
@@ -2010,6 +2050,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-15",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "MEDARCHIVER",
+            "application_id": "MEDARCHIVER_FSE2.0",
+            "version": "1.0.0.0",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-08",
             "gtw_version": "1.0"
         },
         {
