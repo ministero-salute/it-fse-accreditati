@@ -407,6 +407,45 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "CHORUS",
+            "application_id": "ACCDIALAB_LIS",
+            "version": "V2023",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-21",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "CHORUS",
+            "application_id": "ACCDIALAB_RIS",
+            "version": "V2023",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-21",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "CHORUS",
+            "application_id": "ACCDIALAB_RSA",
+            "version": "V2023",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-21",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Ciditech",
             "application_id": "Point",
             "version": "6.0",
@@ -1525,6 +1564,9 @@
             "vendor": "GPI_SPA",
             "application_id": "NGH ADT",
             "version": "8.0",
+            "equiv_releases": [
+                "8.1"
+            ],
             "doc_type": [
                 "LDO"
             ],
@@ -1718,6 +1760,9 @@
             "vendor": "GPI SPA",
             "application_id": "NGH CCA",
             "version": "8.0",
+            "equiv_releases": [
+                "8,1"
+            ],
             "doc_type": [
                 "RSA"
             ],
@@ -2634,7 +2679,9 @@
             "version": "2.0",
             "equiv_releases": [
                 "2.11",
-                "3.0"
+                "3.0",
+                "4.0",
+                "5.0"
             ],
             "doc_type": [
                 "LAB"
