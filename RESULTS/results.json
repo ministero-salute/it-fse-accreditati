@@ -1708,6 +1708,14 @@
             "vendor": "GPI SPA",
             "application_id": "IE-OPERA",
             "version": "5.0",
+            "equiv_releases": [
+                "5.10", 
+                "5.11", 
+                "5.13", 
+                "5.13.3", 
+                "5.14", 
+                "5.22"
+            ],
             "doc_type": [
                 "LDO", "VPS", "RSA"
             ],
@@ -1761,7 +1769,7 @@
             "application_id": "NGH CCA",
             "version": "8.0",
             "equiv_releases": [
-                "8,1"
+                "8.1"
             ],
             "doc_type": [
                 "RSA"
