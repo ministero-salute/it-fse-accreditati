@@ -2119,6 +2119,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Mediatec Informatica S.r.l.",
+            "application_id": "MEDICO2000",
+            "version": "06.18",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-24",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Medusa Software",
             "application_id": "Urania FSE",
             "version": "v.1.0.0",
@@ -2135,6 +2148,9 @@
             "vendor": "METEDA S.r.l.",
             "application_id": "MetaClinic",
             "version": "10",
+            "equiv_releases": [
+                "10.13"
+            ],
             "doc_type": [
                 "RSA"
             ],
@@ -2808,6 +2824,19 @@
                 "VALIDATION"
             ],
             "date": "2023-10-24",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Unicode srl",
+            "application_id": "8054145120002",
+            "version": "2023.02.10.224",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-24",
             "gtw_version": "1.0"
         },
         {
