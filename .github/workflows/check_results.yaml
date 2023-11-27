@@ -1,4 +1,4 @@
-name: Create Results Files
+name: Check results.json
 on:
   pull_request:
     paths:
