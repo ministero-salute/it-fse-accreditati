@@ -1,0 +1,21 @@
+name: Create Results Files
+on:
+  pull_request:
+    paths:
+      - 'RESULTS/results.json'
+  workflow_dispatch:
+
+jobs:
+  check_results:
+    name: check_results
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+      - name: install requirements
+        run: pip install -r scripts/requirements.txt
+      - name: check results
+        run: python scripts/check_results.py
