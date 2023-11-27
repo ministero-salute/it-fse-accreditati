@@ -32,7 +32,8 @@
                             "RSA",
                             "CERT_VACC",
                             "SING_VACC",
-                            "LAB_TRASF"
+                            "LAB_TRASF",
+                            "PSS"
                         ],
                         "type": "string"
                     },
