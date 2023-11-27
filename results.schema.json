@@ -1,0 +1,90 @@
+{
+    "$defs": {
+        "Result": {
+            "additionalProperties": false,
+            "properties": {
+                "vendor": {
+                    "title": "Vendor",
+                    "type": "string"
+                },
+                "application_id": {
+                    "title": "Application Id",
+                    "type": "string"
+                },
+                "version": {
+                    "title": "Version",
+                    "type": "string"
+                },
+                "equiv_releases": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "title": "Equiv Releases",
+                    "type": "array"
+                },
+                "doc_type": {
+                    "items": {
+                        "enum": [
+                            "LDO",
+                            "LAB",
+                            "RAD",
+                            "VPS",
+                            "RSA",
+                            "CERT_VACC",
+                            "SING_VACC",
+                            "LAB_TRASF"
+                        ],
+                        "type": "string"
+                    },
+                    "title": "Doc Type",
+                    "type": "array"
+                },
+                "service": {
+                    "items": {
+                        "enum": [
+                            "VALIDATION",
+                            "PUBLICATION"
+                        ],
+                        "type": "string"
+                    },
+                    "title": "Service",
+                    "type": "array"
+                },
+                "date": {
+                    "format": "date",
+                    "title": "Date",
+                    "type": "string"
+                },
+                "gtw_version": {
+                    "const": "1.0",
+                    "title": "Gtw Version"
+                }
+            },
+            "required": [
+                "vendor",
+                "application_id",
+                "version",
+                "doc_type",
+                "service",
+                "date",
+                "gtw_version"
+            ],
+            "title": "Result",
+            "type": "object"
+        }
+    },
+    "properties": {
+        "results": {
+            "items": {
+                "$ref": "#/$defs/Result"
+            },
+            "title": "Results",
+            "type": "array"
+        }
+    },
+    "required": [
+        "results"
+    ],
+    "title": "Results",
+    "type": "object"
+}

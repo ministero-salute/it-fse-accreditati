@@ -1,10 +1,9 @@
-from typing import List
 import jinja2
-from dataclasses import dataclass, field
 import json
 from pathlib import Path
 import xlsxwriter
 import csv
+from results_type import Results, Result
 
 RESULTS_PATH = Path("RESULTS/results.json")
 
@@ -15,30 +14,23 @@ RESULTS_OUT_XLSX_PATH = "RESULTS/results.xlsx"
 RESULTS_OUT_CSV_PATH = Path("RESULTS/results.csv")
 
 
-@dataclass
 class ResultLine:
-    vendor: str
-    application_id: str
-    version: str
-    doc_type: list[str]
-    service: list[str]
-    date: str
-    gtw_version: str
-    equiv_releases: list[str] = field(default_factory=list)
+    def __init__(self, r: Result):
+        self.result = r
 
     def md_table_line(self) -> str:
         return (
             "|"
             + "|".join(
                 [
-                    self.vendor.replace("|", r"\|"),
-                    self.application_id.replace("|", r"\|"),
-                    self.version.replace("|", r"\|"),
-                    ", ".join(map(lambda x: x.replace("|", r"\|"), self.equiv_releases)),
-                    ",".join(map(lambda x: x.replace("|", r"\|"), self.doc_type)),
-                    ",".join(map(lambda x: x.replace("|", r"\|"), self.service)),
-                    self.date.replace("|", r"\|"),
-                    self.gtw_version.replace("|", r"\|"),
+                    self.result.vendor.replace("|", r"\|"),
+                    self.result.application_id.replace("|", r"\|"),
+                    self.result.version.replace("|", r"\|"),
+                    ",".join(map(lambda x: x.replace("|", r"\|"), self.result.equiv_releases)),
+                    ",".join(map(lambda x: x.replace("|", r"\|"), self.result.doc_type)),
+                    ",".join(map(lambda x: x.replace("|", r"\|"), self.result.service)),
+                    str(self.result.date).replace("|", r"\|"),
+                    self.result.gtw_version.replace("|", r"\|"),
                 ]
             )
             + "|"
@@ -46,19 +38,18 @@ class ResultLine:
 
     def flatten_line(self):
         return [
-            self.vendor,
-            self.application_id,
-            self.version,
-            ", ".join(self.equiv_releases),
-            ",".join(self.doc_type),
-            ",".join(self.service),
-            self.date,
-            self.gtw_version,
+            self.result.vendor,
+            self.result.application_id,
+            self.result.version,
+            ", ".join(self.result.equiv_releases),
+            ",".join(self.result.doc_type),
+            ",".join(self.result.service),
+            self.result.date,
+            self.result.gtw_version,
         ]
 
 
-def generate_md(md_table_lines: List[str]):
-    print(md_lines)
+def generate_md(md_table_lines: list[str]):
     templateLoader = jinja2.FileSystemLoader(searchpath="./")
     templateEnv = jinja2.Environment(loader=templateLoader)
     template = templateEnv.get_template(RESULTS_OUT_MD_TEMPLATE_PATH)
@@ -66,7 +57,7 @@ def generate_md(md_table_lines: List[str]):
     RESULTS_OUT_MD_PATH.write_text(outputText, encoding="utf8")
 
 
-def generate_xlsx(xls_lines: List[List[str]]):
+def generate_xlsx(xls_lines: list[list[str]]):
     workbook = xlsxwriter.Workbook(RESULTS_OUT_XLSX_PATH)
     worksheet = workbook.add_worksheet()
 
@@ -75,12 +66,12 @@ def generate_xlsx(xls_lines: List[List[str]]):
             worksheet.write(row_num, col_num, col_data)
 
     for col in range(len(xls_lines[0])):
-        worksheet.set_column(col, col, width=max([len(xls_lines[r][col]) for r in range(len(xls_lines))]))
+        worksheet.set_column(col, col, width=max([len(str(xls_lines[r][col])) for r in range(len(xls_lines))]))
 
     workbook.close()
 
 
-def generate_csv(lines: List[List[str]]):
+def generate_csv(lines: list[list[str]]):
     with RESULTS_OUT_CSV_PATH.open("w", encoding="utf8") as outfile:
         csv_writer = csv.writer(outfile, dialect=csv.excel)
         csv_writer.writerows(lines)
@@ -90,6 +81,7 @@ if __name__ == "__main__":
     try:
         with RESULTS_PATH.open("r", encoding="utf8") as results_file:
             data = json.load(results_file)
+        results = Results(**data)
         md_lines = []
         lines = []
         lines.append(
@@ -104,8 +96,8 @@ if __name__ == "__main__":
                 "Versione Gateway",
             ]
         )
-        for d in data["results"]:
-            rl = ResultLine(**d)
+        for result in results.results:
+            rl = ResultLine(result)
             md_lines.append(rl.md_table_line())
             lines.append(rl.flatten_line())
         generate_md(md_lines)
