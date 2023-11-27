@@ -19,6 +19,7 @@ class Result(BaseModel):
             "CERT_VACC",
             "SING_VACC",
             "LAB_TRASF",
+            "PSS",
         ]
     ]
     service: list[Literal["VALIDATION", "PUBLICATION"]]
