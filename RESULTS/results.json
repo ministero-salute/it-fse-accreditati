@@ -1,4 +1,4 @@
-{
+definire le Subscription di interesse (una per ciascun evento) in maniera tale da notificare gli eventi al Policy Manager (perdendo in questo modo la dipendenza lineare dal numero di entità sottoscritte essendo tale numero costante e pari ad 1), ad esempio: {
     "results": [
         {
             "vendor": "4WardPro",
@@ -219,6 +219,19 @@
                 "VALIDATION"
             ],
             "date": "2023-07-13",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "asl2savonese",
+            "application_id": "onesys-amb",
+            "version": "2.6.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-28",
             "gtw_version": "1.0"
         },
         {
@@ -485,6 +498,45 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "COMPUGROUP MEDICAL ITALIA S.p.a.",
+            "application_id": "CCBASIC",
+            "version": "3.36",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-28",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "COMPUGROUP MEDICAL ITALIA S.p.a.",
+            "application_id": "INFANTIA",
+            "version": "6.05",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-28",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "COMPUGROUP MEDICAL ITALIA S.p.a.",
+            "application_id": "FPF",
+            "version": "5.50",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-28",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Connect Informatics SRL",
             "application_id": "Equipe FSE Gateway",
             "version": "V1.0",
@@ -744,6 +796,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Dedalus",
+            "application_id": "Tabula",
+            "version": "1.0.0",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-28",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "DEDALUS SPA",
             "application_id": "HERO",
             "version": "5.2",
@@ -973,6 +1038,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-15",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "EBITSRL",
+            "application_id": "SUITESTENSA",
+            "version": "2.1b34.x",
+            "doc_type": [
+                "RAD", "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-28",
             "gtw_version": "1.0"
         },
         {
@@ -2880,3 +2958,33 @@
         }
     ]
 }
+
+ 
+
+{ 
+
+  "resourceType": "Subscription", 
+
+  "status": "active", 
+
+  "criteria": "CodeSystem?status=active", 
+
+  "reason": "CodeSystem changed!", 
+
+  "channel": { 
+
+    "type": "rest-hook", 
+
+    "endpoint": "[POLICY_MANAGER_URL]/v1/subscription/active", 
+
+    "payload": "application/json" 
+
+  } 
+
+} 
+
+ 
+
+definire sul Policy Manager un endpoint in grado di accogliere gli eventi emessi dal server Server FHIR e trasformarli in messaggi per un topic Kafka che verrà consumato dal micro servizio it-fse-prov-notifier in grado di trasformare tali messaggi in e-mail.  
+
+E’È opportuno evidenziare che sul Policy Manager gli utenti sono registrati con i proprioi propri ruoli, un account di posta e l’eventuale esplicito consenso alla ricezione di notifiche via mail; in tal modo il Policy Manager è in grado di dedurre in base all’evento e ai ruoli degli utenti, la platea dei potenziali utenti da notificare; tra questi vengono selezionati quelli che hanno fornito il consenso alla ricezione di messaggi ed un mail, e si procede all’effettiva notifica dell’evento. 
