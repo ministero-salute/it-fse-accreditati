@@ -222,6 +222,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "asl2savonese",
+            "application_id": "onesys-amb",
+            "version": "2.6.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-28",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "ASL3 Genovese",
             "application_id": "SIVIS",
             "version": "v.1.0.0",
@@ -485,6 +498,45 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "COMPUGROUP MEDICAL ITALIA S.p.a.",
+            "application_id": "CCBASIC",
+            "version": "3.36",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-28",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "COMPUGROUP MEDICAL ITALIA S.p.a.",
+            "application_id": "INFANTIA",
+            "version": "6.05",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-28",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "COMPUGROUP MEDICAL ITALIA S.p.a.",
+            "application_id": "FPF",
+            "version": "5.50",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-28",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Connect Informatics SRL",
             "application_id": "Equipe FSE Gateway",
             "version": "V1.0",
@@ -744,6 +796,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Dedalus",
+            "application_id": "Tabula",
+            "version": "1.0.0",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-28",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "DEDALUS SPA",
             "application_id": "HERO",
             "version": "5.2",
@@ -973,6 +1038,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-15",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "EBITSRL",
+            "application_id": "SUITESTENSA",
+            "version": "2.1b34.x",
+            "doc_type": [
+                "RAD", "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-11-28",
             "gtw_version": "1.0"
         },
         {
