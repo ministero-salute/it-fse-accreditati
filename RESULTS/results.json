@@ -783,6 +783,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "DEDALUS",
+            "application_id": "TCWA",
+            "version": "10.6",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-05",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Dedalus",
             "application_id": "Tabula",
             "version": "1.0.0",
@@ -1077,6 +1090,19 @@
                 "VALIDATION"
             ],
             "date": "2023-09-06",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "EDP PROGETTI SRL",
+            "application_id": "TAONET2",
+            "version": "V.1.2",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-05",
             "gtw_version": "1.0"
         },
         {
@@ -1950,6 +1976,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "IL MELOGRANO DATA SERVICES",
+            "application_id": "FSE-VPS",
+            "version": "1.0",
+            "doc_type": [
+                "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-05",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Infonext S.r.l.",
             "application_id": "eVac",
             "version": "3.0.0",
@@ -2268,6 +2307,9 @@
             "vendor": "NBS",
             "application_id": "networksanitario",
             "version": "v.4.10.106",
+            "equiv_releases": [
+                "4.10.387"
+            ],
             "doc_type": [
                 "LDO", "RAD", "RSA", "VPS"
             ],
