@@ -12,6 +12,19 @@
             ],
             "date": "2023-10-24",
             "gtw_version": "1.0"
+        },       
+        {
+            "vendor": "4WardPro",
+            "application_id": "8055060650018",
+            "version": "1.2023.2.15",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-11",
+            "gtw_version": "1.0"
         },
         {
             "vendor": "ACSINFORMATICA",
@@ -141,6 +154,19 @@
                 "VALIDATION"
             ],
             "date": "2023-11-03",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "APINFORMATICA",
+            "application_id": "ENERGYOMEGAPLUS-RSA",
+            "version": "3.0.0000",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-11",
             "gtw_version": "1.0"
         },
         {
@@ -1989,6 +2015,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "IL MELOGRANO DATA SERVICES",
+            "application_id": "FSE-RAD",
+            "version": "1.0",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-11",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Infonext S.r.l.",
             "application_id": "eVac",
             "version": "3.0.0",
@@ -2669,6 +2708,19 @@
                 "VALIDATION"
             ],
             "date": "2023-02-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "SCS SRL",
+            "application_id": "AUSYLIA",
+            "version": "1.0.8",
+            "doc_type": [
+                "LDO", "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-11",
             "gtw_version": "1.0"
         },
         {
