@@ -183,6 +183,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "APSS",
+            "application_id": "SIO",
+            "version": "2.13.0",
+            "doc_type": [
+                "LDO", "VPS", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-15",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Arbitek",
             "application_id": "XM-Lab",
             "version": "2.0",
@@ -560,6 +573,45 @@
                 "VALIDATION"
             ],
             "date": "2023-11-28",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "COMPUGROUP MEDICAL ITALIA S.p.a.",
+            "application_id": "PHRONESIS",
+            "version": "4.40",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-15",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "COMPUGROUP MEDICAL ITALIA S.p.a.",
+            "application_id": "PROFIM",
+            "version": "6.05",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-15",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "COMPUGROUP MEDICAL ITALIA S.p.a.",
+            "application_id": "VENERE",
+            "version": "8.27",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-15",
             "gtw_version": "1.0"
         },
         {
@@ -1012,6 +1064,19 @@
                 "VALIDATION"
             ],
             "date": "2023-10-20",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DEDALUS SPA",
+            "application_id": "DSHOP-CCA",
+            "version": "3.1.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-15",
             "gtw_version": "1.0"
         },
         {
@@ -1989,6 +2054,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "HTINFORMATICA SRL",
+            "application_id": "HTSANg",
+            "version": "3.1.0",
+            "doc_type": [
+                "LAB", "RAD", "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-15",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "IASI S.r.l",
             "application_id": "SISWeb",
             "version": "2.4.8",
@@ -2025,6 +2103,32 @@
                 "VALIDATION"
             ],
             "date": "2023-12-11",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "IL MELOGRANO DATA SERVICES",
+            "application_id": "FSE-RSA",
+            "version": "1.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-15",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "IL MELOGRANO DATA SERVICES",
+            "application_id": "FSE-LDO",
+            "version": "1.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-15",
             "gtw_version": "1.0"
         },
         {
@@ -2931,6 +3035,19 @@
                 "VALIDATION"
             ],
             "date": "2023-04-06",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "THEMIX ITALIA SRL",
+            "application_id": "WLAB",
+            "version": "126.2.c.a2",
+            "doc_type": [
+                "LAB", "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-15",
             "gtw_version": "1.0"
         },
         {
