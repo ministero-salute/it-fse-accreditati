@@ -1340,6 +1340,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Engineering Ingegneria Informatica S.p.A.",
+            "application_id": "AREAS AMBWEB",
+            "version": "20.15.00",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-19",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "E-SC SRL",
             "application_id": "RADX",
             "version": "V.9",
@@ -2327,6 +2340,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Log 80 s.r.l.",
+            "application_id": "SUITE LOG80",
+            "version": "2.0",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-19",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "MCA S.A.S.",
             "application_id": "LAB2000",
             "version": "2.0",
@@ -2786,6 +2812,19 @@
                 "VALIDATION"
             ],
             "date": "2023-12-18",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Regione_Sardegna",
+            "application_id": "AMBWEB_SISaR_RAS",
+            "version": "20.14",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-19",
             "gtw_version": "1.0"
         },
         {
