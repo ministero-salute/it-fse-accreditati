@@ -2763,6 +2763,32 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Regione_Sardegna",
+            "application_id": "ADTWEB_SISaR_RAS",
+            "version": "20.14",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-18",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Regione_Sardegna",
+            "application_id": "PSWEB_SISaR_RAS",
+            "version": "20.14",
+            "doc_type": [
+                "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-18",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "xenia-reply",
             "application_id": "appheal-ldo",
             "version": "1.0",
