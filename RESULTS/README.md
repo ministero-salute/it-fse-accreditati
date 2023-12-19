@@ -105,6 +105,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Engineering Ingegneria Informatica S.p.A.|Ellipse PS|2.7.0||VPS|VALIDATION|2023-04-19|1.0|
 |Engineering Ingegneria Informatica SpA|Eliot 3.0|20.15.04||LAB_TRASF|VALIDATION|2023-04-28|1.0|
 |Engineering Ingegneria Informatica SpA|Eliot CS|20.16.00||LAB_TRASF|VALIDATION|2023-04-28|1.0|
+|Engineering Ingegneria Informatica S.p.A.|AREAS AMBWEB|20.15.00||RSA|VALIDATION|2023-12-19|1.0|
 |E-SC SRL|RADX|V.9||RAD|VALIDATION|2023-05-26|1.0|
 |E-SC SRL|RADX|V.9||RAD,RSA|VALIDATION|2023-08-03|1.0|
 |ESTAR|PLEIADE|3||LDO|VALIDATION|2023-05-17|1.0|
@@ -179,6 +180,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Log 80 s.r.l.|SUITE LOG80|2.0||LDO|VALIDATION|2023-04-20|1.0|
 |Log 80 s.r.l.|SUITE LOG80|1.0||LDO|VALIDATION|2023-05-02|1.0|
 |Log 80 s.r.l.|MEDICAL 80|1.0||LDO|VALIDATION|2023-10-20|1.0|
+|Log 80 s.r.l.|SUITE LOG80|2.0||LDO,RSA|VALIDATION|2023-12-19|1.0|
 |MCA S.A.S.|LAB2000|2.0||LAB|VALIDATION|2023-10-20|1.0|
 |MEDIACLINICS ITALIA|MargheritaTre|V.3.3.0||LDO|VALIDATION|2023-03-23|1.0|
 |MEDARCHIVER|MEDARCHIVER_FSE2.0|1.0.0.0||LDO|VALIDATION|2023-05-15|1.0|
@@ -213,6 +215,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Regione Puglia|CCE|1||RSA,LDO|VALIDATION|2023-06-26|1.0|
 |Regione_Sardegna|ADTWEB_SISaR_RAS|20.14||LDO|VALIDATION|2023-12-18|1.0|
 |Regione_Sardegna|PSWEB_SISaR_RAS|20.14||VPS|VALIDATION|2023-12-18|1.0|
+|Regione_Sardegna|AMBWEB_SISaR_RAS|20.14||RSA|VALIDATION|2023-12-19|1.0|
 |xenia-reply|appheal-ldo|1.0||LDO|VALIDATION|2023-07-06|1.0|
 |S3K SPA|JHIS|23.01.01||VPS,LDO|VALIDATION|2023-06-05|1.0|
 |santec_vendor|santec_ecaresuite|5.0.0||RSA,LDO,VPS|VALIDATION|2023-10-20|1.0|
