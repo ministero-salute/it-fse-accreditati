@@ -222,6 +222,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "ARIA_SPA",
+            "application_id": "GESTAMB",
+            "version": "1.11.2",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-28",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "ASCOM UMS",
             "application_id": "DIGISTAT",
             "version": "8",
@@ -1077,6 +1090,32 @@
                 "VALIDATION"
             ],
             "date": "2023-12-15",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DEDALUS SPA",
+            "application_id": "ARGOS",
+            "version": "4.24.24403",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-28",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Delta Informatica",
+            "application_id": "GIV",
+            "version": "23",
+            "doc_type": [
+                "CERT_VACC", "SING_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-12-28",
             "gtw_version": "1.0"
         },
         {
