@@ -1132,6 +1132,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Docunque SRL",
+            "application_id": "Docunque",
+            "version": "V.1.0.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-01-10",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "DTS CONSULTING SRL",
             "application_id": "DTSHIS",
             "version": "1.0",
@@ -2067,6 +2080,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "GRUPPOINFORMATICO",
+            "application_id": "RESMEDICA",
+            "version": "10.1.701",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-01-10",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "HEALTH INSIDE",
             "application_id": "SADI HEALTH",
             "version": "V.1.0",
@@ -2516,7 +2542,7 @@
             "application_id": "networksanitario",
             "version": "v.4.10.106",
             "equiv_releases": [
-                "4.10.387"
+                "4.10.387", "4.10.391"
             ],
             "doc_type": [
                 "LDO", "RAD", "RSA", "VPS"
