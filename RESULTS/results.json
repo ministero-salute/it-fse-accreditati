@@ -654,6 +654,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "CONSORZIOODM",
+            "application_id": "HSG6",
+            "version": "22.1",
+            "doc_type": [
+                "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-01-12",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Cooperativa EDP La Traccia",
             "application_id": "Gepadial",
             "version": "V.2.0.3",
@@ -2158,6 +2171,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Ianiri Informatica",
+            "application_id": "GipoNext",
+            "version": "v.5",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-01-12",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "IL MELOGRANO DATA SERVICES",
             "application_id": "FSE-VPS",
             "version": "1.0",
@@ -3152,6 +3178,19 @@
                 "VALIDATION"
             ],
             "date": "2023-10-20",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "TESI SPA",
+            "application_id": "OPTINET",
+            "version": "25.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-01-12",
             "gtw_version": "1.0"
         },
         {
