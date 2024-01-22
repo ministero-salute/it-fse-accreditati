@@ -2106,6 +2106,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "GRUPPOINFORMATICO",
+            "application_id": "RESMEDICA",
+            "version": "10.1.701",
+            "doc_type": [
+                "RSA", "LAB", "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-01-22",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "HEALTH INSIDE",
             "application_id": "SADI HEALTH",
             "version": "V.1.0",
@@ -2864,6 +2877,32 @@
                 "VALIDATION"
             ],
             "date": "2023-07-11",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Proactive",
+            "application_id": "LabPro",
+            "version": "5.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-01-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "RBSoftware",
+            "application_id": "WGesLaAn",
+            "version": "1",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-01-17",
             "gtw_version": "1.0"
         },
         {
