@@ -235,6 +235,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "ARIA SPA",
+            "application_id": "CDA2VACC",
+            "version": "2.0",
+            "doc_type": [
+                "SING_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-01-23",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "ASCOM UMS",
             "application_id": "DIGISTAT",
             "version": "8",
@@ -1197,6 +1210,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "e-Shark S.r.l.",
+            "application_id": "FaithK",
+            "version": "2.9.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-01-23",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "EBITSRL",
             "application_id": "SUITESTENSA",
             "version": "2.1b34.x",
@@ -2145,6 +2171,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "HLT Management",
+            "application_id": "HLT Central",
+            "version": "4.2",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-01-23",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "HS INFORMATICA",
             "application_id": "HS LABO",
             "version": "1.0",
@@ -2548,6 +2587,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "MILLENNIUM SRL",
+            "application_id": "MILLEWIN",
+            "version": "20.0.46.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-01-23",
             "gtw_version": "1.0"
         },
         {
