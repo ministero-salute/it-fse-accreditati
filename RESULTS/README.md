@@ -226,6 +226,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |PRAEZISION|ISOLABELLA|3.29.0.X||VPS,LDO|VALIDATION|2023-06-08|1.0|
 |PrismaNet|MeFiSto|V.1.3||LDO,RSA|VALIDATION|2023-07-11|1.0|
 |Proactive|LabPro|5.0||LAB|VALIDATION|2024-01-17|1.0|
+|Proactive|LabPro|5.0||LAB,RAD,RSA|VALIDATION|2024-01-26|1.0|
 |RBSoftware|WGesLaAn|1||LAB|VALIDATION|2024-01-17|1.0|
 |Regione Puglia|CCE|1||RSA,LDO|VALIDATION|2023-06-26|1.0|
 |Regione_Sardegna|ADTWEB_SISaR_RAS|20.14||LDO|VALIDATION|2023-12-18|1.0|
