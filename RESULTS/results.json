@@ -1848,6 +1848,19 @@
         },
         {
             "vendor": "GPI_SPA",
+            "application_id": "CCE_Cartella_Clinica_Elettronica",
+            "version": "14",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-01-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GPI_SPA",
             "application_id": "NGH PS",
             "version": "4.0",
             "doc_type": [
@@ -3150,6 +3163,19 @@
                 "VALIDATION"
             ],
             "date": "2023-07-19",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "sincronet",
+            "application_id": "FSE_20_gateway",
+            "version": "1.0",
+            "doc_type": [
+                "LAB", "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-01-26",
             "gtw_version": "1.0"
         },
         {
