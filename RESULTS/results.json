@@ -2958,6 +2958,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Proactive",
+            "application_id": "LabPro",
+            "version": "5.0",
+            "doc_type": [
+                "LAB", "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-01-26",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "RBSoftware",
             "application_id": "WGesLaAn",
             "version": "1",
