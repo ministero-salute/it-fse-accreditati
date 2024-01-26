@@ -144,6 +144,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Giotto Informatica|LeoLab|5.0/2023||LAB|VALIDATION|2023-10-20|1.0|
 |Gmed S.r.l.|VIRTUHIS|22.0.3||RAD|VALIDATION|2023-05-18|1.0|
 |GPI_SPA|CCE_Cartella_Clinica_Elettronica|14||LDO|VALIDATION|2023-04-19|1.0|
+|GPI_SPA|CCE_Cartella_Clinica_Elettronica|14||LDO,RSA|VALIDATION|2024-01-26|1.0|
 |GPI_SPA|NGH PS|4.0||VPS|VALIDATION|2023-04-19|1.0|
 |GPI_SPA|NGH ADT|8.0|8.1|LDO|VALIDATION|2023-04-21|1.0|
 |GPI_SPA|PSNET|PSW04.00.05.11||VPS|VALIDATION|2023-05-05|1.0|
@@ -241,6 +242,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Siemens|BeSimple|2.0||RAD|VALIDATION|2023-06-16|1.0|
 |sinapsys|1.0.1|1||VPS|VALIDATION|2023-07-26|1.0|
 |SINCON S.R.L|GIAVA|6||SING_VACC,CERT_VACC|VALIDATION|2023-07-19|1.0|
+|sincronet|FSE_20_gateway|1.0||LAB,LDO,RSA|VALIDATION|2024-01-26|1.0|
 |SPE.IT s.r.l.|FSE INI Adapter|1.0||LAB,RAD,LDO,RSA|VALIDATION|2023-09-21|1.0|
 |Synlab SDN|Sdn.Net|1.1.0.0||RAD,RSA|VALIDATION|2023-06-06|1.0|
 |TES|WSP-R|V10||RAD|VALIDATION|2023-05-03|1.0|
