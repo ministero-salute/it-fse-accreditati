@@ -27,6 +27,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Abstract",
+            "application_id": "SAP",
+            "version": "1.0.0",
+            "doc_type": [
+                "LDO", "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-01-29",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "ACSINFORMATICA",
             "application_id": "WINGLA",
             "version": "1",
