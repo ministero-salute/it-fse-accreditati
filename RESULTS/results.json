@@ -1055,7 +1055,9 @@
             "application_id": "4C Suite",
             "version": "5.5.0",
             "equiv_releases": [
-                "6.1"
+                "6.1", 
+                "6.1.4",
+                "6.2"
             ],
             "doc_type": [
                 "LDO"
@@ -1109,6 +1111,10 @@
             "vendor": "Dedalus",
             "application_id": "4C Suite",
             "version": "6.1",
+            "equiv_releases": [ 
+                "6.1.4",
+                "6.2"
+            ],
             "doc_type": [
                 "RSA"
             ],
