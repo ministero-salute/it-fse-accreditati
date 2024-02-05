@@ -2268,6 +2268,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Hi.Tech",
+            "application_id": "AcceWeb",
+            "version": "2.1.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-02-05",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "HLT Management",
             "application_id": "HLT Central",
             "version": "4.2",
@@ -3418,6 +3431,45 @@
                 "VALIDATION"
             ],
             "date": "2024-01-12",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "TESI SPA",
+            "application_id": "ENDOX",
+            "version": "22.4",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-02-05",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "TESI SPA",
+            "application_id": "ENDOXWEB",
+            "version": "22.4",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-02-05",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "TESI SPA",
+            "application_id": "DERMOX",
+            "version": "22.4",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-02-05",
             "gtw_version": "1.0"
         },
         {
