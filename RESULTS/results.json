@@ -40,6 +40,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "ACODAT",
+            "application_id": "ACO_FSE",
+            "version": "V.1.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-01-31",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "ACSINFORMATICA",
             "application_id": "WINGLA",
             "version": "1",
@@ -2084,6 +2097,19 @@
         },
         {
             "vendor": "GPI SPA",
+            "application_id": "PHI",
+            "version": "1.67",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-02-02",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GPI SPA",
             "application_id": "IM-PATIDOK",
             "version": "IT_10.0.1",
             "doc_type": [
@@ -2093,6 +2119,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-29",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GPI SPA",
+            "application_id": "IM-PATIDOK",
+            "version": "IT_10.0.1",
+            "doc_type": [
+                "LDO", "VPS", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-02-02",
             "gtw_version": "1.0"
         },
         {
@@ -2148,6 +2187,32 @@
                 "VALIDATION"
             ],
             "date": "2023-06-28",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GPI SPA",
+            "application_id": "ARCA WEB",
+            "version": "4.3",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-02-02",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GPI SPA",
+            "application_id": "G2 WEB",
+            "version": "2.7_b1",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-02-02",
             "gtw_version": "1.0"
         },
         {
@@ -2473,6 +2538,19 @@
                 "VALIDATION"
             ],
             "date": "2023-10-24",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Lepida",
+            "application_id": "CVPI_Lepida",
+            "version": "1.0.0",
+            "doc_type": [
+                "SING_VACC"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-01-31",
             "gtw_version": "1.0"
         },
         {
