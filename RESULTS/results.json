@@ -313,7 +313,7 @@
             "gtw_version": "1.0"
         },
         {
-            "vendor": "asl2savonese",
+            "vendor": "asl2Savonese",
             "application_id": "onesys-amb",
             "version": "2.6.0",
             "doc_type": [
@@ -1879,7 +1879,7 @@
             "gtw_version": "1.0"
         },
         {
-            "vendor": "GPI_SPA",
+            "vendor": "GPI SPA",
             "application_id": "CCE_Cartella_Clinica_Elettronica",
             "version": "14",
             "doc_type": [
