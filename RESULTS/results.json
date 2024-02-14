@@ -2251,6 +2251,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "GPI SPA",
+            "application_id": "EMOLIFE",
+            "version": "10.85.0.0",
+            "doc_type": [
+                "LAB_TRASF"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-02-14",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "GRUPPOINFORMATICO",
             "application_id": "RESMEDICA",
             "version": "10.1.701",
