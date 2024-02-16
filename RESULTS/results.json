@@ -1238,6 +1238,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "DSP",
+            "application_id": "HCSuite",
+            "version": "v4.3.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-02-15",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "DTS CONSULTING SRL",
             "application_id": "DTSHIS",
             "version": "1.0",
@@ -2290,6 +2303,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "GRUPPOINFORMATICO",
+            "application_id": "RESMEDICA",
+            "version": "10.1.702",
+            "doc_type": [
+                "RSA", "LAB", "RAD", "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-02-15",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "HEALTH INSIDE",
             "application_id": "SADI HEALTH",
             "version": "V.1.0",
@@ -2693,19 +2719,6 @@
             "gtw_version": "1.0"
         },
         {
-            "vendor": "MEDIACLINICS ITALIA",
-            "application_id": "MargheritaTre",
-            "version": "V.3.3.0",
-            "doc_type": [
-                "LDO"
-            ],
-            "service": [
-                "VALIDATION"
-            ],
-            "date": "2023-03-23",
-            "gtw_version": "1.0"
-        },
-        {
             "vendor": "MEDARCHIVER",
             "application_id": "MEDARCHIVER_FSE2.0",
             "version": "1.0.0.0",
@@ -2732,6 +2745,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "MEDIACLINICS ITALIA",
+            "application_id": "MargheritaTre",
+            "version": "V.3.3.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2023-03-23",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Mediatec Informatica S.r.l.",
             "application_id": "MEDICO2000",
             "version": "06.18",
@@ -2742,6 +2768,19 @@
                 "VALIDATION"
             ],
             "date": "2023-11-24",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "MEDIWARE",
+            "application_id": "ADVMEDNET",
+            "version": "2.2.1",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-02-15",
             "gtw_version": "1.0"
         },
         {
@@ -2959,6 +2998,19 @@
                 "VALIDATION"
             ],
             "date": "2023-06-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Olympus srl",
+            "application_id": "Endobase",
+            "version": "14.9",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-02-15",
             "gtw_version": "1.0"
         },
         {
