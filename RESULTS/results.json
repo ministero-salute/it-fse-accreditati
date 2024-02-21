@@ -462,6 +462,9 @@
             "vendor": "BiMind",
             "application_id": "Human",
             "version": "10.6",
+            "equiv_releases": [
+                "10.7", "10.8"
+            ],
             "doc_type": [
                 "LDO", "RSA"
             ],
@@ -1120,6 +1123,9 @@
             "vendor": "DEDALUS SPA",
             "application_id": "CONCERTO",
             "version": "22.1.1",
+            "equiv_releases": [ 
+                "23.0.0"
+            ],
             "doc_type": [
                 "LAB"
             ],
@@ -2277,6 +2283,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "GPI SPA",
+            "application_id": "EMONET",
+            "version": "9.6.3",
+            "doc_type": [
+                "LAB_TRASF"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-02-19",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "GRUPPOINFORMATICO",
             "application_id": "RESMEDICA",
             "version": "10.1.701",
@@ -2816,6 +2835,9 @@
             "vendor": "MILLENNIUM SRL",
             "application_id": "MILLEWIN",
             "version": "20.0.46.0",
+            "equiv_releases": [ 
+                "20.0.47.0"
+            ],
             "doc_type": [
                 "PSS"
             ],
