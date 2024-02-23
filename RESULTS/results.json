@@ -735,6 +735,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Critex",
+            "application_id": "Meditex",
+            "version": "4",
+            "doc_type": [
+                "RSA", "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-02-23",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "D.EVO",
             "application_id": "DEVORIS",
             "version": "1.0",
@@ -2972,7 +2985,7 @@
             "application_id": "nuplatform",
             "version": "2.4",
             "equiv_releases": [
-                "3.2"
+                "3.2", "3.3"
             ],
             "doc_type": [
                 "LDO", "RSA"
