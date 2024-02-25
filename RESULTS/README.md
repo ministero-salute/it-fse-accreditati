@@ -60,6 +60,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |CONSORZIOODM|HSG6|22.1||RAD,RSA|VALIDATION|2024-01-12|1.0|
 |Cooperativa EDP La Traccia|Gepadial|V.2.0.3||LDO,RSA|VALIDATION|2023-05-08|1.0|
 |Critex|Meditex|4||RSA|VALIDATION|2024-02-12|1.0|
+|Critex|Meditex|4||RSA,LAB|VALIDATION|2024-02-23|1.0|
 |D.EVO|DEVORIS|1.0||LAB,RAD|VALIDATION|2023-07-06|1.0|
 |D.EVO|DEVORIS|1.0||LAB,RAD,RSA|VALIDATION|2024-02-12|1.0|
 |D-MEDICAL SRL|MEDINET-LAB|V.3.15.0.0||LAB|VALIDATION|2023-09-08|1.0|
@@ -226,7 +227,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Nolex|NIGS|2023.05.01.1200||RSA|VALIDATION|2023-05-26|1.0|
 |Nolex|NIGD|2023.05.10.1200||LDO|VALIDATION|2023-06-05|1.0|
 |Nolex|NIGL|2023.05.12.1200||LAB|VALIDATION|2023-06-06|1.0|
-|nuvyta|nuplatform|2.4|3.2|LDO,RSA|VALIDATION|2023-05-05|1.0|
+|nuvyta|nuplatform|2.4|3.2,3.3|LDO,RSA|VALIDATION|2023-05-05|1.0|
 |o3enterprise|mis|3.10.0||RAD|VALIDATION|2023-10-17|1.0|
 |o3enterprise|ris|7.0.0||RAD|VALIDATION|2023-10-17|1.0|
 |Olomedia|oloHealth|V.3.0.0||RSA,LDO,VPS|VALIDATION|2023-06-26|1.0|
