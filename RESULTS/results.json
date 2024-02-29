@@ -1803,6 +1803,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "GENESISOFT",
+            "application_id": "TOMMY",
+            "version": "2.0.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-02-28",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "GESAN SRL",
             "application_id": "WLEXT-LIS",
             "version": "V.2.0",
