@@ -137,7 +137,9 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Fondazione Toscana Gabriele Monasterio|ISA|1.15.0||LDO,RSA|VALIDATION|2023-10-24|1.0|
 |Fondazione Toscana Gabriele Monasterio|C6|6.1.3||RAD,LAB|VALIDATION|2023-05-29|1.0|
 |Fujifilm Italia S.p.A.|Synapse Value|1.6||RAD|VALIDATION|2023-04-19|1.0|
+|Fujifilm Italia S.p.A.|Synapse Value|1.6||RAD,RSA|VALIDATION|2024-03-06|1.0|
 |Fujifilm Italia S.p.A.|Synapse Workflow|4.33||RAD|VALIDATION|2023-04-19|1.0|
+|Fujifilm Italia S.p.A.|Synapse Workflow|4.33||RAD,RSA|VALIDATION|2024-03-06|1.0|
 |GEMSI|CENTRICITYRIS|7||RAD|VALIDATION|2023-08-30|1.0|
 |GENESISOFT|TOMMY|2.0.0||RSA|VALIDATION|2024-02-28|1.0|
 |GESAN SRL|WLEXT-LIS|V.2.0||LAB|VALIDATION|2023-05-02|1.0|
@@ -209,7 +211,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Log 80 s.r.l.|SUITE LOG80|2.0||LDO|VALIDATION|2023-04-20|1.0|
 |Log 80 s.r.l.|SUITE LOG80|1.0||LDO|VALIDATION|2023-05-02|1.0|
 |Log 80 s.r.l.|MEDICAL 80|1.0||LDO|VALIDATION|2023-10-20|1.0|
-|Log 80 s.r.l.|SUITE LOG80|2.0||LDO,RSA|VALIDATION|2023-12-19|1.0|
+|Log 80 s.r.l.|SUITE LOG80|2.0|3.0|LDO,RSA|VALIDATION|2023-12-19|1.0|
 |MCA S.A.S.|LAB2000|2.0||LAB|VALIDATION|2023-10-20|1.0|
 |MEDARCHIVER|MEDARCHIVER_FSE2.0|1.0.0.0||LDO|VALIDATION|2023-05-15|1.0|
 |MEDARCHIVER|MEDARCHIVER_FSE2.0|1.0.0.0||LDO,RSA|VALIDATION|2023-11-08|1.0|
@@ -217,7 +219,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Mediatec Informatica S.r.l.|MEDICO2000|06.18||PSS|VALIDATION|2023-11-24|1.0|
 |MEDIWARE|ADVMEDNET|2.2.1||PSS|VALIDATION|2024-02-15|1.0|
 |Medusa Software|Urania FSE|v.1.0.0||LAB|VALIDATION|2023-07-17|1.0|
-|METEDA S.r.l.|MetaClinic|10|10.13|RSA|VALIDATION|2023-05-26|1.0|
+|METEDA S.r.l.|MetaClinic|10|10.13,10.14|RSA|VALIDATION|2023-05-26|1.0|
 |MILLENNIUM SRL|MILLEWIN|20.0.46.0|20.0.47.0|PSS|VALIDATION|2024-01-23|1.0|
 |mimedical|webrap3|webrap3||RAD|VALIDATION|2023-03-29|1.0|
 |MultimediaSrl|Medica|3.2.0.0||RAD,RSA,LDO,LAB|VALIDATION|2023-09-29|1.0|
@@ -280,6 +282,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |THEMIX ITALIA SRL|WLAB|126.2.c.a2||LAB|VALIDATION|2023-04-06|1.0|
 |THEMIX ITALIA SRL|WLAB|126.2.c.a2||LAB,RAD,RSA|VALIDATION|2023-12-15|1.0|
 |topgate|letteradimissione|1.0||LDO|VALIDATION|2023-06-30|1.0|
+|TIM|TM-Sinfonia|1.0||RSA|VALIDATION|2024-03-05|1.0|
 |topgate|skipper|1.0||CERT_VACC|VALIDATION|2023-06-30|1.0|
 |topgate|skipper|1.0||CERT_VACC,SING_VACC|VALIDATION|2023-08-03|1.0|
 |topgate|topamb|1.0||RSA|VALIDATION|2023-09-25|1.0|
