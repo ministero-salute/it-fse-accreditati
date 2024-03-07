@@ -1778,6 +1778,19 @@
         },
         {
             "vendor": "Fujifilm Italia S.p.A.",
+            "application_id": "Synapse Value",
+            "version": "1.6",
+            "doc_type": [
+                "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-03-06",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Fujifilm Italia S.p.A.",
             "application_id": "Synapse Workflow",
             "version": "4.33",
             "doc_type": [
@@ -1787,6 +1800,19 @@
                 "VALIDATION"
             ],
             "date": "2023-04-19",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Fujifilm Italia S.p.A.",
+            "application_id": "Synapse Workflow",
+            "version": "4.33",
+            "doc_type": [
+                "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-03-06",
             "gtw_version": "1.0"
         },
         {
@@ -2741,6 +2767,9 @@
             "vendor": "Log 80 s.r.l.",
             "application_id": "SUITE LOG80",
             "version": "2.0",
+            "equiv_releases": [
+                "3.0"
+            ],
             "doc_type": [
                 "LDO", "RSA"
             ],
@@ -2846,7 +2875,7 @@
             "application_id": "MetaClinic",
             "version": "10",
             "equiv_releases": [
-                "10.13"
+                "10.13", "10.14"
             ],
             "doc_type": [
                 "RSA"
@@ -3696,6 +3725,19 @@
                 "VALIDATION"
             ],
             "date": "2023-06-30",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "TIM",
+            "application_id": "TM-Sinfonia",
+            "version": "1.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-03-05",
             "gtw_version": "1.0"
         },
         {
