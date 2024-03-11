@@ -826,6 +826,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "DATASOFTWARE SRL",
+            "application_id": "INTELLILAB",
+            "version": "3",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-03-08",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "DEDALO SOFTWARE",
             "application_id": "DS LABO",
             "version": "1.0",
@@ -2816,6 +2829,19 @@
                 "VALIDATION"
             ],
             "date": "2023-11-08",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "MEDARCHIVER",
+            "application_id": "MEDLIS_FSE2.0",
+            "version": "1.0.0.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-03-08",
             "gtw_version": "1.0"
         },
         {
