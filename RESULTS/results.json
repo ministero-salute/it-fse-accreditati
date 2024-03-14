@@ -1090,7 +1090,9 @@
             "version": "2303.05.01.00",
             "equiv_releases": [
                 "2308.06.00.00",
-                "2311.07.00.00"
+                "2311.07.00.00", 
+                "2402.07.05.02",
+                "2403.07.07.00"
             ],
             "doc_type": [
                 "SING_VACC", "CERT_VACC"
@@ -1254,6 +1256,19 @@
                 "VALIDATION"
             ],
             "date": "2023-12-28",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Delta Informatica",
+            "application_id": "MYSANITA",
+            "version": "24",
+            "doc_type": [
+                "RSA", "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-03-14",
             "gtw_version": "1.0"
         },
         {
@@ -1592,6 +1607,19 @@
                 "VALIDATION"
             ],
             "date": "2023-08-03",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "ESC-INFORMATICA SRL",
+            "application_id": "MEDIXIS",
+            "version": "1.0.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-03-14",
             "gtw_version": "1.0"
         },
         {
