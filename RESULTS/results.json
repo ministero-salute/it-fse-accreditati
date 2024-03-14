@@ -897,6 +897,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "DEDALUS",
+            "application_id": "WHOSPITAL",
+            "version": "28.6",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-03-13",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Dedalus",
             "application_id": "GALILEO",
             "version": "1.5.7",
