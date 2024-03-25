@@ -930,6 +930,19 @@
         },
         {
             "vendor": "Dedalus",
+            "application_id": "GALILEO",
+            "version": "1.5.7",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-03-25",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Dedalus",
             "application_id": "ER4H",
             "version": "2.7.1",
             "equiv_releases": [
@@ -3403,6 +3416,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Regione_Sardegna",
+            "application_id": "ELIOT_SISaR_RAS",
+            "version": "20.15",
+            "doc_type": [
+                "LAB_TRASF"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-03-25",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "xenia-reply",
             "application_id": "appheal-ldo",
             "version": "1.0",
@@ -3530,6 +3556,19 @@
                 "VALIDATION"
             ],
             "date": "2023-06-16",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "simeds",
+            "application_id": "siclamm",
+            "version": "1",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-03-25",
             "gtw_version": "1.0"
         },
         {
@@ -3896,6 +3935,19 @@
                 "VALIDATION"
             ],
             "date": "2023-04-13",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Wezen Technologies s.r.l.",
+            "application_id": "HealthMeeting",
+            "version": "95.55.135",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-03-25",
             "gtw_version": "1.0"
         },
         {
