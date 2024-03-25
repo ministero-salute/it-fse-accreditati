@@ -74,6 +74,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |DEDALUS|WHOSPITAL|28.6||LDO|VALIDATION|2023-04-05|1.0|
 |DEDALUS|WHOSPITAL|28.6||LDO,RSA|VALIDATION|2024-03-13|1.0|
 |Dedalus|GALILEO|1.5.7|1.5.4,1.5.5,1.5.6,1.5.8|LDO|VALIDATION|2023-04-06|1.0|
+|Dedalus|GALILEO|1.5.7||LDO,RSA|VALIDATION|2024-03-25|1.0|
 |Dedalus|ER4H|2.7.1|2.7.2,3.1.0,3.1.1,3.1.2,3.2|VPS|VALIDATION|2023-04-13|1.0|
 |dedalus|caleido_fse20_connector|2023||LAB,RAD|VALIDATION|2023-04-20|1.0|
 |dedalus|caleido_fse20_connector|2023||LAB,RAD,RSA|VALIDATION|2023-11-10|1.0|
@@ -258,6 +259,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Regione_Sardegna|ADTWEB_SISaR_RAS|20.14||LDO|VALIDATION|2023-12-18|1.0|
 |Regione_Sardegna|PSWEB_SISaR_RAS|20.14||VPS|VALIDATION|2023-12-18|1.0|
 |Regione_Sardegna|AMBWEB_SISaR_RAS|20.14||RSA|VALIDATION|2023-12-19|1.0|
+|Regione_Sardegna|ELIOT_SISaR_RAS|20.15||LAB_TRASF|VALIDATION|2024-03-25|1.0|
 |xenia-reply|appheal-ldo|1.0||LDO|VALIDATION|2023-07-06|1.0|
 |S3K SPA|JHIS|23.01.01||VPS,LDO|VALIDATION|2023-06-05|1.0|
 |S3K SPA|JHIS|23.01.01||VPS,LDO,RSA|VALIDATION|2024-02-12|1.0|
@@ -268,6 +270,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |SIEMENS|RA2000|1.9.2||RAD|VALIDATION|2023-03-31|1.0|
 |SIEMENS HEALTHCARE|TDSYNERGY_SIEMENS|V.0.0.1||LAB|VALIDATION|2023-05-05|1.0|
 |Siemens|BeSimple|2.0||RAD|VALIDATION|2023-06-16|1.0|
+|simeds|siclamm|1||LDO|VALIDATION|2024-03-25|1.0|
 |sinapsys|1.0.1|1||VPS|VALIDATION|2023-07-26|1.0|
 |SINCON S.R.L|GIAVA|6||SING_VACC,CERT_VACC|VALIDATION|2023-07-19|1.0|
 |sincronet|FSE_20_gateway|1.0||LAB,LDO,RSA|VALIDATION|2024-01-26|1.0|
@@ -295,4 +298,5 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Unicode srl|8054145120002|2023.02.10.224||LDO,RSA|VALIDATION|2023-11-24|1.0|
 |WECONSTUDIO|CDCSM|1.0||LDO|VALIDATION|2023-09-21|1.0|
 |Werfen S.p.A|Modulab|4.5.0||LAB|VALIDATION|2023-04-13|1.0|
+|Wezen Technologies s.r.l.|HealthMeeting|95.55.135||RSA|VALIDATION|2024-03-25|1.0|
 |Zucchetti Centro Sistema s.p.a|JLAB|v.9.0||LAB|VALIDATION|2023-06-08|1.0|
