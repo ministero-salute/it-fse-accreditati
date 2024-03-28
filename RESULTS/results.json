@@ -1597,6 +1597,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Engineering Ingegneria Informatica S.p.A.",
+            "application_id": "Ellipse AMB",
+            "version": "1.0.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-03-27",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "E-SC SRL",
             "application_id": "RADX",
             "version": "V.9",
@@ -3439,6 +3452,19 @@
                 "VALIDATION"
             ],
             "date": "2023-07-06",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "S2INFORMATICA SRL",
+            "application_id": "LABGUI",
+            "version": "3.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-03-27",
             "gtw_version": "1.0"
         },
         {
