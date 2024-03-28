@@ -123,6 +123,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Engineering Ingegneria Informatica SpA|Eliot 3.0|20.15.04||LAB_TRASF|VALIDATION|2023-04-28|1.0|
 |Engineering Ingegneria Informatica SpA|Eliot CS|20.16.00||LAB_TRASF|VALIDATION|2023-04-28|1.0|
 |Engineering Ingegneria Informatica S.p.A.|AREAS AMBWEB|20.15.00||RSA|VALIDATION|2023-12-19|1.0|
+|Engineering Ingegneria Informatica S.p.A.|Ellipse AMB|1.0.0||RSA|VALIDATION|2024-03-27|1.0|
 |E-SC SRL|RADX|V.9||RAD|VALIDATION|2023-05-26|1.0|
 |E-SC SRL|RADX|V.9||RAD,RSA|VALIDATION|2023-08-03|1.0|
 |ESC-INFORMATICA SRL|MEDIXIS|1.0.0||RSA|VALIDATION|2024-03-14|1.0|
@@ -261,6 +262,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Regione_Sardegna|AMBWEB_SISaR_RAS|20.14||RSA|VALIDATION|2023-12-19|1.0|
 |Regione_Sardegna|ELIOT_SISaR_RAS|20.15||LAB_TRASF|VALIDATION|2024-03-25|1.0|
 |xenia-reply|appheal-ldo|1.0||LDO|VALIDATION|2023-07-06|1.0|
+|S2INFORMATICA SRL|LABGUI|3.0||LAB|VALIDATION|2024-03-27|1.0|
 |S3K SPA|JHIS|23.01.01||VPS,LDO|VALIDATION|2023-06-05|1.0|
 |S3K SPA|JHIS|23.01.01||VPS,LDO,RSA|VALIDATION|2024-02-12|1.0|
 |santec_vendor|santec_ecaresuite|5.0.0||RSA,LDO,VPS|VALIDATION|2023-10-20|1.0|
