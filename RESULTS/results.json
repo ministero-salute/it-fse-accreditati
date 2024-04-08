@@ -1278,6 +1278,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "DEDALUS SPA",
+            "application_id": "OK-DH",
+            "version": "3.0.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-04-05",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Delta Informatica",
             "application_id": "GIV",
             "version": "23",
@@ -2970,6 +2983,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "MEDAS",
+            "application_id": "SRPOWER",
+            "version": "1.0.0",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-04-08",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "MEDIACLINICS ITALIA",
             "application_id": "MargheritaTre",
             "version": "V.3.3.0",
@@ -3042,7 +3068,8 @@
             "application_id": "MILLEWIN",
             "version": "20.0.46.0",
             "equiv_releases": [ 
-                "20.0.47.0"
+                "20.0.47.0", 
+                "20.0.48.0"
             ],
             "doc_type": [
                 "PSS"
@@ -3578,6 +3605,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Saxos Informatica S.R.L.",
+            "application_id": "ProgettoOsp",
+            "version": "11.108",
+            "doc_type": [
+                "RSA", "LDO", "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-04-05",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "SCS SRL",
             "application_id": "ALCHYMIA",
             "version": "1.0.8",
@@ -4058,6 +4098,19 @@
                 "VALIDATION"
             ],
             "date": "2023-06-08",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Zucchetti Centro Sistema s.p.a",
+            "application_id": "JAB0",
+            "version": "v.9",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-04-05",
             "gtw_version": "1.0"
         }
     ]
