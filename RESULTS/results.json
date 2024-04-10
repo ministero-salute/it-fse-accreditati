@@ -447,6 +447,19 @@
         },
         {
             "vendor": "BCS",
+            "application_id": "PriamoRIS",
+            "version": "4.15.4.0",
+            "doc_type": [
+                "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-04-10",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "BCS",
             "application_id": "WINPS",
             "version": "8.0.49.5",
             "doc_type": [
@@ -849,6 +862,19 @@
                 "VALIDATION"
             ],
             "date": "2024-03-08",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DBMSOFTWARE SRLS",
+            "application_id": "DBMEDICA",
+            "version": "1.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-04-10",
             "gtw_version": "1.0"
         },
         {
@@ -1925,6 +1951,19 @@
                 "VALIDATION"
             ],
             "date": "2024-03-06",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Gara Software",
+            "application_id": "AnaSanPlus",
+            "version": "1.0",
+            "doc_type": [
+                "RAD", "RSA", "LDO", "VPS", "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-04-10",
             "gtw_version": "1.0"
         },
         {
@@ -4020,6 +4059,19 @@
                 "VALIDATION"
             ],
             "date": "2023-09-25",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "TSF SRL",
+            "application_id": "IATROS",
+            "version": "4.0.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-04-10",
             "gtw_version": "1.0"
         },
         {
