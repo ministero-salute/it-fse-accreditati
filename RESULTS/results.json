@@ -1356,6 +1356,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Doctolib",
+            "application_id": "Vettore",
+            "version": "26",
+            "doc_type": [
+                "RSA", "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-04-16",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Docunque SRL",
             "application_id": "Docunque",
             "version": "V.1.0.0",
@@ -2837,6 +2850,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "INSIEL",
+            "application_id": "SCC",
+            "version": "1.0.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-04-16",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "InterSystems Italia S.r.l.",
             "application_id": "TrakCare",
             "version": "ITXX",
@@ -2899,6 +2925,19 @@
                 "VALIDATION"
             ],
             "date": "2024-01-31",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "LIBRA SISTEMI SRL",
+            "application_id": "Geslab",
+            "version": "2.0",
+            "doc_type": [
+                "LAB", "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-04-16",
             "gtw_version": "1.0"
         },
         {
