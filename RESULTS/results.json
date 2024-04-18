@@ -2876,6 +2876,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "isaac4",
+            "application_id": "isaac4",
+            "version": "1.0",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-04-18",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "ISED S.p.A.",
             "application_id": "CARESTUDIO",
             "version": "1",
@@ -3784,6 +3797,19 @@
                 "VALIDATION"
             ],
             "date": "2024-03-25",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "simeds",
+            "application_id": "sicenter",
+            "version": "1",
+            "doc_type": [
+                "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-04-18",
             "gtw_version": "1.0"
         },
         {
