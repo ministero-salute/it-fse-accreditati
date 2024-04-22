@@ -35,6 +35,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |ASL5|GestioneVaccinazioni|1.0||SING_VACC,CERT_VACC|VALIDATION|2023-06-30|1.0|
 |ASL5|PHTRACK|1.0||SING_VACC|VALIDATION|2023-06-30|1.0|
 |ASL Caserta|ASLCE_ADTPS|1.0||LDO,VPS|VALIDATION|2023-05-08|1.0|
+|atlasmedica.com|atlasmedica.com|7.0||PSS|VALIDATION|2024-04-22|1.0|
 |BCS|WINDEG|7.11.0.0||LDO|VALIDATION|2023-04-06|1.0|
 |BCS|WINLAB|6.0.41.1||LAB|VALIDATION|2023-04-13|1.0|
 |BCS|PriamoRIS|4.14.0.0|4.15.0.0|RAD|VALIDATION|2023-05-16|1.0|
@@ -129,6 +130,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Engineering Ingegneria Informatica SpA|Eliot CS|20.16.00||LAB_TRASF|VALIDATION|2023-04-28|1.0|
 |Engineering Ingegneria Informatica S.p.A.|AREAS AMBWEB|20.15.00||RSA|VALIDATION|2023-12-19|1.0|
 |Engineering Ingegneria Informatica S.p.A.|Ellipse AMB|1.0.0||RSA|VALIDATION|2024-03-27|1.0|
+|Engineering Ingegneria Informatica S.p.A.|CURE|2.0||RSA|VALIDATION|2024-04-22|1.0|
 |E-SC SRL|RADX|V.9||RAD|VALIDATION|2023-05-26|1.0|
 |E-SC SRL|RADX|V.9||RAD,RSA|VALIDATION|2023-08-03|1.0|
 |ESC-INFORMATICA SRL|MEDIXIS|1.0.0||RSA|VALIDATION|2024-03-14|1.0|
@@ -292,6 +294,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |sinapsys|1.0.1|1||VPS|VALIDATION|2023-07-26|1.0|
 |SINCON S.R.L|GIAVA|6||SING_VACC,CERT_VACC|VALIDATION|2023-07-19|1.0|
 |sincronet|FSE_20_gateway|1.0||LAB,LDO,RSA|VALIDATION|2024-01-26|1.0|
+|Sined S.r.l.|MedWare|24.02.12||LDO,RSA|VALIDATION|2024-04-22|1.0|
 |SOSEPE S.R.L.|JUNIORBIT|7||PSS|VALIDATION|2024-02-07|1.0|
 |SPE.IT s.r.l.|FSE INI Adapter|1.0||LAB,RAD,LDO,RSA|VALIDATION|2023-09-21|1.0|
 |Synlab SDN|Sdn.Net|1.1.0.0||RAD,RSA|VALIDATION|2023-06-06|1.0|
