@@ -404,6 +404,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "atlasmedica.com",
+            "application_id": "atlasmedica.com",
+            "version": "7.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-04-22",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "BCS",
             "application_id": "WINDEG",
             "version": "7.11.0.0",
@@ -1678,6 +1691,19 @@
                 "VALIDATION"
             ],
             "date": "2024-03-27",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Engineering Ingegneria Informatica S.p.A.",
+            "application_id": "CURE",
+            "version": "2.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-04-22",
             "gtw_version": "1.0"
         },
         {
@@ -3849,6 +3875,19 @@
                 "VALIDATION"
             ],
             "date": "2024-01-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Sined S.r.l.",
+            "application_id": "MedWare",
+            "version": "24.02.12",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-04-22",
             "gtw_version": "1.0"
         },
         {
