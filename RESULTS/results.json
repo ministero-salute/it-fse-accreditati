@@ -2954,6 +2954,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Labica Srl",
+            "application_id": "fse2-connector",
+            "version": "1.1.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-04-29",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Lepida",
             "application_id": "CVPI_Lepida",
             "version": "1.0.0",
@@ -3123,6 +3136,19 @@
                 "VALIDATION"
             ],
             "date": "2023-03-23",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Mediagroup snc",
+            "application_id": "gesLabNet_MediaGroup@64_66",
+            "version": "2.4.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-04-29",
             "gtw_version": "1.0"
         },
         {
