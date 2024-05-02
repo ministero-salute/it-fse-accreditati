@@ -118,6 +118,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "AltaVia Srl",
+            "application_id": "RamWeb",
+            "version": "4.0.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-04-30",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "AO Ordine Mauriziano",
             "application_id": "BABELE_WPF",
             "version": "1.0",
