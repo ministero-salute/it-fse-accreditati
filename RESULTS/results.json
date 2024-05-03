@@ -3178,6 +3178,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Medinformatica",
+            "application_id": "MediStudio",
+            "version": "24.2.28.0",
+            "doc_type": [
+                "RSA", "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-05-03",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "MEDIWARE",
             "application_id": "ADVMEDNET",
             "version": "2.2.1",
@@ -3758,6 +3771,19 @@
                 "VALIDATION"
             ],
             "date": "2023-10-20",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Santer Reply",
+            "application_id": "Gestione Ambulatoriale",
+            "version": "2.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-05-03",
             "gtw_version": "1.0"
         },
         {
