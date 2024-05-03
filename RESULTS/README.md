@@ -242,6 +242,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |MEDIACLINICS ITALIA|MargheritaTre|V.3.3.0||LDO|VALIDATION|2023-03-23|1.0|
 |Mediagroup snc|gesLabNet_MediaGroup@64_66|2.4.0||RSA|VALIDATION|2024-04-29|1.0|
 |Mediatec Informatica S.r.l.|MEDICO2000|06.18||PSS|VALIDATION|2023-11-24|1.0|
+|Medinformatica|MediStudio|24.2.28.0||RSA,RAD|VALIDATION|2024-05-03|1.0|
 |MEDIWARE|ADVMEDNET|2.2.1||PSS|VALIDATION|2024-02-15|1.0|
 |Medusa Software|Urania FSE|v.1.0.0||LAB|VALIDATION|2023-07-17|1.0|
 |METEDA S.r.l.|MetaClinic|10|10.13,10.14|RSA|VALIDATION|2023-05-26|1.0|
@@ -285,6 +286,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |S3K SPA|JHIS|23.01.01||VPS,LDO|VALIDATION|2023-06-05|1.0|
 |S3K SPA|JHIS|23.01.01||VPS,LDO,RSA|VALIDATION|2024-02-12|1.0|
 |santec_vendor|santec_ecaresuite|5.0.0||RSA,LDO,VPS|VALIDATION|2023-10-20|1.0|
+|Santer Reply|Gestione Ambulatoriale|2.0||RSA|VALIDATION|2024-05-03|1.0|
 |Saxos Informatica S.R.L.|ProgettoOsp|11.108||RSA,LDO,RAD|VALIDATION|2024-04-05|1.0|
 |SCS SRL|ALCHYMIA|1.0.8||LAB|VALIDATION|2023-02-17|1.0|
 |SCS SRL|AUSYLIA|1.0.8||LDO,VPS|VALIDATION|2023-12-11|1.0|
