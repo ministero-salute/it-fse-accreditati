@@ -79,6 +79,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "ACSINFORMATICA",
+            "application_id": "WINGSR",
+            "version": "V1",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-05-13",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "ACTA Service srl",
             "application_id": "ACTALAB",
             "version": "5.48.1660",
