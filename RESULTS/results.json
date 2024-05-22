@@ -79,6 +79,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "ACSINFORMATICA",
+            "application_id": "WINGSR",
+            "version": "V1",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-05-13",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "ACTA Service srl",
             "application_id": "ACTALAB",
             "version": "5.48.1660",
@@ -303,6 +316,9 @@
             "vendor": "ASCOM UMS",
             "application_id": "DIGISTAT",
             "version": "8",
+            "equiv_releases": [
+                "8.0.0", "8.0.1", "8.1.1", "8.2.12", "8.2.2", "8.3.1"
+            ],
             "doc_type": [
                 "LDO"
             ],
@@ -362,6 +378,19 @@
                 "VALIDATION"
             ],
             "date": "2023-04-19",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "ASL3 Genovese",
+            "application_id": "SivisWeb",
+            "version": "v.2.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-05-21",
             "gtw_version": "1.0"
         },
         {
@@ -3295,7 +3324,7 @@
             "application_id": "networksanitario",
             "version": "v.4.10.106",
             "equiv_releases": [
-                "4.10.387", "4.10.391"
+                "4.10.387", "4.10.391", "4.10.395"
             ],
             "doc_type": [
                 "LDO", "RAD", "RSA", "VPS"
@@ -3330,6 +3359,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "nisatek",
+            "application_id": "adtweb",
+            "version": "2.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-05-21",
             "gtw_version": "1.0"
         },
         {
@@ -4059,7 +4101,8 @@
                 "2.11",
                 "3.0",
                 "4.0",
-                "5.0"
+                "5.0",
+                "5.1"
             ],
             "doc_type": [
                 "LAB"
@@ -4106,6 +4149,9 @@
             "vendor": "TESI SPA",
             "application_id": "OPTINET",
             "version": "25.0",
+            "equiv_releases": [
+                "26.0"
+            ],
             "doc_type": [
                 "RSA"
             ],
@@ -4132,6 +4178,9 @@
             "vendor": "TESI SPA",
             "application_id": "ENDOXWEB",
             "version": "25.0",
+            "equiv_releases": [
+                "26.0"
+            ],
             "doc_type": [
                 "RSA"
             ],
