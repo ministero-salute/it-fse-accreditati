@@ -557,7 +557,7 @@
             "application_id": "Human",
             "version": "10.6",
             "equiv_releases": [
-                "10.7", "10.8"
+                "10.7", "10.8", "10.9"
             ],
             "doc_type": [
                 "LDO", "RSA"
@@ -605,6 +605,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "CGM XDENT SOFTWARE SRL",
+            "application_id": "CGMXFSE",
+            "version": "1",
+            "doc_type": [
+                "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-05-23",
             "gtw_version": "1.0"
         },
         {
@@ -1321,6 +1334,9 @@
             "vendor": "DEDALUS SPA",
             "application_id": "INVITRO LIS",
             "version": "1.4",
+            "equiv_releases": [ 
+                "1.5"
+            ],
             "doc_type": [
                 "LAB"
             ],
@@ -2842,6 +2858,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "INFOSERVICE DI FRANCESCO LEO",
+            "application_id": "FLY",
+            "version": "2.0",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-05-23",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "INFOSYS SRL",
             "application_id": "SIOWEB",
             "version": "1.1.2",
@@ -3620,6 +3649,19 @@
                 "VALIDATION"
             ],
             "date": "2023-09-05",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "PLUSINNOVATIONSRL",
+            "application_id": "C2WEBRIS",
+            "version": "1.0.0.20",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-05-23",
             "gtw_version": "1.0"
         },
         {
