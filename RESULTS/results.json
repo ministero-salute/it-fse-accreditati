@@ -2400,6 +2400,9 @@
             "vendor": "GPI_SPA",
             "application_id": "NEOCARE",
             "version": "2.42",
+            "equiv_releases": [
+                "3.0"
+            ],
             "doc_type": [
                 "LDO"
             ],
@@ -2764,6 +2767,19 @@
                 "VALIDATION"
             ],
             "date": "2024-01-12",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Ianiri Informatica",
+            "application_id": "GipoNext",
+            "version": "5.87",
+            "doc_type": [
+                "RSA", "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-05-27",
             "gtw_version": "1.0"
         },
         {
@@ -3375,6 +3391,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "NEXERA",
+            "application_id": "ASAP",
+            "version": "V.1.0",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-05-27",
             "gtw_version": "1.0"
         },
         {
@@ -4243,6 +4272,19 @@
                 "VALIDATION"
             ],
             "date": "2024-02-05",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "TESI SPA",
+            "application_id": "GESTAOWEB",
+            "version": "6.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-05-27",
             "gtw_version": "1.0"
         },
         {
