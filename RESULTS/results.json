@@ -105,6 +105,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Afea s.r.l.",
+            "application_id": "H2O",
+            "version": "6.0",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-05-31",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "AGFA GEVAERT SPA",
             "application_id": "ELEFANTE.NET",
             "version": "2",
@@ -2627,6 +2640,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "GPI SPA",
+            "application_id": "PHI KLINIK",
+            "version": "2.4.3",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-05-31",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "GRUPPOINFORMATICO",
             "application_id": "RESMEDICA",
             "version": "10.1.701",
@@ -3327,7 +3353,8 @@
             "version": "20.0.46.0",
             "equiv_releases": [ 
                 "20.0.47.0", 
-                "20.0.48.0"
+                "20.0.48.0", 
+                "20.0.49.0"
             ],
             "doc_type": [
                 "PSS"
@@ -3489,7 +3516,7 @@
             "application_id": "nuplatform",
             "version": "2.4",
             "equiv_releases": [
-                "3.2", "3.3"
+                "3.2", "3.3", "3.4"
             ],
             "doc_type": [
                 "LDO", "RSA"
@@ -4042,6 +4069,19 @@
                 "VALIDATION"
             ],
             "date": "2023-07-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "sinapsys",
+            "application_id": "CUP_VV",
+            "version": "1.0",
+            "doc_type": [
+                "RSA", "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-05-31",
             "gtw_version": "1.0"
         },
         {
