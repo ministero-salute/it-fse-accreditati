@@ -1637,6 +1637,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "ELEKTA",
+            "application_id": "MOSAIQ",
+            "version": "3",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-06-03",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "eliossuite",
             "application_id": "0012023",
             "version": "3",
@@ -1842,6 +1855,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "ESTAR",
+            "application_id": "PLEIADE",
+            "version": "3",
+            "doc_type": [
+                "LDO", "RSA", "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-06-03",
             "gtw_version": "1.0"
         },
         {
@@ -3251,6 +3277,19 @@
                 "VALIDATION"
             ],
             "date": "2024-04-08",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "MEDAS",
+            "application_id": "MEFORT",
+            "version": "4.15.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-06-03",
             "gtw_version": "1.0"
         },
         {
