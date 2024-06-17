@@ -92,6 +92,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "ACSINFORMATICA",
+            "application_id": "MEDICALSUITE",
+            "version": "1",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-06-14",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "ACTA Service srl",
             "application_id": "ACTALAB",
             "version": "5.48.1660",
@@ -1259,7 +1272,9 @@
                 "2311.07.00.00", 
                 "2402.07.05.02",
                 "2403.07.07.00",
-                "2405.01.03.04"
+                "2405.01.03.04",
+                "2405.07.11.00",
+                "2406.07.11.01"
             ],
             "doc_type": [
                 "SING_VACC", "CERT_VACC"
@@ -1673,6 +1688,19 @@
                 "VALIDATION"
             ],
             "date": "2023-07-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "EliosSuite",
+            "application_id": "EliosSuite",
+            "version": "3",
+            "doc_type": [
+                "RAD", "RSA", "LDO", "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-06-14",
             "gtw_version": "1.0"
         },
         {
@@ -3147,6 +3175,20 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Lepida",
+            "application_id": "Lepida_CVPI",
+            "version": "2.0.0",
+            "doc_type": [
+                "SING_VACC", "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-06-14",
+            "gtw_version": "1.0"
+        },
+        
+        {
             "vendor": "LIBRA SISTEMI SRL",
             "application_id": "Geslab",
             "version": "2.0",
@@ -3388,7 +3430,7 @@
             "application_id": "MetaClinic",
             "version": "10",
             "equiv_releases": [
-                "10.13", "10.14"
+                "10.13", "10.14", "10.15"
             ],
             "doc_type": [
                 "RSA"
@@ -3407,7 +3449,8 @@
                 "20.0.47.0", 
                 "20.0.48.0", 
                 "20.0.49.0",
-                "20.0.49.1"
+                "20.0.49.1",
+                "20.0.50.0"
             ],
             "doc_type": [
                 "PSS"
