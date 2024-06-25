@@ -3338,6 +3338,9 @@
             "vendor": "MEDAS",
             "application_id": "MEFORT",
             "version": "4.15.0",
+            "equiv_releases": [
+                "4.16.0"
+            ],
             "doc_type": [
                 "RSA"
             ],
@@ -3371,6 +3374,19 @@
                 "VALIDATION"
             ],
             "date": "2024-04-29",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Mediam Servizi srl",
+            "application_id": "Linfa",
+            "version": "1.7.0.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-06-25",
             "gtw_version": "1.0"
         },
         {
