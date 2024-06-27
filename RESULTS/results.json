@@ -1786,7 +1786,7 @@
             "application_id": "Eliot 3.0",
             "version": "20.15.04",
             "doc_type": [
-                "LAB_TRASF"
+                "LAB_TRASF", "LAB"
             ],
             "service": [
                 "VALIDATION"
@@ -1799,7 +1799,7 @@
             "application_id": "Eliot CS",
             "version": "20.16.00",
             "doc_type": [
-                "LAB_TRASF"
+                "LAB_TRASF", "LAB"
             ],
             "service": [
                 "VALIDATION"
@@ -2685,7 +2685,7 @@
             "application_id": "EMOLIFE",
             "version": "10.85.0.0",
             "doc_type": [
-                "LAB_TRASF"
+                "LAB_TRASF", "LAB"
             ],
             "service": [
                 "VALIDATION"
@@ -2698,7 +2698,7 @@
             "application_id": "EMONET",
             "version": "9.6.3",
             "doc_type": [
-                "LAB_TRASF"
+                "LAB_TRASF", "LAB"
             ],
             "service": [
                 "VALIDATION"
@@ -3967,7 +3967,7 @@
             "application_id": "ELIOT_SISaR_RAS",
             "version": "20.15",
             "doc_type": [
-                "LAB_TRASF"
+                "LAB_TRASF", "LAB"
             ],
             "service": [
                 "VALIDATION"
