@@ -136,8 +136,8 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Engineering Ingegneria Informatica S.p.A.|AREAS PSWEB|20.15.00||VPS|VALIDATION|2023-03-15|1.0|
 |Engineering Ingegneria Informatica S.p.A.|Ellipse ADT|3.4.0||LDO|VALIDATION|2023-03-31|1.0|
 |Engineering Ingegneria Informatica S.p.A.|Ellipse PS|2.7.0||VPS|VALIDATION|2023-04-19|1.0|
-|Engineering Ingegneria Informatica SpA|Eliot 3.0|20.15.04||LAB_TRASF|VALIDATION|2023-04-28|1.0|
-|Engineering Ingegneria Informatica SpA|Eliot CS|20.16.00||LAB_TRASF|VALIDATION|2023-04-28|1.0|
+|Engineering Ingegneria Informatica SpA|Eliot 3.0|20.15.04||LAB_TRASF,LAB|VALIDATION|2023-04-28|1.0|
+|Engineering Ingegneria Informatica SpA|Eliot CS|20.16.00||LAB_TRASF,LAB|VALIDATION|2023-04-28|1.0|
 |Engineering Ingegneria Informatica S.p.A.|AREAS AMBWEB|20.15.00||RSA|VALIDATION|2023-12-19|1.0|
 |Engineering Ingegneria Informatica S.p.A.|Ellipse AMB|1.0.0||RSA|VALIDATION|2024-03-27|1.0|
 |Engineering Ingegneria Informatica S.p.A.|CURE|2.0||RSA|VALIDATION|2024-04-22|1.0|
@@ -203,8 +203,8 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |GPI SPA|SSI|2.0||LDO,VPS|VALIDATION|2023-06-28|1.0|
 |GPI SPA|ARCA WEB|4.3||RSA|VALIDATION|2024-02-02|1.0|
 |GPI SPA|G2 WEB|2.7_b1||RSA|VALIDATION|2024-02-02|1.0|
-|GPI SPA|EMOLIFE|10.85.0.0||LAB_TRASF|VALIDATION|2024-02-14|1.0|
-|GPI SPA|EMONET|9.6.3||LAB_TRASF|VALIDATION|2024-02-19|1.0|
+|GPI SPA|EMOLIFE|10.85.0.0||LAB_TRASF,LAB|VALIDATION|2024-02-14|1.0|
+|GPI SPA|EMONET|9.6.3||LAB_TRASF,LAB|VALIDATION|2024-02-19|1.0|
 |GPI SPA|PHI KLINIK|2.4.3||RSA|VALIDATION|2024-05-31|1.0|
 |GRUPPOINFORMATICO|RESMEDICA|10.1.701||RSA|VALIDATION|2024-01-10|1.0|
 |GRUPPOINFORMATICO|RESMEDICA|10.1.701||RSA,LAB,RAD|VALIDATION|2024-01-22|1.0|
@@ -299,7 +299,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Regione_Sardegna|ADTWEB_SISaR_RAS|20.14||LDO|VALIDATION|2023-12-18|1.0|
 |Regione_Sardegna|PSWEB_SISaR_RAS|20.14||VPS|VALIDATION|2023-12-18|1.0|
 |Regione_Sardegna|AMBWEB_SISaR_RAS|20.14||RSA|VALIDATION|2023-12-19|1.0|
-|Regione_Sardegna|ELIOT_SISaR_RAS|20.15||LAB_TRASF|VALIDATION|2024-03-25|1.0|
+|Regione_Sardegna|ELIOT_SISaR_RAS|20.15||LAB_TRASF,LAB|VALIDATION|2024-03-25|1.0|
 |xenia-reply|appheal-ldo|1.0||LDO|VALIDATION|2023-07-06|1.0|
 |S2INFORMATICA SRL|LABGUI|3.0||LAB|VALIDATION|2024-03-27|1.0|
 |S3K SPA|JHIS|23.01.01||VPS,LDO|VALIDATION|2023-06-05|1.0|
