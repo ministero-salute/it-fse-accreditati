@@ -1376,7 +1376,7 @@
             "application_id": "INVITRO LIS",
             "version": "1.4",
             "equiv_releases": [ 
-                "1.5"
+                "1.5", "1.6"
             ],
             "doc_type": [
                 "LAB"
@@ -3309,6 +3309,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "MEDARCHIVER",
+            "application_id": "MEDRADIOLOGY_FSE2.0",
+            "version": "1.0.0.0",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-07-04",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "MEDAS",
             "application_id": "VPPOWER",
             "version": "3.10.0",
@@ -3403,6 +3416,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "MEDIMATIC",
+            "application_id": "COMPACS",
+            "version": "R10",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-07-04",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Medinformatica",
             "application_id": "MediStudio",
             "version": "24.2.28.0",
@@ -3466,7 +3492,8 @@
                 "20.0.48.0", 
                 "20.0.49.0",
                 "20.0.49.1",
-                "20.0.50.0"
+                "20.0.50.0",
+                "20.0.51.0"
             ],
             "doc_type": [
                 "PSS"
@@ -4632,6 +4659,19 @@
                 "VALIDATION"
             ],
             "date": "2024-04-05",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Zucchetti Healthcare",
+            "application_id": "CSS2",
+            "version": "2024_10",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-07-04",
             "gtw_version": "1.0"
         }
     ]
