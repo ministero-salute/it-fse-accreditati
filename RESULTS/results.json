@@ -583,7 +583,7 @@
             "application_id": "Human",
             "version": "10.6",
             "equiv_releases": [
-                "10.7", "10.8", "10.9"
+                "10.7", "10.8", "10.9", "12.1"
             ],
             "doc_type": [
                 "LDO", "RSA"
@@ -1183,6 +1183,9 @@
             "vendor": "DEDALUS",
             "application_id": "TCWA",
             "version": "10.6",
+            "equiv_releases": [
+                "10.7", "10.8", "10.9"
+            ],
             "doc_type": [
                 "LDO", "RSA"
             ],
@@ -1224,6 +1227,8 @@
             "version": "5.2",
             "equiv_releases": [
                 "1.52",
+                "1.53",
+                "5.2",
                 "5.3",
                 "5.4",
                 "6.0"
@@ -2110,6 +2115,9 @@
             "vendor": "Fujifilm Italia S.p.A.",
             "application_id": "Synapse Value",
             "version": "1.6",
+            "equiv_releases": [
+                "2.0.0", "2.1.0"
+            ],
             "doc_type": [
                 "RAD", "RSA"
             ],
@@ -2798,6 +2806,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Hi.Tech",
+            "application_id": "AmbWeb",
+            "version": "2.1.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-07-12",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "HLT Management",
             "application_id": "HLT Central",
             "version": "4.2",
@@ -2977,6 +2998,19 @@
                 "VALIDATION"
             ],
             "date": "2024-05-23",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "INFOSERVICE DI FRANCESCO LEO",
+            "application_id": "FLY",
+            "version": "2.0",
+            "doc_type": [
+                "RAD", "RSA", "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-07-12",
             "gtw_version": "1.0"
         },
         {
