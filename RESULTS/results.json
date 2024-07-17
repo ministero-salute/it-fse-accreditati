@@ -501,6 +501,9 @@
             "vendor": "BCS",
             "application_id": "WINDEG",
             "version": "7.11.0.0",
+            "equiv_releases": [
+                "7.11.9.0"
+            ],
             "doc_type": [
                 "LDO"
             ],
@@ -514,6 +517,9 @@
             "vendor": "BCS",
             "application_id": "WINLAB",
             "version": "6.0.41.1",
+            "equiv_releases": [
+                "6.0.45.0"
+            ],
             "doc_type": [
                 "LAB"
             ],
@@ -543,6 +549,9 @@
             "vendor": "BCS",
             "application_id": "PriamoRIS",
             "version": "4.15.4.0",
+            "equiv_releases": [
+                "4.15.5.0"
+            ],
             "doc_type": [
                 "RAD", "RSA"
             ],
@@ -556,6 +565,9 @@
             "vendor": "BCS",
             "application_id": "WINPS",
             "version": "8.0.49.5",
+            "equiv_releases": [
+                "9.0.5.0"
+            ],
             "doc_type": [
                 "VPS"
             ],
@@ -1979,6 +1991,19 @@
                 "VALIDATION"
             ],
             "date": "2023-06-08",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "exprivia",
+            "application_id": "aurora",
+            "version": "2.23",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-07-17",
             "gtw_version": "1.0"
         },
         {
@@ -4660,6 +4685,9 @@
             "vendor": "Wezen Technologies s.r.l.",
             "application_id": "HealthMeeting",
             "version": "95.55.135",
+            "equiv_releases": [
+                "96.56.136"
+            ],
             "doc_type": [
                 "RSA"
             ],
