@@ -118,6 +118,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "ADL",
+            "application_id": "ARIA",
+            "version": "2.99.2",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-07-29",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Afea s.r.l.",
             "application_id": "H2O",
             "version": "6.0",
@@ -3049,6 +3062,22 @@
                 "VALIDATION"
             ],
             "date": "2024-07-12",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "INFOSERVICE DI FRANCESCO LEO",
+            "application_id": "GESCON",
+            "version": "5",
+            "doc_type": [
+                "RSA"
+            ],
+            "equiv_releases": [
+                "WEB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-07-29",
             "gtw_version": "1.0"
         },
         {
