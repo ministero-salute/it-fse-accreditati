@@ -604,6 +604,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "BCS",
+            "application_id": "PriamoCCE",
+            "version": "5.2",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-08-07",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "BiMind",
             "application_id": "Human",
             "version": "10.6",
