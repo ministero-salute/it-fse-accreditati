@@ -1036,6 +1036,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "DATASOFTWARE SRL",
+            "application_id": "INTELLILAB",
+            "version": "3",
+            "doc_type": [
+                "LAB","RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-09-03",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "DBMSOFTWARE SRLS",
             "application_id": "DBMEDICA",
             "version": "1.0",
@@ -3804,6 +3817,19 @@
                 "VALIDATION"
             ],
             "date": "2023-10-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "o3enterprise",
+            "application_id": "cis",
+            "version": "4.20.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-09-03",
             "gtw_version": "1.0"
         },
         {
