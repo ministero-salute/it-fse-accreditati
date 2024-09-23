@@ -131,6 +131,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "advenias",
+            "application_id": "epersonam",
+            "version": "1.0.0",
+            "doc_type": [
+                "LDO","RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-09-23",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Afea s.r.l.",
             "application_id": "H2O",
             "version": "6.0",
