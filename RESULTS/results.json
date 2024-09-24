@@ -3120,6 +3120,9 @@
             "vendor": "INFOSERVICE DI FRANCESCO LEO",
             "application_id": "FLY",
             "version": "2.0",
+            "equiv_releases": [
+                "2.02"
+            ],
             "doc_type": [
                 "RAD", "RSA", "LAB"
             ],
@@ -3312,6 +3315,19 @@
                 "VALIDATION"
             ],
             "date": "2023-10-24",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Kromix",
+            "application_id": "Cognitio",
+            "version": "V.1.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-09-24",
             "gtw_version": "1.0"
         },
         {
