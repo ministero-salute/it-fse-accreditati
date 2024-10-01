@@ -381,6 +381,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "ASCOM UMS",
+            "application_id": "DIGISTAT_INTEGRATION_LDO",
+            "version": "1",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-09-30",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "asl2savonese",
             "application_id": "onesys",
             "version": "2.6.0",
@@ -4483,6 +4496,19 @@
                 "VALIDATION"
             ],
             "date": "2023-09-21",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "STI srl",
+            "application_id": "IGEA",
+            "version": "V.1.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-09-30",
             "gtw_version": "1.0"
         },
         {
