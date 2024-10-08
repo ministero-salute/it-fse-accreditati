@@ -196,6 +196,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "ALMAVALUE_SRL",
+            "application_id": "Doctor_Manager_DMFSE",
+            "version": "1.0",
+            "doc_type": [
+                "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-10-08",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "AltaVia Srl",
             "application_id": "RamWeb",
             "version": "4.0.0",
@@ -2008,7 +2021,7 @@
         },
         {
             "vendor": "Eurochimica Srl",
-            "application_id": "Emaging-RIS-gtw-clientB",
+            "application_id": "Emaging-RIS-gtw-client",
             "version": "1.1",
             "doc_type": [
                 "RAD"
@@ -4522,6 +4535,19 @@
                 "VALIDATION"
             ],
             "date": "2023-06-06",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Sys-Dat",
+            "application_id": "Sys-Clinique",
+            "version": "6.3.29.3",
+            "doc_type": [
+                "LDO", "RAD","LAB","RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-10-08",
             "gtw_version": "1.0"
         },
         {
