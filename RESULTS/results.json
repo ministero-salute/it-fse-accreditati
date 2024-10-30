@@ -1491,6 +1491,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Dedalus",
+            "application_id": "4C Suite",
+            "version": "6.4",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-10-30",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "DEDALUS SPA",
             "application_id": "CONCERTO",
             "version": "22.1.1",
