@@ -1946,6 +1946,10 @@
             "vendor": "Engineering Ingegneria Informatica SpA",
             "application_id": "Eliot 3.0",
             "version": "20.15.04",
+            "equiv_releases": [
+                "20.15.05",
+                "20.15.06"
+            ],
             "doc_type": [
                 "LAB_TRASF", "LAB"
             ],
@@ -2565,7 +2569,8 @@
             "version": "8.0",
             "equiv_releases": [
                 "8.1",
-                "8.3"
+                "8.3",
+                "8.4"
             ],
             "doc_type": [
                 "LDO"
@@ -2812,7 +2817,8 @@
             "version": "8.0",
             "equiv_releases": [
                 "8.1",
-                "8.3"
+                "8.3",
+                "8.4"
             ],
             "doc_type": [
                 "RSA"
