@@ -209,6 +209,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "AlfaDocs Italia srl",
+            "application_id": "AlfaDocs",
+            "version": "20240717",
+            "doc_type": [
+                "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2022-11-21",
+            "gtw_version": "1.0"
+        },        
+        {
             "vendor": "ALMAVALUE_SRL",
             "application_id": "Doctor_Manager_DMFSE",
             "version": "1.0",
@@ -1641,6 +1654,19 @@
                 "VALIDATION"
             ],
             "date": "2023-09-05",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DLService",
+            "application_id": "MediciConvenzionati",
+            "version": "15.0",
+            "doc_type": [
+                "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-11-21",
             "gtw_version": "1.0"
         },
         {
@@ -3779,7 +3805,9 @@
                 "20.0.50.0",
                 "20.0.51.0",
                 "20.0.52.0",
-                "20.0.53.0"
+                "20.0.53.0",
+                "20.0.53.2",
+                "20.0.54.0"
             ],
             "doc_type": [
                 "PSS"
@@ -3814,6 +3842,19 @@
                 "VALIDATION"
             ],
             "date": "2023-09-29",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Namur srl",
+            "application_id": "GLPX",
+            "version": "1.0",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-11-21",
             "gtw_version": "1.0"
         },
         {
@@ -4182,6 +4223,19 @@
                 "VALIDATION"
             ],
             "date": "2023-06-08",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "PRAEZISION",
+            "application_id": "ISOLABELLA",
+            "version": "3.29.0.X",
+            "doc_type": [
+                "VPS", "LDO", "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-11-21",
             "gtw_version": "1.0"
         },
         {
