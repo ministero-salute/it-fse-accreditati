@@ -3849,7 +3849,7 @@
             "application_id": "GLPX",
             "version": "1.0",
             "doc_type": [
-                "RAD"
+                "LAB"
             ],
             "service": [
                 "VALIDATION"
