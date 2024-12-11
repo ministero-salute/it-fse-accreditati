@@ -2,11 +2,16 @@
   "names": [
     {
       "appVendor": "MILLENNIUM SRL",
-      "appID": "MILLEWIN",
-      "appVersion": "20.0.46.0",
       "ts": "2024-11-27T17:30:00Z",
       "equiv_names": [
         "MILLENNIUM SPA"
+      ]
+    },
+    {
+      "appVendor": "GPI_SPA",
+      "ts": "2024-12-11T14:20:00Z",
+      "equiv_names": [
+        "GPI SPA"
       ]
     }
   ]
