@@ -1606,6 +1606,19 @@
         },
         {
             "vendor": "DEDALUS SPA",
+            "application_id": "ARGOS",
+            "version": "4.25.25706",
+            "doc_type": [
+                "LDO","RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-12-12",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DEDALUS SPA",
             "application_id": "OK-DH",
             "version": "3.0.0",
             "doc_type": [
@@ -1654,6 +1667,19 @@
                 "VALIDATION"
             ],
             "date": "2023-09-05",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DICOMDATA",
+            "application_id": "DocRis Pro",
+            "version": "4.2.0",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-12-12",
             "gtw_version": "1.0"
         },
         {
@@ -1784,6 +1810,19 @@
                 "VALIDATION"
             ],
             "date": "2023-11-28",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "EBNeuro",
+            "application_id": "Galileo",
+            "version": "4.60",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-12-12",
             "gtw_version": "1.0"
         },
         {
@@ -3862,7 +3901,7 @@
             "application_id": "networksanitario",
             "version": "v.4.10.106",
             "equiv_releases": [
-                "4.10.387", "4.10.391", "4.10.395"
+                "4.10.387", "4.10.391", "4.10.395", "4.10.422"
             ],
             "doc_type": [
                 "LDO", "RAD", "RSA", "VPS"
@@ -4483,6 +4522,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-15",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "SID SRL",
+            "application_id": "SICO",
+            "version": "V2023",
+            "doc_type": [
+                "LDO","RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-12-12",
             "gtw_version": "1.0"
         },
         {
