@@ -2053,7 +2053,10 @@
         {
             "vendor": "Engineering Ingegneria Informatica S.p.A.",
             "application_id": "Ellipse AMB",
-            "version": "1.0.0",
+            "version": "4.0.0",
+            "equiv_releases": [
+                "4.1.0"
+            ],
             "doc_type": [
                 "RSA"
             ],
