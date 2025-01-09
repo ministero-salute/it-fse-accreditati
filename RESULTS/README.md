@@ -155,7 +155,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Engineering Ingegneria Informatica SpA|Eliot 3.0|20.15.04|20.15.05,20.15.06|LAB_TRASF,LAB|VALIDATION|2023-04-28|1.0|
 |Engineering Ingegneria Informatica SpA|Eliot CS|20.16.00||LAB_TRASF,LAB|VALIDATION|2023-04-28|1.0|
 |Engineering Ingegneria Informatica S.p.A.|AREAS AMBWEB|20.15.00||RSA|VALIDATION|2023-12-19|1.0|
-|Engineering Ingegneria Informatica S.p.A.|Ellipse AMB|1.0.0||RSA|VALIDATION|2024-03-27|1.0|
+|Engineering Ingegneria Informatica S.p.A.|Ellipse AMB|4.0.0|4.1.0|RSA|VALIDATION|2024-03-27|1.0|
 |Engineering Ingegneria Informatica S.p.A.|CURE|2.0||RSA|VALIDATION|2024-04-22|1.0|
 |E-SC SRL|RADX|V.9||RAD|VALIDATION|2023-05-26|1.0|
 |E-SC SRL|RADX|V.9||RAD,RSA|VALIDATION|2023-08-03|1.0|
