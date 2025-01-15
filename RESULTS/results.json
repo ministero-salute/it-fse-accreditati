@@ -365,6 +365,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Arbitek",
+            "application_id": "VisionDep",
+            "version": "1.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-01-14",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "ARIA SPA",
             "application_id": "CDA2VACC",
             "version": "1.0",
@@ -2638,7 +2651,9 @@
             "equiv_releases": [
                 "8.1",
                 "8.3",
-                "8.4"
+                "8.4",
+                "8.5",
+                "8.6"
             ],
             "doc_type": [
                 "LDO"
@@ -2886,7 +2901,9 @@
             "equiv_releases": [
                 "8.1",
                 "8.3",
-                "8.4"
+                "8.4",
+                "8.5",
+                "8.6"
             ],
             "doc_type": [
                 "RSA"
@@ -3824,7 +3841,11 @@
             "application_id": "MetaClinic",
             "version": "10",
             "equiv_releases": [
-                "10.13", "10.14", "10.15","10.16"
+                "10.13", 
+                "10.14", 
+                "10.15",
+                "10.16",
+                "10.17"
             ],
             "doc_type": [
                 "RSA"
@@ -3913,6 +3934,19 @@
                 "VALIDATION"
             ],
             "date": "2023-07-12",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "NEOTEK SOLUTIONS SRL",
+            "application_id": "SALUTEADESSOFSE",
+            "version": "2.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-01-14",
             "gtw_version": "1.0"
         },
         {
@@ -4174,6 +4208,32 @@
                 "VALIDATION"
             ],
             "date": "2023-06-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Onit Sanita",
+            "application_id": "Klinika",
+            "version": "1.2.0",
+            "doc_type": [
+                "LDO", "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-01-14",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Onit Sanita",
+            "application_id": "OnHealth",
+            "version": "1.2.0",
+            "doc_type": [
+                "LDO", "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-01-14",
             "gtw_version": "1.0"
         },
         {
