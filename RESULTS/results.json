@@ -1166,6 +1166,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "DEC Sistemi Srl",
+            "application_id": "LABNET",
+            "version": "1.4",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2024-01-23",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "DEDALO SOFTWARE",
             "application_id": "DS LABO",
             "version": "1.0",
@@ -4957,7 +4970,9 @@
                 "26.0",
                 "27.0",
                 "27.1",
-                "28.0"
+                "28.0",
+                "28.1",
+                "28.2"
             ],
             "doc_type": [
                 "RSA"
