@@ -1547,7 +1547,7 @@
             "application_id": "CONCERTO",
             "version": "22.1.1",
             "equiv_releases": [ 
-                "23.0.0"
+                "23.0.0", "22.1.2", "23.0.1", "23.1.0"
             ],
             "doc_type": [
                 "LAB"
@@ -1797,6 +1797,19 @@
                 "VALIDATION"
             ],
             "date": "2023-06-30",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "e-Shark S.r.l.",
+            "application_id": "FaithG",
+            "version": "2.9.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-02-03",
             "gtw_version": "1.0"
         },
         {
@@ -2399,7 +2412,7 @@
             "application_id": "Synapse Value",
             "version": "1.6",
             "equiv_releases": [
-                "2.0.0", "2.1.0"
+                "2.0.0", "2.1.0", "2.1.1", "2.1.2"
             ],
             "doc_type": [
                 "RAD", "RSA"
@@ -3133,6 +3146,19 @@
                 "VALIDATION"
             ],
             "date": "2024-01-23",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "HLT Management",
+            "application_id": "HLT Central",
+            "version": "4.2",
+            "doc_type": [
+                "LDO", "RSA", "RAD", "LAB", "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-02-03",
             "gtw_version": "1.0"
         },
         {
@@ -5186,7 +5212,7 @@
             "application_id": "HealthMeeting",
             "version": "95.55.135",
             "equiv_releases": [
-                "96.56.136"
+                "96.56.136", "97.57.137"
             ],
             "doc_type": [
                 "RSA"
