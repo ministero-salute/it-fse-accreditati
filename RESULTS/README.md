@@ -117,7 +117,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |DEDALUS SPA|LDOTO5|2.0||LDO|VALIDATION|2023-06-26|1.0|
 |Dedalus|4C Suite|5.5.0|6.1,6.1.4,6.2|LDO|VALIDATION|2023-07-07|1.0|
 |Dedalus|4C Suite|6.4||LDO,RSA|VALIDATION|2024-10-30|1.0|
-|DEDALUS SPA|CONCERTO|22.1.1|23.0.0|LAB|VALIDATION|2023-07-19|1.0|
+|DEDALUS SPA|CONCERTO|22.1.1|23.0.0,22.1.2,23.0.1,23.1.0|LAB|VALIDATION|2023-07-19|1.0|
 |Dedalus|ELEKTRA|4.2||RAD|VALIDATION|2023-08-03|1.0|
 |DEDALUS SPA|INVITRO LIS|1.4|1.5,1.6|LAB|VALIDATION|2023-10-18|1.0|
 |Dedalus|4C Suite|6.1|6.1.4,6.2|RSA|VALIDATION|2023-10-20|1.0|
@@ -136,6 +136,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |DTS CONSULTING SRL|DTSHIS|1.0||LAB,LDO,RAD,VPS,RSA|VALIDATION|2023-07-11|1.0|
 |dxc|sinfonia-vaccini|2.0||SING_VACC,CERT_VACC|VALIDATION|2023-06-08|1.0|
 |e-Shark S.r.l.|Faith|2.8.4||RSA|VALIDATION|2023-06-30|1.0|
+|e-Shark S.r.l.|FaithG|2.9.0||PSS|VALIDATION|2025-02-03|1.0|
 |e-Shark S.r.l.|FaithK|2.9.0||PSS|VALIDATION|2024-01-23|1.0|
 |EBITSRL|SUITESTENSA|2.1b34.x||RAD|VALIDATION|2023-05-15|1.0|
 |EBITSRL|SUITESTENSA|2.1b34.x||RAD,LDO,RSA|VALIDATION|2023-11-28|1.0|
@@ -181,7 +182,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Fondazione Toscana Gabriele Monasterio|ISA|1.15.0||LDO,RSA|VALIDATION|2023-10-24|1.0|
 |Fondazione Toscana Gabriele Monasterio|C6|6.1.3||RAD,LAB|VALIDATION|2023-05-29|1.0|
 |Fujifilm Italia S.p.A.|Synapse Value|1.6||RAD|VALIDATION|2023-04-19|1.0|
-|Fujifilm Italia S.p.A.|Synapse Value|1.6|2.0.0,2.1.0|RAD,RSA|VALIDATION|2024-03-06|1.0|
+|Fujifilm Italia S.p.A.|Synapse Value|1.6|2.0.0,2.1.0,2.1.1,2.1.2|RAD,RSA|VALIDATION|2024-03-06|1.0|
 |Fujifilm Italia S.p.A.|Synapse Workflow|4.33||RAD|VALIDATION|2023-04-19|1.0|
 |Fujifilm Italia S.p.A.|Synapse Workflow|4.33||RAD,RSA|VALIDATION|2024-03-06|1.0|
 |Gara Software|AnaSanPlus|1.0||RAD,RSA,LDO,VPS,LAB|VALIDATION|2024-04-10|1.0|
@@ -235,6 +236,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Hi.Tech|AcceWeb|2.1.0||LDO|VALIDATION|2024-02-05|1.0|
 |Hi.Tech|AmbWeb|2.1.0||RSA|VALIDATION|2024-07-12|1.0|
 |HLT Management|HLT Central|4.2||LDO,RSA|VALIDATION|2024-01-23|1.0|
+|HLT Management|HLT Central|4.2||LDO,RSA,RAD,LAB,VPS|VALIDATION|2025-02-03|1.0|
 |HS INFORMATICA|HS LABO|1.0||LAB|VALIDATION|2023-10-27|1.0|
 |HTINFORMATICA SRL|HTSANg|3.1.0||LAB,RAD,LDO,RSA|VALIDATION|2023-12-15|1.0|
 |IASI S.r.l|SISWeb|2.4.8||LDO,VPS,RAD,RSA|VALIDATION|2023-04-19|1.0|
@@ -386,7 +388,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Unicode srl|8054145120002|2023.02.10.224||LDO,RSA|VALIDATION|2023-11-24|1.0|
 |WECONSTUDIO|CDCSM|1.0||LDO|VALIDATION|2023-09-21|1.0|
 |Werfen S.p.A|Modulab|4.5.0||LAB|VALIDATION|2023-04-13|1.0|
-|Wezen Technologies s.r.l.|HealthMeeting|95.55.135|96.56.136|RSA|VALIDATION|2024-03-25|1.0|
+|Wezen Technologies s.r.l.|HealthMeeting|95.55.135|96.56.136,97.57.137|RSA|VALIDATION|2024-03-25|1.0|
 |Zucchetti Centro Sistema s.p.a|JLAB|v.9.0||LAB|VALIDATION|2023-06-08|1.0|
 |Zucchetti Centro Sistema s.p.a|JAB0|v.9||LAB|VALIDATION|2024-04-05|1.0|
 |Zucchetti Healthcare|CSS2|2024_10||LDO|VALIDATION|2024-07-04|1.0|
