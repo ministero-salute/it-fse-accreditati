@@ -157,6 +157,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "advenias",
+            "application_id": "epersonam",
+            "version": "1.0.0",
+            "doc_type": [
+                "LDO","RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-02-07",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Afea s.r.l.",
             "application_id": "H2O",
             "version": "6.0",
@@ -2094,7 +2107,8 @@
             "application_id": "Ellipse AMB",
             "version": "4.0.0",
             "equiv_releases": [
-                "4.1.0"
+                "4.1.0",
+                "4.4.0"
             ],
             "doc_type": [
                 "RSA"
@@ -2447,6 +2461,19 @@
                 "VALIDATION"
             ],
             "date": "2024-03-06",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Fujifilm Italia S.p.A.",
+            "application_id": "Synapse WorkflowES",
+            "version": "1.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-02-07",
             "gtw_version": "1.0"
         },
         {
@@ -3316,6 +3343,18 @@
             ],
             "date": "2023-08-30",
             "gtw_version": "1.0"
+        },        {
+            "vendor": "Infordata Digital Health Solutions",
+            "application_id": "AstroL@bI/O",
+            "version": "11.252.694",
+            "doc_type": [
+                "LAB", "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-02-07",
+            "gtw_version": "1.0"
         },
         {
             "vendor": "INFOSERVICE DI FRANCESCO LEO",
@@ -3506,6 +3545,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "KAPPAWEB SRL",
+            "application_id": "KAPPAMED",
+            "version": "13.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-02-07",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "KIRANET",
             "application_id": "FIDCARE",
             "version": "5.4.0",
@@ -3516,6 +3568,19 @@
                 "VALIDATION"
             ],
             "date": "2023-06-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "KIRANET SRL",
+            "application_id": "FIDCARE",
+            "version": "5.25",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-02-07",
             "gtw_version": "1.0"
         },
         {
