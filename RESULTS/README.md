@@ -16,6 +16,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |ACTA Service srl|ACTALAB|5.48.1660||LAB|VALIDATION|2023-09-15|1.0|
 |ADL|ARIA|2.99.2||PSS|VALIDATION|2024-07-29|1.0|
 |advenias|epersonam|1.0.0||LDO,RSA|VALIDATION|2024-09-23|1.0|
+|advenias|epersonam|1.0.0||LDO,RSA|VALIDATION|2025-02-07|1.0|
 |Afea s.r.l.|H2O|6.0||LDO,RSA|VALIDATION|2024-05-31|1.0|
 |AGFA GEVAERT SPA|ELEFANTE.NET|2||RAD|VALIDATION|2023-03-21|1.0|
 |agilesrl|cliniclick|1.15.9||LDO,VPS|VALIDATION|2023-05-15|1.0|
@@ -158,7 +159,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Engineering Ingegneria Informatica SpA|Eliot 3.0|20.15.04|20.15.05,20.15.06|LAB_TRASF,LAB|VALIDATION|2023-04-28|1.0|
 |Engineering Ingegneria Informatica SpA|Eliot CS|20.16.00||LAB_TRASF,LAB|VALIDATION|2023-04-28|1.0|
 |Engineering Ingegneria Informatica S.p.A.|AREAS AMBWEB|20.15.00||RSA|VALIDATION|2023-12-19|1.0|
-|Engineering Ingegneria Informatica S.p.A.|Ellipse AMB|4.0.0|4.1.0|RSA|VALIDATION|2024-03-27|1.0|
+|Engineering Ingegneria Informatica S.p.A.|Ellipse AMB|4.0.0|4.1.0,4.4.0|RSA|VALIDATION|2024-03-27|1.0|
 |Engineering Ingegneria Informatica S.p.A.|CURE|2.0||RSA|VALIDATION|2024-04-22|1.0|
 |E-SC SRL|RADX|V.9||RAD|VALIDATION|2023-05-26|1.0|
 |E-SC SRL|RADX|V.9||RAD,RSA|VALIDATION|2023-08-03|1.0|
@@ -185,6 +186,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Fujifilm Italia S.p.A.|Synapse Value|1.6|2.0.0,2.1.0,2.1.1,2.1.2|RAD,RSA|VALIDATION|2024-03-06|1.0|
 |Fujifilm Italia S.p.A.|Synapse Workflow|4.33||RAD|VALIDATION|2023-04-19|1.0|
 |Fujifilm Italia S.p.A.|Synapse Workflow|4.33||RAD,RSA|VALIDATION|2024-03-06|1.0|
+|Fujifilm Italia S.p.A.|Synapse WorkflowES|1.0||RSA|VALIDATION|2025-02-07|1.0|
 |Gara Software|AnaSanPlus|1.0||RAD,RSA,LDO,VPS,LAB|VALIDATION|2024-04-10|1.0|
 |GasNet Group|SaniPocket|1.0||RSA|VALIDATION|2024-09-09|1.0|
 |GEMSI|CENTRICITYRIS|7||RAD|VALIDATION|2023-08-30|1.0|
@@ -249,6 +251,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |IL MELOGRANO DATA SERVICES|FSE-LDO|1.0||LDO|VALIDATION|2023-12-15|1.0|
 |Infonext S.r.l.|eVac|3.0.0||SING_VACC,CERT_VACC|VALIDATION|2023-04-19|1.0|
 |Infordata Digital Health Solutions|AstroL@bI/O|11.231.650||LAB|VALIDATION|2023-08-30|1.0|
+|Infordata Digital Health Solutions|AstroL@bI/O|11.252.694||LAB,RAD,RSA|VALIDATION|2025-02-07|1.0|
 |INFOSERVICE DI FRANCESCO LEO|FLY|2.0||RAD|VALIDATION|2024-05-23|1.0|
 |INFOSERVICE DI FRANCESCO LEO|FLY|2.0|2.02|RAD,RSA,LAB|VALIDATION|2024-07-12|1.0|
 |INFOSERVICE DI FRANCESCO LEO|GESCON|5|WEB|RSA|VALIDATION|2024-07-29|1.0|
@@ -263,7 +266,9 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |InterSystems Italia S.r.l.|TrakCare|ITXX||VPS,RAD,LDO,RSA|VALIDATION|2023-05-23|1.0|
 |isaac4|isaac4|1.0||RAD|VALIDATION|2024-04-18|1.0|
 |ISED S.p.A.|CARESTUDIO|1||PSS|VALIDATION|2024-04-03|1.0|
+|KAPPAWEB SRL|KAPPAMED|13.0||PSS|VALIDATION|2025-02-07|1.0|
 |KIRANET|FIDCARE|5.4.0||RSA|VALIDATION|2023-06-26|1.0|
+|KIRANET SRL|FIDCARE|5.25||LDO,RSA|VALIDATION|2025-02-07|1.0|
 |KOSGROUP|NETHOSPITAL|2.5.0||RSA,LDO|VALIDATION|2023-10-24|1.0|
 |Kromix|Cognitio|V.1.0||RSA|VALIDATION|2024-09-24|1.0|
 |Labica Srl|fse2-connector|1.1.0||LAB|VALIDATION|2024-04-29|1.0|
