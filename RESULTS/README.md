@@ -161,6 +161,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Engineering Ingegneria Informatica S.p.A.|AREAS AMBWEB|20.15.00||RSA|VALIDATION|2023-12-19|1.0|
 |Engineering Ingegneria Informatica S.p.A.|Ellipse AMB|4.0.0|4.1.0,4.4.0|RSA|VALIDATION|2024-03-27|1.0|
 |Engineering Ingegneria Informatica S.p.A.|CURE|2.0||RSA|VALIDATION|2024-04-22|1.0|
+|Engineering Ingegneria Informatica SpA|Winsap 3.0|20.17.02||RAP|VALIDATION|2025-02-13|1.0|
 |E-SC SRL|RADX|V.9||RAD|VALIDATION|2023-05-26|1.0|
 |E-SC SRL|RADX|V.9||RAD,RSA|VALIDATION|2023-08-03|1.0|
 |ESC-INFORMATICA SRL|MEDIXIS|1.0.0||RSA|VALIDATION|2024-03-14|1.0|
