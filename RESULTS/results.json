@@ -2133,6 +2133,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Engineering Ingegneria Informatica SpA",
+            "application_id": "Winsap 3.0",
+            "version": "20.17.02",
+            "doc_type": [
+                "RAP"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-02-13",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "E-SC SRL",
             "application_id": "RADX",
             "version": "V.9",
