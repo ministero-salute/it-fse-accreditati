@@ -3564,6 +3564,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "JOKER SRL",
+            "application_id": "MGCup",
+            "version": "1.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-03-06",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "KAPPAWEB SRL",
             "application_id": "KAPPAMED",
             "version": "13.0",
@@ -3947,6 +3960,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "MEDIWARE",
+            "application_id": "ADVMEDNET",
+            "version": "2.2.2",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-03-06",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Medusa Software",
             "application_id": "Urania FSE",
             "version": "v.1.0.0",
@@ -4109,6 +4135,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "NEXUS/ASTRAIA",
+            "application_id": "ASTRAIA",
+            "version": "V.29.1.3",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-03-06",
             "gtw_version": "1.0"
         },
         {
@@ -5159,6 +5198,19 @@
                 "VALIDATION"
             ],
             "date": "2023-12-15",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "TOMproject srls",
+            "application_id": "tomko med",
+            "version": "2.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-03-06",
             "gtw_version": "1.0"
         },
         {
