@@ -4031,6 +4031,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "MILLENNIUM SPA",
+            "application_id": "MILLEWIN",
+            "version": "20.0.55.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-03-07",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "mimedical",
             "application_id": "webrap3",
             "version": "webrap3",
