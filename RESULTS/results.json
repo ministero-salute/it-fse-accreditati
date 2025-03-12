@@ -5160,6 +5160,19 @@
         },
         {
             "vendor": "TESI SPA",
+            "application_id": "EMOWEB",
+            "version": "3.3",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-03-11",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "TESI SPA",
             "application_id": "WINLAB",
             "version": "5.0",
             "equiv_releases": [
