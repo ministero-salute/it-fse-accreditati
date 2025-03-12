@@ -1128,6 +1128,9 @@
         },
         {
             "vendor": "DATASOFTWARE SRL",
+            "equiv_names": [
+                "DATASOFTWARE S.R.L"
+            ],
             "application_id": "INTELLILAB",
             "version": "3",
             "doc_type": [
@@ -1141,6 +1144,9 @@
         },
         {
             "vendor": "DATASOFTWARE SRL",
+            "equiv_names": [
+                "DATASOFTWARE S.R.L"
+            ],
             "application_id": "INTELLILAB",
             "version": "3",
             "doc_type": [
@@ -1154,6 +1160,9 @@
         },
         {
             "vendor": "DATASOFTWARE SRL",
+            "equiv_names": [
+                "DATASOFTWARE S.R.L"
+            ],
             "application_id": "INTELLILAB",
             "version": "3",
             "equiv_releases": [
@@ -2676,6 +2685,9 @@
         },
         {
             "vendor": "GPI_SPA",
+            "equiv_names": [
+                "GPI SPA"
+            ],
             "application_id": "CCE_Cartella_Clinica_Elettronica",
             "version": "14",
             "doc_type": [
@@ -2689,6 +2701,9 @@
         },
         {
             "vendor": "GPI SPA",
+            "equiv_names": [
+                "GPI_SPA"
+            ],
             "application_id": "CCE_Cartella_Clinica_Elettronica",
             "version": "14",
             "doc_type": [
@@ -2702,6 +2717,9 @@
         },
         {
             "vendor": "GPI_SPA",
+            "equiv_names": [
+                "GPI SPA"
+            ],
             "application_id": "NGH PS",
             "version": "4.0",
             "doc_type": [
@@ -2715,6 +2733,9 @@
         },
         {
             "vendor": "GPI_SPA",
+            "equiv_names": [
+                "GPI SPA"
+            ],
             "application_id": "NGH ADT",
             "version": "8.0",
             "equiv_releases": [
@@ -2735,6 +2756,9 @@
         },
         {
             "vendor": "GPI_SPA",
+            "equiv_names": [
+                "GPI SPA"
+            ],
             "application_id": "PSNET",
             "version": "PSW04.00.05.11",
             "doc_type": [
@@ -2748,6 +2772,9 @@
         },
         {
             "vendor": "GPI_SPA",
+            "equiv_names": [
+                "GPI SPA"
+            ],
             "application_id": "IM-LISA",
             "version": "3.21_b5",
             "doc_type": [
@@ -2761,6 +2788,9 @@
         },
         {
             "vendor": "GPI_SPA",
+            "equiv_names": [
+                "GPI SPA"
+            ],
             "application_id": "G2CLINICO",
             "version": "G2.0.01.011",
             "doc_type": [
@@ -2774,6 +2804,9 @@
         },
         {
             "vendor": "GPI_SPA",
+            "equiv_names": [
+                "GPI SPA"
+            ],
             "application_id": "HCSUITE",
             "version": "3.19.23",
             "doc_type": [
@@ -2787,6 +2820,9 @@
         },
         {
             "vendor": "GPI SPA",
+            "equiv_names": [
+                "GPI_SPA"
+            ],
             "application_id": "HCSUITE",
             "version": "3.19.23",
             "doc_type": [
@@ -2800,6 +2836,9 @@
         },
         {
             "vendor": "GPI_SPA",
+            "equiv_names": [
+                "GPI SPA"
+            ],
             "application_id": "IE-DEA",
             "version": "8.112_b13",
             "doc_type": [
@@ -2813,6 +2852,9 @@
         },
         {
             "vendor": "GPI_SPA",
+            "equiv_names": [
+                "GPI SPA"
+            ],
             "application_id": "PIESSE",
             "version": "8832_b1",
             "doc_type": [
@@ -2826,6 +2868,9 @@
         },
         {
             "vendor": "GPI_SPA",
+            "equiv_names": [
+                "GPI SPA"
+            ],
             "application_id": "AMICO",
             "version": "2.21.2",
             "equiv_releases": [
@@ -2842,6 +2887,9 @@
         },
         {
             "vendor": "GPI_SPA",
+            "equiv_names": [
+                "GPI SPA"
+            ],
             "application_id": "NEOCARE",
             "version": "2.42",
             "equiv_releases": [
@@ -2858,6 +2906,9 @@
         },
         {
             "vendor": "GPI SPA",
+            "equiv_names": [
+                "GPI_SPA"
+            ],
             "application_id": "IE-OPERA",
             "version": "5.0",
             "equiv_releases": [
@@ -2879,6 +2930,9 @@
         },
         {
             "vendor": "GPI SPA",
+            "equiv_names": [
+                "GPI_SPA"
+            ],
             "application_id": "IE-OPERA",
             "version": "5.0",
             "equiv_releases": [
@@ -2900,6 +2954,9 @@
         },
         {
             "vendor": "GPI SPA",
+            "equiv_names": [
+                "GPI_SPA"
+            ],
             "application_id": "IE-DEGENTI",
             "version": "9.98_b25",
             "doc_type": [
@@ -2913,6 +2970,9 @@
         },
         {
             "vendor": "GPI SPA",
+            "equiv_names": [
+                "GPI_SPA"
+            ],
             "application_id": "PHI",
             "version": "1.67",
             "doc_type": [
@@ -2926,6 +2986,9 @@
         },
         {
             "vendor": "GPI SPA",
+            "equiv_names": [
+                "GPI_SPA"
+            ],
             "application_id": "PHI",
             "version": "1.67",
             "doc_type": [
@@ -2939,6 +3002,9 @@
         },
         {
             "vendor": "GPI SPA",
+            "equiv_names": [
+                "GPI_SPA"
+            ],
             "application_id": "IM-PATIDOK",
             "version": "IT_10.0.1",
             "doc_type": [
@@ -2952,6 +3018,9 @@
         },
         {
             "vendor": "GPI SPA",
+            "equiv_names": [
+                "GPI_SPA"
+            ],
             "application_id": "IM-PATIDOK",
             "version": "IT_10.0.1",
             "doc_type": [
@@ -2965,6 +3034,9 @@
         },
         {
             "vendor": "GPI SPA",
+            "equiv_names": [
+                "GPI_SPA"
+            ],
             "application_id": "NGH CCA",
             "version": "8.0",
             "equiv_releases": [
@@ -2985,6 +3057,9 @@
         },
         {
             "vendor": "GPI SPA",
+            "equiv_names": [
+                "GPI_SPA"
+            ],
             "application_id": "DEGENZA",
             "version": "20.86",
             "doc_type": [
@@ -2998,6 +3073,9 @@
         },
         {
             "vendor": "GPI SPA",
+            "equiv_names": [
+                "GPI_SPA"
+            ],
             "application_id": "AIRO",
             "version": "2.7.0",
             "doc_type": [
@@ -3011,6 +3089,9 @@
         },
         {
             "vendor": "GPI SPA",
+            "equiv_names": [
+                "GPI_SPA"
+            ],
             "application_id": "SSI",
             "version": "2.0",
             "doc_type": [
@@ -3024,6 +3105,9 @@
         },
         {
             "vendor": "GPI SPA",
+            "equiv_names": [
+                "GPI_SPA"
+            ],
             "application_id": "ARCA WEB",
             "version": "4.3",
             "doc_type": [
@@ -3037,6 +3121,9 @@
         },
         {
             "vendor": "GPI SPA",
+            "equiv_names": [
+                "GPI_SPA"
+            ],
             "application_id": "G2 WEB",
             "version": "2.7_b1",
             "doc_type": [
@@ -3050,6 +3137,9 @@
         },
         {
             "vendor": "GPI SPA",
+            "equiv_names": [
+                "GPI_SPA"
+            ],
             "application_id": "EMOLIFE",
             "version": "10.85.0.0",
             "doc_type": [
@@ -3063,6 +3153,9 @@
         },
         {
             "vendor": "GPI SPA",
+            "equiv_names": [
+                "GPI_SPA"
+            ],
             "application_id": "EMONET",
             "version": "9.6.3",
             "doc_type": [
@@ -3076,6 +3169,9 @@
         },
         {
             "vendor": "GPI SPA",
+            "equiv_names": [
+                "GPI_SPA"
+            ],
             "application_id": "PHI KLINIK",
             "version": "2.4.3",
             "doc_type": [
@@ -3245,6 +3341,9 @@
         },
         {
             "vendor": "Ianiri Informatica",
+            "equiv_names": [
+                "DOCPLANNER"
+            ],
             "application_id": "GipoNext",
             "version": "v.5",
             "doc_type": [
@@ -3258,6 +3357,9 @@
         },
         {
             "vendor": "Ianiri Informatica",
+            "equiv_names": [
+                "DOCPLANNER"
+            ],
             "application_id": "GipoNext",
             "version": "5.87",
             "equiv_releases": [
@@ -4007,6 +4109,9 @@
         },
         {
             "vendor": "MILLENNIUM SRL",
+            "equiv_names": [
+                "MILLENNIUM SPA"
+            ],
             "application_id": "MILLEWIN",
             "version": "20.0.46.0",
             "equiv_releases": [ 
@@ -4032,6 +4137,9 @@
         },
         {
             "vendor": "MILLENNIUM SPA",
+            "equiv_names": [
+                "MILLENNIUM SRL"
+            ],
             "application_id": "MILLEWIN",
             "version": "20.0.55.0",
             "doc_type": [
@@ -4261,6 +4369,9 @@
             "vendor": "o3enterprise",
             "application_id": "ris",
             "version": "7.0.0",
+            "equiv_releases": [
+                "7.37.2"
+            ],
             "doc_type": [
                 "RAD"
             ],
@@ -4582,6 +4693,9 @@
         },
         {
             "vendor": "Regione_Sardegna",
+            "equiv_names": [
+                "Regione Sardegna"
+            ],
             "application_id": "ADTWEB_SISaR_RAS",
             "version": "20.14",
             "doc_type": [
@@ -4595,6 +4709,9 @@
         },
         {
             "vendor": "Regione_Sardegna",
+            "equiv_names": [
+                "Regione Sardegna"
+            ],
             "application_id": "PSWEB_SISaR_RAS",
             "version": "20.14",
             "doc_type": [
@@ -4608,6 +4725,9 @@
         },
         {
             "vendor": "Regione_Sardegna",
+            "equiv_names": [
+                "Regione Sardegna"
+            ],
             "application_id": "AMBWEB_SISaR_RAS",
             "version": "20.14",
             "doc_type": [
@@ -4621,6 +4741,9 @@
         },
         {
             "vendor": "Regione_Sardegna",
+            "equiv_names": [
+                "Regione Sardegna"
+            ],
             "application_id": "ELIOT_SISaR_RAS",
             "version": "20.15",
             "doc_type": [
