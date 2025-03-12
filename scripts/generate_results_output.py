@@ -24,6 +24,7 @@ class ResultLine:
             + "|".join(
                 [
                     self.result.vendor.replace("|", r"\|"),
+                    ",".join(map(lambda x: x.replace("|", r"\|"), self.result.equiv_names)),
                     self.result.application_id.replace("|", r"\|"),
                     self.result.version.replace("|", r"\|"),
                     ",".join(map(lambda x: x.replace("|", r"\|"), self.result.equiv_releases)),
@@ -39,6 +40,7 @@ class ResultLine:
     def flatten_line(self):
         return [
             self.result.vendor,
+            ", ".join(self.result.equiv_names),
             self.result.application_id,
             self.result.version,
             ", ".join(self.result.equiv_releases),
@@ -87,6 +89,7 @@ if __name__ == "__main__":
         lines.append(
             [
                 "Fornitore",
+                "Nomi fornitori equivalenti",
                 "Applicativo",
                 "Versione",
                 "Versioni Equivalenti",

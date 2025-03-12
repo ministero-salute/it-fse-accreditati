@@ -6,6 +6,7 @@ from typing import Literal
 class Result(BaseModel):
     model_config = ConfigDict(extra="forbid")
     vendor: str
+    equiv_names: list[str] = Field(default_factory=list)
     application_id: str
     version: str
     equiv_releases: list[str] = Field(default_factory=list)
