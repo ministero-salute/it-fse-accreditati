@@ -4010,6 +4010,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "MedianetServizi",
+            "application_id": "4Handy.it",
+            "version": "2025",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-03-12",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Mediatec Informatica S.r.l.",
             "application_id": "MEDICO2000",
             "version": "06.18",
