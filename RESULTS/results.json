@@ -1129,7 +1129,7 @@
         {
             "vendor": "DATASOFTWARE SRL",
             "equiv_names": [
-                "DATASOFTWARE S.R.L"
+                "DATASOFTWARE S.R.L."
             ],
             "application_id": "INTELLILAB",
             "version": "3",
@@ -1145,7 +1145,7 @@
         {
             "vendor": "DATASOFTWARE SRL",
             "equiv_names": [
-                "DATASOFTWARE S.R.L"
+                "DATASOFTWARE S.R.L."
             ],
             "application_id": "INTELLILAB",
             "version": "3",
@@ -1161,7 +1161,7 @@
         {
             "vendor": "DATASOFTWARE SRL",
             "equiv_names": [
-                "DATASOFTWARE S.R.L"
+                "DATASOFTWARE S.R.L."
             ],
             "application_id": "INTELLILAB",
             "version": "3",
@@ -1867,6 +1867,15 @@
             "vendor": "EBITSRL",
             "application_id": "SUITESTENSA",
             "version": "2.1b34.x",
+            "equiv_releases": [
+                "34.8.0.1",
+                "34.11.0.1",
+                "34.9.0.1",
+                "34.9.0.3",
+                "34.12",
+                "3.0b35.x"
+                
+            ],
             "doc_type": [
                 "RAD", "LDO", "RSA"
             ],
@@ -4383,7 +4392,10 @@
             "application_id": "ris",
             "version": "7.0.0",
             "equiv_releases": [
-                "7.37.2"
+                "7.37.2",
+                "7.37.3",
+                "7.37.4",
+                "7.38.0"
             ],
             "doc_type": [
                 "RAD"
