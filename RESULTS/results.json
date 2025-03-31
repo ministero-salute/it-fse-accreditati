@@ -725,7 +725,13 @@
             "application_id": "Human",
             "version": "10.6",
             "equiv_releases": [
-                "10.7", "10.8", "10.9", "12.1"
+                "10.7", 
+                "10.8", 
+                "10.9", 
+                "12.1",
+                "12.2",
+                "12.3",
+                "12.4"
             ],
             "doc_type": [
                 "LDO", "RSA"
@@ -4395,7 +4401,9 @@
                 "7.37.2",
                 "7.37.3",
                 "7.37.4",
-                "7.38.0"
+                "7.38.0",
+                "7.38.1",
+                "7.38.2"
             ],
             "doc_type": [
                 "RAD"
@@ -5198,6 +5206,22 @@
         },
         {
             "vendor": "TESI SPA",
+            "application_id": "PATHOXWEB",
+            "version": "7.0",
+            "equiv_releases": [
+                "7.1"
+            ],
+            "doc_type": [
+                "RAP"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-03-31",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "TESI SPA",
             "application_id": "WINLAB",
             "version": "5.0",
             "equiv_releases": [
@@ -5222,7 +5246,8 @@
                 "4.0",
                 "5.0",
                 "5.1",
-                "6.0"
+                "6.0",
+                "6.1"
             ],
             "doc_type": [
                 "LAB"
@@ -5239,7 +5264,8 @@
             "version": "4.0",
             "equiv_releases": [
                 "5.0",
-                "5.1"
+                "5.1",
+                "5.2"
             ],
             "doc_type": [
                 "RSA"
@@ -5256,7 +5282,8 @@
             "version": "4.0",
             "equiv_releases": [
                 "5.0",
-                "5.1"
+                "5.1",
+                "5.2"
             ],
             "doc_type": [
                 "RSA"
