@@ -41,6 +41,13 @@
       "equiv_names": [
         "DATASOFTWARE S.R.L"
       ]
+    } ,
+        {
+      "appVendor": "EBITSRL",
+      "ts": "2025-04-11T11:27:00Z",
+      "equiv_names": [
+        "EBIT SRL", "EBIT"
+      ]
     } 
   ]
 }
