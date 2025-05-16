@@ -184,6 +184,9 @@
         },
         {
             "vendor": "AGFA GEVAERT SPA",
+            "equiv_names": [
+                "AFGA HEALTHCARE ITALY SRL"
+            ],
             "application_id": "ELEFANTE.NET",
             "version": "2",
             "doc_type": [
@@ -2016,6 +2019,9 @@
         },
         {
             "vendor": "EDP PROGETTI SRL",
+            "equiv_names": [
+                "EIDESYS S.r.l."
+            ],
             "application_id": "TAONET2",
             "version": "V.1.2",
             "doc_type": [
@@ -3615,7 +3621,9 @@
             "application_id": "FLY",
             "version": "2.0",
             "equiv_releases": [
-                "2.02"
+                "2.02",
+                "WEB",
+                "3.0"
             ],
             "doc_type": [
                 "RAD", "RSA", "LAB"
@@ -3887,6 +3895,19 @@
                 "VALIDATION"
             ],
             "date": "2024-04-29",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "LazioCrea",
+            "application_id": "SISMED",
+            "version": "4.0_RC_0000",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-05-15",
             "gtw_version": "1.0"
         },
         {
@@ -4242,7 +4263,8 @@
                 "10.14", 
                 "10.15",
                 "10.16",
-                "10.17"
+                "10.17",
+                "10.18"
             ],
             "doc_type": [
                 "RSA"
@@ -4363,6 +4385,19 @@
                 "VALIDATION"
             ],
             "date": "2025-01-14",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "NETMEDICAITALIA",
+            "application_id": "NETMEDICA",
+            "version": "1.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-05-15",
             "gtw_version": "1.0"
         },
         {
@@ -4531,7 +4566,13 @@
                 "7.39.0",
                 "7.39.1",
                 "7.39.2",
-                "7.39.3"
+                "7.39.3",
+                "7.40.0",
+                "7.40.1",
+                "7.41.0",
+                "7.41.1",
+                "7.41.2",
+                "7.41.3"
             ],
             "doc_type": [
                 "RAD"
@@ -5533,6 +5574,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "ths",
+            "application_id": "salutis",
+            "version": "1.2.7",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-05-15",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "TOMproject srls",
             "application_id": "tomko med",
             "version": "2.0",
@@ -5621,6 +5675,19 @@
                 "VALIDATION"
             ],
             "date": "2024-04-10",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "TSF SRL",
+            "application_id": "IATROS",
+            "version": "4.1.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-05-15",
             "gtw_version": "1.0"
         },
         {
