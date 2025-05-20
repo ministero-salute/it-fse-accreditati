@@ -185,7 +185,7 @@
         {
             "vendor": "AGFA GEVAERT SPA",
             "equiv_names": [
-                "AFGA HEALTHCARE ITALY SRL"
+                "AGFA HEALTHCARE ITALY SPA"
             ],
             "application_id": "ELEFANTE.NET",
             "version": "2",
@@ -430,6 +430,19 @@
                 "VALIDATION"
             ],
             "date": "2024-01-23",
+            "gtw_version": "1.0"
+        },
+                {
+            "vendor": "ARKO SRL",
+            "application_id": "cartella emofilia rer",
+            "version": "1.2",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-05-20",
             "gtw_version": "1.0"
         },
         {
@@ -2249,6 +2262,19 @@
             "date": "2024-04-22",
             "gtw_version": "1.0"
         },
+                {
+            "vendor": "Engineering Ingegneria Informatica SpA",
+            "application_id": "Winsap_CS",
+            "version": "20.17.00",
+            "doc_type": [
+                "RAP"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-05-20",
+            "gtw_version": "1.0"
+        },
         {
             "vendor": "Engineering Ingegneria Informatica SpA",
             "application_id": "Winsap 3.0",
@@ -2675,6 +2701,19 @@
                 "VALIDATION"
             ],
             "date": "2024-02-28",
+            "gtw_version": "1.0"
+        },
+                {
+            "vendor": "GeniusSrl",
+            "application_id": "Pocr",
+            "version": "1.0.0.0",
+            "doc_type": [
+                "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-05-20",
             "gtw_version": "1.0"
         },
         {
@@ -4572,7 +4611,9 @@
                 "7.41.0",
                 "7.41.1",
                 "7.41.2",
-                "7.41.3"
+                "7.41.3",
+                "7.41.4",
+                "7.42.0"
             ],
             "doc_type": [
                 "RAD"
@@ -5374,6 +5415,19 @@
                 "VALIDATION"
             ],
             "date": "2025-03-11",
+            "gtw_version": "1.0"
+        },
+                {
+            "vendor": "TESI SPA",
+            "application_id": "PATHOX",
+            "version": "14.0",
+            "doc_type": [
+                "RSA","RAP"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-05-20",
             "gtw_version": "1.0"
         },
         {
