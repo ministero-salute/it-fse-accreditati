@@ -79,17 +79,17 @@
       ]
     },    
     {
-      "appVendor": "AGFA GEVAERT SPA",
-      "ts": "2025-05-16T16:12:00Z",
-      "equiv_names": [
-        "AGFA HEALTHCARE ITALY SRL"
-      ]
-    },
-    {
       "appVendor": "EDP PROGETTI SRL",
       "ts": "2025-04-24T9:37:00Z",
       "equiv_names": [
         "EIDESYS S.r.l."
+      ]
+    },
+    {
+      "appVendor": "AGFA GEVAERT SPA",
+      "ts": "2025-05-20T17:07:00Z",
+      "equiv_names": [
+        "AGFA HEALTHCARE ITALY SPA"
       ]
     }
   ]
