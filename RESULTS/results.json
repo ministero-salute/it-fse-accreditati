@@ -1044,6 +1044,19 @@
             "date": "2023-12-15",
             "gtw_version": "1.0"
         },
+                {
+            "vendor": "COMPUGROUP MEDICAL ITALIA S.R.L.",
+            "application_id": "PROFIM",
+            "version": "6.06",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-05-26",
+            "gtw_version": "1.0"
+        },
         {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.p.a.",
             "application_id": "VENERE",
@@ -4678,7 +4691,9 @@
                 "7.41.2",
                 "7.41.3",
                 "7.41.4",
-                "7.42.0"
+                "7.42.0",
+                "7.42.1",
+                "7.42.2"
             ],
             "doc_type": [
                 "RAD"
@@ -5061,6 +5076,19 @@
                 "VALIDATION"
             ],
             "date": "2024-03-25",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "RSA Software",
+            "application_id": "MedicalSevices",
+            "version": "2025.6.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-05-26",
             "gtw_version": "1.0"
         },
         {
