@@ -5080,7 +5080,7 @@
         },
         {
             "vendor": "RSA Software",
-            "application_id": "MedicalSevices",
+            "application_id": "MedicalServices",
             "version": "2025.6.0",
             "doc_type": [
                 "RSA"
