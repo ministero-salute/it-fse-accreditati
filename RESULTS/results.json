@@ -1350,6 +1350,22 @@
             "equiv_names": [
                 "DEDALUS"
             ],
+            "application_id": "CORELAB",
+            "version": "2.0.0",
+            "doc_type": [
+                "RAP"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-05-29",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DEDALUS SPA",
+            "equiv_names": [
+                "DEDALUS"
+            ],
             "application_id": "DNLAB_THEMIS",
             "version": "3.0.0",
             "equiv_releases": [
