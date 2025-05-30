@@ -771,6 +771,19 @@
             "date": "2023-05-26",
             "gtw_version": "1.0"
         },
+                {
+            "vendor": "Blaissed S.r.l.",
+            "application_id": "B-Medic",
+            "version": "3.1.0.0",
+            "doc_type": [
+                "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-05-30",
+            "gtw_version": "1.0"
+        },
         {
             "vendor": "BOLLINOITSPA",
             "application_id": "BOLLINOFSE",
@@ -2486,6 +2499,19 @@
             "date": "2025-04-17",
             "gtw_version": "1.0"
         },
+                {
+            "vendor": "EVOLUZIONE",
+            "application_id": "EVO_FSE",
+            "version": "1.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-05-30",
+            "gtw_version": "1.0"
+        },
         {
             "vendor": "EXPLORA CONSULTING SRL",
             "application_id": "VLFSE",
@@ -3481,6 +3507,19 @@
             "date": "2024-02-15",
             "gtw_version": "1.0"
         },
+                {
+            "vendor": "GRUPPO MAXED DI DANESI EMANUELE ALESSANDRO FABIO SNC",
+            "application_id": "GMSoftFSE",
+            "version": " V.1.1.0",
+            "doc_type": [
+                "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-05-30",
+            "gtw_version": "1.0"
+        },
         {
             "vendor": "HEALTH INSIDE",
             "application_id": "SADI HEALTH",
@@ -3696,6 +3735,19 @@
                 "VALIDATION"
             ],
             "date": "2023-12-15",
+            "gtw_version": "1.0"
+        },
+                {
+            "vendor": "infomatic.it",
+            "application_id": "Demat190",
+            "version": "1.5",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-05-30",
             "gtw_version": "1.0"
         },
         {
@@ -4322,6 +4374,19 @@
             "date": "2023-11-24",
             "gtw_version": "1.0"
         },
+                {
+            "vendor": "medicalcloud",
+            "application_id": "visitasmart",
+            "version": "1.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-05-30",
+            "gtw_version": "1.0"
+        },
         {
             "vendor": "MEDIMATIC",
             "application_id": "COMPACS",
@@ -4385,6 +4450,19 @@
                 "VALIDATION"
             ],
             "date": "2023-07-17",
+            "gtw_version": "1.0"
+        },
+                {
+            "vendor": "Medusa Software",
+            "application_id": "Urania FSE",
+            "version": "v.2.0.0",
+            "doc_type": [
+                "LAB","LDO","RAD","RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-05-30",
             "gtw_version": "1.0"
         },
         {
@@ -4518,6 +4596,19 @@
                 "VALIDATION"
             ],
             "date": "2025-01-14",
+            "gtw_version": "1.0"
+        },
+                {
+            "vendor": "NEOTEK SOLUTIONS SRL",
+            "application_id": "SALUTEADESSOFSE",
+            "version": "2.0",
+            "doc_type": [
+                "LAB","RAD","RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-05-30",
             "gtw_version": "1.0"
         },
         {
@@ -5890,6 +5981,19 @@
                 "VALIDATION"
             ],
             "date": "2023-11-24",
+            "gtw_version": "1.0"
+        },
+                {
+            "vendor": "Unicorn Apulia Srl",
+            "application_id": "isaac4fse",
+            "version": "1.0",
+            "doc_type": [
+                "LAB","LDO","RAD","RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-05-30",
             "gtw_version": "1.0"
         },
         {
