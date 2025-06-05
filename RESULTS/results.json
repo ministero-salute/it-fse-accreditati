@@ -182,6 +182,19 @@
             "date": "2024-05-31",
             "gtw_version": "1.0"
         },
+                {
+            "vendor": "AFFIDEA",
+            "application_id": "AffideaHCIS",
+            "version": "V.12.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-06-05",
+            "gtw_version": "1.0"
+        },
         {
             "vendor": "AGFA GEVAERT SPA",
             "equiv_names": [
@@ -3329,7 +3342,9 @@
                 "8.4",
                 "8.5",
                 "8.6",
-                "8.7"
+                "8.7",
+                "8.8",
+                "8.9"
             ],
             "doc_type": [
                 "RSA"
@@ -3683,6 +3698,19 @@
                 "VALIDATION"
             ],
             "date": "2024-02-12",
+            "gtw_version": "1.0"
+        },
+                {
+            "vendor": "IGCOM",
+            "application_id": "IGSUITE",
+            "version": "4.0",
+            "doc_type": [
+                "RAD", "LDO", "RSA", "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-06-05",
             "gtw_version": "1.0"
         },
         {
@@ -5291,6 +5319,9 @@
         },
         {
             "vendor": "SCS SRL",
+            "equiv_names": [
+                "Artexe SPA"
+            ],
             "application_id": "ALCHYMIA",
             "version": "1.0.8",
             "doc_type": [
@@ -5304,6 +5335,9 @@
         },
         {
             "vendor": "SCS SRL",
+            "equiv_names": [
+                "Artexe SPA"
+            ],
             "application_id": "AUSYLIA",
             "version": "1.0.8",
             "doc_type": [
@@ -5644,6 +5678,22 @@
                 "VALIDATION"
             ],
             "date": "2025-03-31",
+            "gtw_version": "1.0"
+        },
+                {
+            "vendor": "TESI SPA",
+            "application_id": "PATHOXWEB",
+            "version": "7.0",
+            "equiv_releases": [
+                "7.1"
+            ],
+            "doc_type": [
+                "RAP", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-06-05",
             "gtw_version": "1.0"
         },
         {
