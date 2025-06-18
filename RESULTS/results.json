@@ -876,6 +876,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Cheiron Sistemi srl",
+            "application_id": "Art-It",
+            "version": "3.5.0",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-06-17",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "CHORUS",
             "application_id": "ACCDIALAB_LIS",
             "version": "V2023",
@@ -1185,6 +1198,19 @@
                 "VALIDATION"
             ],
             "date": "2024-02-23",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DAMP sas",
+            "application_id": "DAMP - Volare FSE - LIS - RSA",
+            "version": "02.00",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-06-17",
             "gtw_version": "1.0"
         },
         {
@@ -2836,6 +2862,32 @@
             "date": "2025-06-12",
             "gtw_version": "1.0"
         },
+                {
+            "vendor": "GE Medical Systems",
+            "application_id": "CCW",
+            "version": "7.0",
+            "doc_type": [
+                "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-06-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GE_Medical_System_Italia_SPA",
+            "application_id": "WEBCENTRYRIS",
+            "version": "1.25",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-06-17",
+            "gtw_version": "1.0"
+        },
         {
             "vendor": "GEMSI",
             "application_id": "CENTRICITYRIS",
@@ -3577,6 +3629,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Health Telematic Network S.r.l.",
+            "application_id": "HTN Virtual Hospital",
+            "version": "3.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-06-17",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Hi.Tech",
             "application_id": "PS3",
             "version": "3.0.0",
@@ -4136,6 +4201,19 @@
                 "VALIDATION"
             ],
             "date": "2024-04-29",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "LAB.NET",
+            "application_id": "Gestilab-FSE2.0",
+            "version": "1.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-06-17",
             "gtw_version": "1.0"
         },
         {
@@ -4856,7 +4934,8 @@
                 "7.41.4",
                 "7.42.0",
                 "7.42.1",
-                "7.42.2"
+                "7.42.2",
+                "7.42.3"
             ],
             "doc_type": [
                 "RAD"
@@ -4878,6 +4957,19 @@
                 "VALIDATION"
             ],
             "date": "2024-09-03",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "OllySoft",
+            "application_id": "OllyMed",
+            "version": "1.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-06-17",
             "gtw_version": "1.0"
         },
         {
@@ -6087,7 +6179,7 @@
             "date": "2023-11-24",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "Unicorn Apulia Srl",
             "application_id": "isaac4fse",
             "version": "1.0",
@@ -6098,6 +6190,19 @@
                 "VALIDATION"
             ],
             "date": "2025-05-30",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "VitalSoftware di Vitale Salvatore",
+            "application_id": "Isolab9002",
+            "version": "2.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-06-17",
             "gtw_version": "1.0"
         },
         {
