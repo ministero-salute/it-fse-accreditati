@@ -862,7 +862,7 @@
             "date": "2024-07-22",
             "gtw_version": "1.0"
         },
-            {
+        {
             "vendor": "CIAFFI SRL",
             "application_id": "LUITECOLAB",
             "version": "1.0",
@@ -873,6 +873,32 @@
                 "VALIDATION"
             ],
             "date": "2025-06-20",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "CIAFFI SRL",
+            "application_id": "LUITECOLAB",
+            "version": "2.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-06-25",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "CIAFFI SRL",
+            "application_id": "LUITECOLAB",
+            "version": "2.2",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-06-25",
             "gtw_version": "1.0"
         },
         {
@@ -4605,6 +4631,19 @@
                 "VALIDATION"
             ],
             "date": "2025-03-06",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "MedNext",
+            "application_id": "Urania Fse Evo",
+            "version": "v.2.0.0",
+            "doc_type": [
+                "LDO", "LAB", "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-06-25",
             "gtw_version": "1.0"
         },
         {
