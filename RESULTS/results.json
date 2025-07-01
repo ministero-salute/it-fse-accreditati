@@ -182,7 +182,7 @@
             "date": "2024-05-31",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "AFFIDEA",
             "application_id": "AffideaHCIS",
             "version": "V.12.0",
@@ -193,6 +193,19 @@
                 "VALIDATION"
             ],
             "date": "2025-06-05",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "AFFIDEA",
+            "application_id": "AffideaHCIS-RIS",
+            "version": "V.12.0",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-07-01",
             "gtw_version": "1.0"
         },
         {
@@ -1488,6 +1501,22 @@
                 "VALIDATION"
             ],
             "date": "2023-03-14",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DEDALUS",
+            "equiv_names": [
+                "DEDALUS SPA"
+            ],
+            "application_id": "O4C",
+            "version": "6.6.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-07-01",
             "gtw_version": "1.0"
         },
         {
@@ -2802,6 +2831,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-29",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "FRAMESRL",
+            "application_id": "GOMED-PEDIATOTEM",
+            "version": "1.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-07-01",
             "gtw_version": "1.0"
         },
         {
@@ -4738,6 +4780,22 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "MILLENNIUM SPA",
+            "equiv_names": [
+                "MILLENNIUM SRL"
+            ],
+            "application_id": "MILLEWEB",
+            "version": "1.91.4",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-07-01",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "mimedical",
             "application_id": "webrap3",
             "version": "webrap3",
@@ -5009,7 +5067,8 @@
                 "7.42.1",
                 "7.42.2",
                 "7.42.3",
-                "7.42.4"
+                "7.42.4",
+                "7.43.0"
             ],
             "doc_type": [
                 "RAD"
