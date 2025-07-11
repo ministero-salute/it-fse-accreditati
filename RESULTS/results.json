@@ -1,6 +1,19 @@
 {
     "results": [
         {
+            "vendor": "2B_Informatica",
+            "application_id": "IT-2B-GSM",
+            "version": "1.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-07-11",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "4WardPro",
             "application_id": "8055060650018",
             "version": "1.2023.2.15",
@@ -850,6 +863,32 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "CARDIOLINE",
+            "application_id": "ECGWebApp",
+            "version": "2.9.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-07-11",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Cavallaro Giuseppe",
+            "application_id": "AUTOFSE",
+            "version": "1.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-07-11",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "CB Sistemi",
             "application_id": "StudioLAB",
             "version": "3.3.0.0",
@@ -1395,6 +1434,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "DaVinci Healthcare",
+            "application_id": "DaVinci",
+            "version": "1.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-07-11",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "DBMSOFTWARE SRLS",
             "application_id": "DBMEDICA",
             "version": "1.0",
@@ -1472,6 +1524,9 @@
             ],
             "application_id": "LABMANAGER",
             "version": "1.1.1",
+            "equiv_releases": [
+                "2.0.0"
+            ],
             "doc_type": [
                 "RAP"
             ],
@@ -1868,6 +1923,9 @@
             "vendor": "Dedalus",
             "application_id": "4C Suite",
             "version": "6.4",
+            "equiv_releases": [
+                "6.5"
+            ],
             "doc_type": [
                 "LDO", "RSA"
             ],
@@ -2046,6 +2104,19 @@
                 "VALIDATION"
             ],
             "date": "2023-09-05",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DHARMA",
+            "application_id": "HNRIS",
+            "version": "0.1",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-07-11",
             "gtw_version": "1.0"
         },
         {
@@ -4228,6 +4299,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "KG Partners s.r.l.",
+            "application_id": "APLAB",
+            "version": "1.0",
+            "doc_type": [
+                "RAP"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-07-11",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "KIRANET",
             "application_id": "FIDCARE",
             "version": "5.4.0",
@@ -5068,7 +5152,8 @@
                 "7.42.2",
                 "7.42.3",
                 "7.42.4",
-                "7.43.0"
+                "7.43.0",
+                "7.43.1"
             ],
             "doc_type": [
                 "RAD"
@@ -6323,6 +6408,19 @@
                 "VALIDATION"
             ],
             "date": "2025-05-30",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Varian_Medical_System_Spa",
+            "application_id": "Aria_FSE_Gateway",
+            "version": "1.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-07-11",
             "gtw_version": "1.0"
         },
         {
