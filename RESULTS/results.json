@@ -213,6 +213,32 @@
         },
         {
             "vendor": "AFFIDEA",
+            "application_id": "AffideaHCIS-AMB",
+            "version": "V.12.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-07-28",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "AFFIDEA",
+            "application_id": "AffideaHCIS-RAP",
+            "version": "V.12.0",
+            "doc_type": [
+                "RAP"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-07-28",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "AFFIDEA",
             "application_id": "AffideaHCIS-RIS",
             "version": "V.12.0",
             "doc_type": [
@@ -794,6 +820,19 @@
                 "VALIDATION"
             ],
             "date": "2024-08-07",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "BCS",
+            "application_id": "PRIAMOLAB",
+            "version": "1.0.",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-07-28",
             "gtw_version": "1.0"
         },
         {
@@ -1568,7 +1607,10 @@
                 "3.0.1",
                 "3.0.2",
                 "3.0.3",
-                "3.0.4"
+                "3.0.4",
+                "3.0.5",
+                "3.0.6",
+                "3.0.7"
             ],
             "doc_type": [
                 "LAB"
@@ -1866,7 +1908,9 @@
                 "2403.07.07.00",
                 "2405.01.03.04",
                 "2405.07.11.00",
-                "2406.07.11.01"
+                "2406.07.11.01",
+                "2406.07.11.00",
+                "2507.07.31.00"
             ],
             "doc_type": [
                 "SING_VACC", "CERT_VACC"
@@ -3766,6 +3810,22 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "GPI SPA",
+            "equiv_names": [
+                "GPI_SPA"
+            ],
+            "application_id": "POHEMA",
+            "version": "2.0.8",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-07-28",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "GRUPPOINFORMATICO",
             "application_id": "RESMEDICA",
             "version": "10.1.701",
@@ -3950,7 +4010,8 @@
         {
             "vendor": "Ianiri Informatica",
             "equiv_names": [
-                "DOCPLANNER"
+                "DOCPLANNER",
+                "Ianiri_Informatica"
             ],
             "application_id": "GipoNext",
             "version": "v.5",
@@ -3966,7 +4027,8 @@
         {
             "vendor": "Ianiri Informatica",
             "equiv_names": [
-                "DOCPLANNER"
+                "DOCPLANNER",
+                "Ianiri_Informatica"
             ],
             "application_id": "GipoNext",
             "version": "5.87",
