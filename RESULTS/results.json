@@ -1119,7 +1119,7 @@
         },
         {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.p.a.",
-        "equiv_names": [
+            "equiv_names": [
                 "COMPUGROUP MEDICAL ITALIA S.R.L."
             ],
             "application_id": "CCBASIC",
@@ -1293,7 +1293,7 @@
             "date": "2023-12-15",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.R.L.",
             "equiv_names": [
                 "COMPUGROUP MEDICAL ITALIA S.p.a."
@@ -4102,7 +4102,7 @@
             "date": "2024-02-12",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "IGCOM",
             "application_id": "IGSUITE",
             "version": "4.0",
@@ -4167,7 +4167,7 @@
             "date": "2023-12-15",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "infomatic.it",
             "application_id": "Demat190",
             "version": "1.5",
@@ -6241,7 +6241,8 @@
             "application_id": "PATHOXWEB",
             "version": "7.0",
             "equiv_releases": [
-                "7.1"
+                "7.1",
+                "8.0"
             ],
             "doc_type": [
                 "RAP", "RSA"
