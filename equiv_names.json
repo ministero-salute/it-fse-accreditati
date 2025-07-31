@@ -8,6 +8,13 @@
       ]
     },
     {
+      "appVendor": "MILLENNIUM SPA",
+      "ts": "2025-07-31T16:20:00Z",
+      "equiv_names": [
+        "MILLENNIUM SRL"
+      ]
+    },
+    {
       "appVendor": "GPI SPA",
       "ts": "2024-12-11T14:20:00Z",
       "equiv_names": [
@@ -25,7 +32,16 @@
       "appVendor": "Ianiri Informatica",
       "ts": "2025-02-13T13:15:00Z",
       "equiv_names": [
-        "DOCPLANNER", "Ianiri_Informatica"
+        "DOCPLANNER",
+        "Ianiri_Informatica"
+      ]
+    },
+    {
+      "appVendor": "DOCPLANNER",
+      "ts": "2025-07-31T16:20:00Z",
+      "equiv_names": [
+        "Ianiri Informatica",
+        "Ianiri_Informatica"
       ]
     },
     {
@@ -42,19 +58,28 @@
         "DATASOFTWARE S.R.L"
       ]
     } ,
-        {
+    {
       "appVendor": "EBITSRL",
       "ts": "2025-04-11T11:27:00Z",
       "equiv_names": [
-        "EBIT SRL", "EBIT"
+        "EBIT SRL",
+        "EBIT"
       ]
     },
     {
-      "appVendor": "EBITSRL",
+      "appVendor": "EBIT",
       "ts": "2025-04-09T11:20:00Z",
       "equiv_names": [
+        "EBIT SRL",
+        "EBITSRL"
+      ]
+    },
+    {
+      "appVendor": "EBIT SRL",
+      "ts": "2025-07-31T16:20:00Z",
+      "equiv_names": [
         "EBIT",
-        "EBIT SRL"
+        "EBITSRL"
       ]
     },
     {
@@ -69,6 +94,13 @@
       "ts": "2025-04-09T17:37:00Z",
       "equiv_names": [
         "DEDALUS SPA"
+      ]
+    },
+    {
+      "appVendor": "DEDALUS SPA",
+      "ts": "2025-04-09T17:37:00Z",
+      "equiv_names": [
+        "DEDALUS"
       ]
     },
     {
