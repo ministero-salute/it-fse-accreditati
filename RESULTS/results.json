@@ -1119,6 +1119,9 @@
         },
         {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.p.a.",
+        "equiv_names": [
+                "COMPUGROUP MEDICAL ITALIA S.R.L."
+            ],
             "application_id": "CCBASIC",
             "version": "3.36",
             "doc_type": [
@@ -1132,6 +1135,9 @@
         },
                 {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.R.L.",
+            "equiv_names": [
+                "COMPUGROUP MEDICAL ITALIA S.p.a."
+            ],
             "application_id": "CCBASIC",
             "version": "3.39",
             "doc_type": [
@@ -1145,6 +1151,9 @@
         },
         {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.p.a.",
+            "equiv_names": [
+                "COMPUGROUP MEDICAL ITALIA S.R.L."
+            ],
             "application_id": "INFANTIA",
             "version": "6.05",
             "doc_type": [
@@ -1158,6 +1167,9 @@
         },
                 {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.R.L.",
+            "equiv_names": [
+                "COMPUGROUP MEDICAL ITALIA S.p.a."
+            ],
             "application_id": "INFANTIA",
             "version": "6.06",
             "doc_type": [
@@ -1171,6 +1183,9 @@
         },
         {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.p.a.",
+            "equiv_names": [
+                "COMPUGROUP MEDICAL ITALIA S.R.L."
+            ],
             "application_id": "FPF",
             "version": "5.50",
             "doc_type": [
@@ -1184,6 +1199,9 @@
         },
                 {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.R.L.",
+            "equiv_names": [
+                "COMPUGROUP MEDICAL ITALIA S.p.a."
+            ],
             "application_id": "FPF",
             "version": "5.60",
             "doc_type": [
@@ -1197,6 +1215,9 @@
         },
         {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.p.a.",
+            "equiv_names": [
+                "COMPUGROUP MEDICAL ITALIA S.R.L."
+            ],
             "application_id": "PHRONESIS",
             "version": "4.40",
             "doc_type": [
@@ -1210,6 +1231,9 @@
         },
                 {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.R.L.",
+            "equiv_names": [
+                "COMPUGROUP MEDICAL ITALIA S.p.a."
+            ],
             "application_id": "PHRONESIS",
             "version": "4.46",
             "doc_type": [
@@ -1223,6 +1247,9 @@
         },
         {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.p.a.",
+            "equiv_names": [
+                "COMPUGROUP MEDICAL ITALIA S.R.L."
+            ],
             "application_id": "PROFIM",
             "version": "6.05",
             "doc_type": [
@@ -1236,6 +1263,9 @@
         },
                 {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.R.L.",
+            "equiv_names": [
+                "COMPUGROUP MEDICAL ITALIA S.p.a."
+            ],
             "application_id": "PROFIM",
             "version": "6.06",
             "doc_type": [
@@ -1249,6 +1279,9 @@
         },
         {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.p.a.",
+            "equiv_names": [
+                "COMPUGROUP MEDICAL ITALIA S.R.L."
+            ],
             "application_id": "VENERE",
             "version": "8.27",
             "doc_type": [
@@ -1262,6 +1295,9 @@
         },
                 {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.R.L.",
+            "equiv_names": [
+                "COMPUGROUP MEDICAL ITALIA S.p.a."
+            ],
             "application_id": "VENERE",
             "version": "8.27",
             "doc_type": [
@@ -1445,7 +1481,7 @@
         {
             "vendor": "DATASOFTWARE SRL",
             "equiv_names": [
-                "DATASOFTWARE S.R.L."
+                "DATASOFTWARE S.R.L"
             ],
             "application_id": "INTELLILAB",
             "version": "3",
@@ -1461,7 +1497,7 @@
         {
             "vendor": "DATASOFTWARE SRL",
             "equiv_names": [
-                "DATASOFTWARE S.R.L."
+                "DATASOFTWARE S.R.L"
             ],
             "application_id": "INTELLILAB",
             "version": "3",
@@ -1477,7 +1513,7 @@
         {
             "vendor": "DATASOFTWARE SRL",
             "equiv_names": [
-                "DATASOFTWARE S.R.L."
+                "DATASOFTWARE S.R.L"
             ],
             "application_id": "INTELLILAB",
             "version": "3",
@@ -1610,7 +1646,12 @@
                 "3.0.4",
                 "3.0.5",
                 "3.0.6",
-                "3.0.7"
+                "3.0.7",
+                "3.1.0",
+                "3.1.1", 
+                "3.1.2", 
+                "3.2.0", 
+                "3.3.0"
             ],
             "doc_type": [
                 "LAB"
@@ -2011,7 +2052,11 @@
             "application_id": "CONCERTO",
             "version": "22.1.1",
             "equiv_releases": [ 
-                "23.0.0", "22.1.2", "23.0.1", "23.1.0"
+                "23.0.0", 
+                "22.1.2", 
+                "23.0.1", 
+                "23.1.0",
+                "23.2.0"
             ],
             "doc_type": [
                 "LAB"
@@ -4445,6 +4490,17 @@
             "vendor": "Kognitiva",
             "application_id": "MEDGEST",
             "version": "5.0",
+            "equiv_releases": [
+            "5.1",
+            "5.2", 
+            "5.3", 
+            "5.4", 
+            "5.5", 
+            "5.6", 
+            "5.7", 
+            "5.8",
+            "5.9"
+            ],
             "doc_type": [
                 "RAD", "RSA"
             ],
@@ -4958,6 +5014,9 @@
             ],
             "application_id": "MILLEWIN",
             "version": "20.0.55.0",
+            "equiv_releases": [ 
+                "20.0.61.0"
+            ],
             "doc_type": [
                 "PSS"
             ],
@@ -5259,7 +5318,10 @@
                 "7.43.0",
                 "7.43.1",
                 "7.43.2",
-                "7.43.3"
+                "7.43.3",
+                "7.43.4",
+                "7.43.5", 
+                "7.43.6"
             ],
             "doc_type": [
                 "RAD"
@@ -6125,6 +6187,9 @@
             "vendor": "TESI SPA",
             "application_id": "EMOWEB",
             "version": "3.3",
+            "equiv_releases": [
+                "5.0"
+            ],
             "doc_type": [
                 "LAB"
             ],
@@ -6138,6 +6203,13 @@
             "vendor": "TESI SPA",
             "application_id": "PATHOX",
             "version": "14.0",
+            "equiv_releases": [
+                "15.0",
+			    "16.0",
+			    "16.1",
+			    "17.0",
+			    "17.1"
+            ],
             "doc_type": [
                 "RSA","RAP"
             ],
@@ -6152,7 +6224,8 @@
             "application_id": "PATHOXWEB",
             "version": "7.0",
             "equiv_releases": [
-                "7.1"
+                "7.1",
+                "8.0"
             ],
             "doc_type": [
                 "RAP"
@@ -6260,7 +6333,11 @@
             "equiv_releases": [
                 "26.0",
                 "27.0",
-                "27.1"
+                "27.1",
+                "28.0",
+                "28.1",
+                "28.2",
+                "29.0"
             ],
             "doc_type": [
                 "RSA"
@@ -6294,7 +6371,8 @@
                 "27.1",
                 "28.0",
                 "28.1",
-                "28.2"
+                "28.2",
+                "29.0"
             ],
             "doc_type": [
                 "RSA"
@@ -6323,7 +6401,8 @@
             "application_id": "GESTAOWEB",
             "version": "6.0",
             "equiv_releases": [
-                "6.1"
+                "6.1",
+                "6.2"
             ],
             "doc_type": [
                 "RSA"
