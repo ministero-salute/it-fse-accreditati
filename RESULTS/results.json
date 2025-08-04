@@ -1715,6 +1715,9 @@
         },
         {
             "vendor": "Dedalus",
+            "equiv_names": [
+                "DEDALUS SPA"
+            ],
             "application_id": "GALILEO",
             "version": "1.5.7",
             "equiv_releases": [
@@ -1735,6 +1738,9 @@
         },
         {
             "vendor": "Dedalus",
+            "equiv_names": [
+                "DEDALUS SPA"
+            ],
             "application_id": "GALILEO",
             "version": "1.5.7",
             "equiv_releases": [
@@ -1755,6 +1761,9 @@
         },
         {
             "vendor": "Dedalus",
+            "equiv_names": [
+                "DEDALUS SPA"
+            ],
             "application_id": "ER4H",
             "version": "2.7.1",
             "equiv_releases": [
@@ -1778,6 +1787,9 @@
         },
         {
             "vendor": "dedalus",
+             "equiv_names": [
+                "DEDALUS SPA"
+            ],
             "application_id": "caleido_fse20_connector",
             "version": "2023",
             "doc_type": [
@@ -1791,6 +1803,9 @@
         },
         {
             "vendor": "dedalus",
+            "equiv_names": [
+                "DEDALUS SPA"
+            ],
             "application_id": "caleido_fse20_connector",
             "version": "2023",
             "doc_type": [
@@ -1855,6 +1870,9 @@
         },
         {
             "vendor": "Dedalus",
+            "equiv_names": [
+                "DEDALUS SPA"
+            ],
             "application_id": "Tabula",
             "version": "1.0.0",
             "doc_type": [
@@ -1868,6 +1886,9 @@
         },
         {
             "vendor": "Dedalus",
+            "equiv_names": [
+                "DEDALUS SPA"
+            ],
             "application_id": "Tabula",
             "version": "1.0.0",
             "doc_type": [
@@ -2012,6 +2033,9 @@
         },
         {
             "vendor": "Dedalus",
+            "equiv_names": [
+                "DEDALUS SPA"
+            ],
             "application_id": "4C Suite",
             "version": "5.5.0",
             "equiv_releases": [
@@ -2030,6 +2054,9 @@
         },
         {
             "vendor": "Dedalus",
+            "equiv_names": [
+                "DEDALUS SPA"
+            ],
             "application_id": "4C Suite",
             "version": "6.4",
             "equiv_releases": [
@@ -2069,6 +2096,9 @@
         },
         {
             "vendor": "Dedalus",
+            "equiv_names": [
+                "DEDALUS SPA"
+            ],
             "application_id": "ELEKTRA",
             "version": "4.2",
             "doc_type": [
@@ -2101,6 +2131,9 @@
         },
         {
             "vendor": "Dedalus",
+            "equiv_names": [
+                "DEDALUS SPA"
+            ],
             "application_id": "4C Suite",
             "version": "6.1",
             "equiv_releases": [ 
@@ -4165,6 +4198,19 @@
                 "VALIDATION"
             ],
             "date": "2023-12-15",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "INFOGRAMMA",
+            "application_id": "GALENUS",
+            "version": "2024.1",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-08-04",
             "gtw_version": "1.0"
         },
         {
