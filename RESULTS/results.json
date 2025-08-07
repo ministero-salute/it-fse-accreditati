@@ -691,6 +691,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "ASST Lecco",
+            "application_id": "IPAC",
+            "version": "10.3",
+            "doc_type": [
+                "LDO", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-08-07",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "atlasmedica.com",
             "application_id": "atlasmedica.com",
             "version": "7.0",
@@ -846,7 +859,8 @@
                 "12.1",
                 "12.2",
                 "12.3",
-                "12.4"
+                "12.4",
+                "12.6"
             ],
             "doc_type": [
                 "LDO", "RSA"
@@ -5367,7 +5381,9 @@
                 "7.43.3",
                 "7.43.4",
                 "7.43.5", 
-                "7.43.6"
+                "7.43.6",
+                "7.43.7",
+                "7.44.0"
             ],
             "doc_type": [
                 "RAD"
