@@ -4443,6 +4443,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "instrumentation-laboratory-spa",
+            "application_id": "parmagts",
+            "version": "12",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-08-08",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "InterSystems Italia S.r.l.",
             "application_id": "TrakCare",
             "version": "ITXX",
@@ -5715,6 +5728,19 @@
                 "VALIDATION"
             ],
             "date": "2024-01-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "PROBUS srl",
+            "application_id": "Hippocrates",
+            "version": "2.41",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-08-08",
             "gtw_version": "1.0"
         },
         {
