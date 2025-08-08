@@ -309,6 +309,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |INSIEL||SEI|SEI 03.00.02.01||VPS|VALIDATION|2023-04-19|1.0|
 |INSIEL||CLINICO|G4.3.10||LDO,RAD,RSA|VALIDATION|2023-08-30|1.0|
 |INSIEL||SCC|1.0.0||PSS|VALIDATION|2024-04-16|1.0|
+|instrumentation-laboratory-spa||parmagts|12||LAB|VALIDATION|2025-08-08|1.0|
 |InterSystems Italia S.r.l.||TrakCare|ITXX||VPS,RAD,LDO,RSA|VALIDATION|2023-05-23|1.0|
 |isaac4||isaac4|1.0||RAD|VALIDATION|2024-04-18|1.0|
 |ISED S.p.A.||CARESTUDIO|1||PSS|VALIDATION|2024-04-03|1.0|
@@ -399,6 +400,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |PrismaNet||MeFiSto|V.1.3||LDO,RSA|VALIDATION|2023-07-11|1.0|
 |Proactive||LabPro|5.0||LAB|VALIDATION|2024-01-17|1.0|
 |Proactive||LabPro|5.0||LAB,RAD,RSA|VALIDATION|2024-01-26|1.0|
+|PROBUS srl||Hippocrates|2.41||PSS|VALIDATION|2025-08-08|1.0|
 |RBSoftware||WGesLaAn|1||LAB|VALIDATION|2024-01-17|1.0|
 |Regione Puglia||CCE|1||RSA,LDO|VALIDATION|2023-06-26|1.0|
 |Regione_Sardegna|Regione Sardegna|ADTWEB_SISaR_RAS|20.14||LDO|VALIDATION|2023-12-18|1.0|
