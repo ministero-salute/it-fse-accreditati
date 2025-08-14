@@ -4447,7 +4447,7 @@
             "application_id": "parmagts",
             "version": "12",
             "doc_type": [
-                "LAB"
+                "LAB", "RSA"
             ],
             "service": [
                 "VALIDATION"
