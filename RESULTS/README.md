@@ -309,7 +309,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |INSIEL||SEI|SEI 03.00.02.01||VPS|VALIDATION|2023-04-19|1.0|
 |INSIEL||CLINICO|G4.3.10||LDO,RAD,RSA|VALIDATION|2023-08-30|1.0|
 |INSIEL||SCC|1.0.0||PSS|VALIDATION|2024-04-16|1.0|
-|instrumentation-laboratory-spa||parmagts|12||LAB|VALIDATION|2025-08-08|1.0|
+|instrumentation-laboratory-spa||parmagts|12||LAB,RSA|VALIDATION|2025-08-08|1.0|
 |InterSystems Italia S.r.l.||TrakCare|ITXX||VPS,RAD,LDO,RSA|VALIDATION|2023-05-23|1.0|
 |isaac4||isaac4|1.0||RAD|VALIDATION|2024-04-18|1.0|
 |ISED S.p.A.||CARESTUDIO|1||PSS|VALIDATION|2024-04-03|1.0|
