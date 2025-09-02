@@ -1544,6 +1544,22 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "DATASOFTWARE SRL",
+            "equiv_names": [
+                "DATASOFTWARE S.R.L"
+            ],
+            "application_id": "fseENABLER",
+            "version": "1.0",
+            "doc_type": [
+                "LAB","RAD","RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-09-02",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "DaVinci Healthcare",
             "application_id": "DaVinci",
             "version": "1.0",
@@ -1618,6 +1634,9 @@
             ],
             "application_id": "CORELAB",
             "version": "2.0.0",
+            "equiv_releases": [
+                "3.0.0"
+            ],
             "doc_type": [
                 "RAP"
             ],
@@ -1788,7 +1807,8 @@
                 "3.2",
                 "3.3",
                 "3.4",
-                "3.5"
+                "3.5",
+                "3.6"
             ],
             "doc_type": [
                 "VPS"
@@ -2518,6 +2538,19 @@
                 "VALIDATION"
             ],
             "date": "2023-03-13",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "El.Co.",
+            "application_id": "Fenix-cce",
+            "version": "3.19.05",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-09-02",
             "gtw_version": "1.0"
         },
         {
@@ -4379,6 +4412,19 @@
         },
         {
             "vendor": "INSIEL",
+            "application_id": "APSYS",
+            "version": "AXFR10.01.00",
+            "doc_type": [
+                "RAP"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-09-02",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "INSIEL",
             "application_id": "CARDIONET",
             "version": "CAW04.04.25",
             "doc_type": [
@@ -5396,7 +5442,8 @@
                 "7.43.5", 
                 "7.43.6",
                 "7.43.7",
-                "7.44.0"
+                "7.44.0",
+                "7.44.1"
             ],
             "doc_type": [
                 "RAD"
@@ -6793,6 +6840,9 @@
         },
         {
             "vendor": "Zucchetti Centro Sistema s.p.a",
+            "equiv_names": [
+                "Zucchetti Centro Sistemi s.p.a"
+            ],
             "application_id": "JLAB",
             "version": "v.9.0",
             "doc_type": [
@@ -6806,6 +6856,9 @@
         },
         {
             "vendor": "Zucchetti Centro Sistema s.p.a",
+            "equiv_names": [
+                "Zucchetti Centro Sistemi s.p.a"
+            ],
             "application_id": "JAB0",
             "version": "v.9",
             "doc_type": [
@@ -6819,6 +6872,9 @@
         },
         {
             "vendor": "Zucchetti Centro Sistema s.p.a",
+            "equiv_names": [
+                "Zucchetti Centro Sistemi s.p.a"
+            ],
             "application_id": "JPATH",
             "version": "v.1",
             "doc_type": [
