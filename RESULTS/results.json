@@ -43,6 +43,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Abintrax",
+            "application_id": "livecapture",
+            "version": "1.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-09-09",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Abstract",
             "application_id": "SAP",
             "version": "1.0.0",
@@ -1464,6 +1477,19 @@
                 "VALIDATION"
             ],
             "date": "2023-10-24",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "D-MEDICAL SRL",
+            "application_id": "MEDINET-RAD",
+            "version": "3.24.0.0",
+            "doc_type": [
+                "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-09-09",
             "gtw_version": "1.0"
         },
         {
@@ -4973,7 +4999,7 @@
             "date": "2023-11-24",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "medicalcloud",
             "application_id": "visitasmart",
             "version": "1.0",
@@ -4984,6 +5010,19 @@
                 "VALIDATION"
             ],
             "date": "2025-05-30",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "MedicalWin",
+            "application_id": "FSE",
+            "version": "2.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-09-09",
             "gtw_version": "1.0"
         },
         {
@@ -5443,7 +5482,8 @@
                 "7.43.6",
                 "7.43.7",
                 "7.44.0",
-                "7.44.1"
+                "7.44.1",
+                "7.44.2"
             ],
             "doc_type": [
                 "RAD"
@@ -5956,6 +5996,19 @@
                 "VALIDATION"
             ],
             "date": "2024-02-12",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "s4sbio srl",
+            "application_id": "fertilab",
+            "version": "v11.0",
+            "doc_type": [
+                "LAB", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-09-09",
             "gtw_version": "1.0"
         },
         {
