@@ -1493,6 +1493,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "D-MEDICAL SRL",
+            "application_id": "MEDINET-REPARTO",
+            "version": "3.24.0.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-09-16",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Data Processing SPA",
             "application_id": "Smart*Health",
             "version": "4.5.048",
@@ -2799,6 +2812,9 @@
             "vendor": "Engineering Ingegneria Informatica SpA",
             "application_id": "Winsap 3.0",
             "version": "20.17.02",
+            "equiv_releases": [
+                "20.17.03"
+            ],
             "doc_type": [
                 "RAP"
             ],
@@ -4274,6 +4290,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "ing_simone_scavizzi",
+            "application_id": "clinilabNet",
+            "version": "2.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-09-16",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "INFOGRAMMA",
             "application_id": "GALENUS",
             "version": "2024.1",
@@ -5483,7 +5512,9 @@
                 "7.43.7",
                 "7.44.0",
                 "7.44.1",
-                "7.44.2"
+                "7.44.2",
+                "7.45.0",
+                "7.45.1"
             ],
             "doc_type": [
                 "RAD"
