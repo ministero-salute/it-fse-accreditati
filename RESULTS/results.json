@@ -280,6 +280,38 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "AGFA GEVAERT SPA",
+            "equiv_names": [
+                "AGFA HEALTHCARE ITALY SPA"
+            ],
+            "application_id": "ELEFANTE.NET",
+            "version": "2",
+            "doc_type": [
+                "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-09-18",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "AGFA GEVAERT SPA",
+            "equiv_names": [
+                "AGFA HEALTHCARE ITALY SPA"
+            ],
+            "application_id": "Elefante Web",
+            "version": "1",
+            "doc_type": [
+                "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-09-18",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "agilesrl",
             "application_id": "cliniclick",
             "version": "1.15.9",
@@ -3075,6 +3107,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "FEDSTUDIOS DI DEBORAH BARATELLI",
+            "application_id": "HISTOSOFT",
+            "version": "4.1.9",
+            "doc_type": [
+                "RAP"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-09-18",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Fondazione Toscana Gabriele Monasterio",
             "application_id": "C7",
             "version": "8.11.1",
@@ -5514,7 +5559,8 @@
                 "7.44.1",
                 "7.44.2",
                 "7.45.0",
-                "7.45.1"
+                "7.45.1",
+                "7.45.2"
             ],
             "doc_type": [
                 "RAD"
