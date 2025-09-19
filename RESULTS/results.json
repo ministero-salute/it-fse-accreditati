@@ -4351,6 +4351,9 @@
             "vendor": "INFOGRAMMA",
             "application_id": "GALENUS",
             "version": "2024.1",
+            "equiv_releases": [
+                "2025"
+            ],
             "doc_type": [
                 "RSA"
             ],
