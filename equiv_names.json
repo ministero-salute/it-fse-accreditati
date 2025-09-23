@@ -111,6 +111,13 @@
       ]
     },    
     {
+      "appVendor": "COMPUGROUP MEDICAL ITALIA S.R.L.",
+      "ts": "2025-09-23T16:24:00Z",
+      "equiv_names": [
+        "COMPUGROUP MEDICAL ITALIA S.p.a."
+      ]
+    },    
+    {
       "appVendor": "EDP PROGETTI SRL",
       "ts": "2025-04-24T9:37:00Z",
       "equiv_names": [
@@ -147,6 +154,7 @@
     }
   ]
 }
+
 
 
 
