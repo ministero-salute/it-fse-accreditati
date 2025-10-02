@@ -882,6 +882,19 @@
         },
         {
             "vendor": "BCS",
+            "application_id": "PRIAMOCCEAMB",
+            "version": "5.2",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-10-02",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "BCS",
             "application_id": "PRIAMOLAB",
             "version": "1.0.",
             "doc_type": [
@@ -5563,7 +5576,14 @@
                 "7.44.2",
                 "7.45.0",
                 "7.45.1",
-                "7.45.2"
+                "7.45.2",
+                "7.45.3",
+                "7.45.4",
+                "7.45.5",
+                "7.46.0",
+                "7.46.1",
+                "7.46.2",
+                "7.46.3"
             ],
             "doc_type": [
                 "RAD"
