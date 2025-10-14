@@ -775,6 +775,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "AZ-PANICO",
+            "application_id": "FSE-PANICO",
+            "version": "1.0",
+            "doc_type": [
+                "LDO","VPS","RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-10-13",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "BCS",
             "application_id": "WINDEG",
             "version": "7.11.0.0",
@@ -2236,7 +2249,10 @@
             "application_id": "INVITRO LIS",
             "version": "1.4",
             "equiv_releases": [ 
-                "1.5", "1.6","1.7"
+                "1.5", 
+                "1.6",
+                "1.7",
+                "1.8"
             ],
             "doc_type": [
                 "LAB"
@@ -5268,7 +5284,8 @@
             "application_id": "MILLEWIN",
             "version": "20.0.55.0",
             "equiv_releases": [ 
-                "20.0.61.0"
+                "20.0.61.0",
+                "20.0.63.0"
             ],
             "doc_type": [
                 "PSS"
@@ -5592,7 +5609,9 @@
                 "7.47.0",
                 "7.47.1",
                 "7.47.2",
-                "7.47.3"
+                "7.47.3",
+                "8.1.1-pr.1",
+                "7.47.4"
             ],
             "doc_type": [
                 "RAD"
