@@ -4805,6 +4805,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Labica Srl",
+            "application_id": "fse2-connector",
+            "version": "1.2.0",
+            "doc_type": [
+                "LAB", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-10-21",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "LAB.NET",
             "application_id": "Gestilab-FSE2.0",
             "version": "1.0",
@@ -5611,7 +5624,8 @@
                 "7.47.2",
                 "7.47.3",
                 "8.1.1-pr.1",
-                "7.47.4"
+                "7.47.4",
+                "7.48.0"
             ],
             "doc_type": [
                 "RAD"
@@ -6741,6 +6755,19 @@
                 "VALIDATION"
             ],
             "date": "2024-05-27",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "TESI SPA",
+            "application_id": "MEDICAL REPORT",
+            "version": "1.3",
+            "doc_type": [
+                "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-10-21",
             "gtw_version": "1.0"
         },
         {
