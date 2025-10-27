@@ -43,6 +43,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "4WardPro",
+            "application_id": "8055060650018RX",
+            "version": "1.2023.2.15",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-10-24",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Abintrax",
             "application_id": "livecapture",
             "version": "1.0",
@@ -931,7 +944,8 @@
                 "12.2",
                 "12.3",
                 "12.4",
-                "12.6"
+                "12.6",
+                "12.7"
             ],
             "doc_type": [
                 "LDO", "RSA"
@@ -3476,6 +3490,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "GESAN SRL",
+            "application_id": "WLEXT-RAP",
+            "version": "2.0",
+            "doc_type": [
+                "RAP"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-10-24",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "GESANTHCS SRL",
             "application_id": "ENERGY-LIS",
             "version": "V2.0",
@@ -3512,6 +3539,19 @@
                 "VALIDATION"
             ],
             "date": "2023-10-24",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Ginevra Media Communication",
+            "application_id": "GMC-Medical",
+            "version": "1.0.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-10-24",
             "gtw_version": "1.0"
         },
         {
@@ -4146,6 +4186,19 @@
                 "VALIDATION"
             ],
             "date": "2025-06-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "HelioSistemiSrls",
+            "application_id": "Lido_fse",
+            "version": "0.9",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-10-24",
             "gtw_version": "1.0"
         },
         {
@@ -5625,7 +5678,8 @@
                 "7.47.3",
                 "8.1.1-pr.1",
                 "7.47.4",
-                "7.48.0"
+                "7.48.0",
+                "7.48.1"
             ],
             "doc_type": [
                 "RAD"
@@ -6531,7 +6585,8 @@
             "application_id": "EMOWEB",
             "version": "3.3",
             "equiv_releases": [
-                "5.0"
+                "5.0",
+                "5.1"
             ],
             "doc_type": [
                 "LAB"
@@ -6568,7 +6623,9 @@
             "version": "7.0",
             "equiv_releases": [
                 "7.1",
-                "8.0"
+                "8.0",
+                "9.0",
+                "10.0"
             ],
             "doc_type": [
                 "RAP"
@@ -6623,7 +6680,9 @@
                 "5.0",
                 "5.1",
                 "6.0",
-                "6.1"
+                "6.1",
+                "7.0",
+                "8.0"
             ],
             "doc_type": [
                 "LAB"
@@ -6681,7 +6740,9 @@
                 "28.0",
                 "28.1",
                 "28.2",
-                "29.0"
+                "29.0",
+                "29.1",
+                "30.0"
             ],
             "doc_type": [
                 "RSA"
@@ -6716,7 +6777,8 @@
                 "28.0",
                 "28.1",
                 "28.2",
-                "29.0"
+                "29.0",
+                "30.0"
             ],
             "doc_type": [
                 "RSA"
@@ -6746,7 +6808,8 @@
             "version": "6.0",
             "equiv_releases": [
                 "6.1",
-                "6.2"
+                "6.2",
+                "6.3"
             ],
             "doc_type": [
                 "RSA"
