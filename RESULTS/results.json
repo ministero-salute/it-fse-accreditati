@@ -43,7 +43,7 @@
             "gtw_version": "1.0"
         },
         {
-            "vendor": "4WardPro",
+            "vendor": "4wardPro",
             "application_id": "8055060650018RX",
             "version": "1.2023.2.15",
             "doc_type": [
@@ -6642,7 +6642,9 @@
             "version": "7.0",
             "equiv_releases": [
                 "7.1",
-                "8.0"
+                "8.0",
+                "9.0",
+                "10.0"
             ],
             "doc_type": [
                 "RAP", "RSA"
@@ -6778,6 +6780,7 @@
                 "28.1",
                 "28.2",
                 "29.0",
+                "29.1",
                 "30.0"
             ],
             "doc_type": [
