@@ -2117,7 +2117,8 @@
                 "2405.07.11.00",
                 "2406.07.11.01",
                 "2406.07.11.00",
-                "2507.07.31.00"
+                "2507.07.31.00",
+                "2511.07.36.00"
             ],
             "doc_type": [
                 "SING_VACC", "CERT_VACC"
@@ -2639,6 +2640,19 @@
                 "VALIDATION"
             ],
             "date": "2023-12-05",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "EFRA SRL",
+            "application_id": "KOS",
+            "version": "2.6.0",
+            "doc_type": [
+                "RAD", "LAB", "LDO", "VPS", "RSA", "RAP"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-11-10",
             "gtw_version": "1.0"
         },
         {
@@ -4176,6 +4190,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "HealthStrategy",
+            "application_id": "Heasy",
+            "version": "49.00.00",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-11-10",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Health Telematic Network S.r.l.",
             "application_id": "HTN Virtual Hospital",
             "version": "3.0",
@@ -5679,7 +5706,13 @@
                 "8.1.1-pr.1",
                 "7.47.4",
                 "7.48.0",
-                "7.48.1"
+                "7.48.1",
+                "7.48.2",
+                "8.1.0",
+                "7.48.3",
+                "8.1.1",
+                "8.1.2",
+                "8.1.3"
             ],
             "doc_type": [
                 "RAD"
@@ -6179,6 +6212,19 @@
                 "VALIDATION"
             ],
             "date": "2025-07-18",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "S2INFORMATICA SRL",
+            "application_id": "LABGUI",
+            "version": "3.0",
+            "doc_type": [
+                "LAB", "RSA", "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-11-10",
             "gtw_version": "1.0"
         },
         {
