@@ -1528,7 +1528,7 @@
         {
             "vendor": "D-MEDICAL SRL",
             "application_id": "MEDINET-LAB",
-            "version": "V.3.15.0.0",
+            "version": "3.15.0.0",
             "doc_type": [
                 "LAB"
             ],
@@ -4191,7 +4191,7 @@
         },
         {
             "vendor": "HealthStrategy",
-            "application_id": "Heasy",
+            "application_id": "HEasy",
             "version": "49.00.00",
             "doc_type": [
                 "RSA"
