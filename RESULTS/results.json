@@ -3572,6 +3572,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "GESTIONE SALUTE SRL",
+            "application_id": "GSD FSE Link",
+            "version": "1.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-11-19",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Ginevra Media Communication",
             "application_id": "GMC-Medical",
             "version": "1.0.0",
@@ -4412,6 +4425,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "IG.PSO",
+            "application_id": "IGSUITE",
+            "version": "4.0",
+            "doc_type": [
+                "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-11-19",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "IL MELOGRANO DATA SERVICES",
             "application_id": "FSE-VPS",
             "version": "1.0",
@@ -5070,6 +5096,19 @@
                 "VALIDATION"
             ],
             "date": "2025-11-13",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "MG SOFT S.R.L.",
+            "application_id": "WEBSAPFSE",
+            "version": "V.1.0.1",
+            "doc_type": [
+                "RAP"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-11-19",
             "gtw_version": "1.0"
         },
         {
@@ -6105,6 +6144,19 @@
                 "VALIDATION"
             ],
             "date": "2024-01-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "RBSoftware",
+            "application_id": "WGesLaAn",
+            "version": "1",
+            "doc_type": [
+                "LAB", "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-11-19",
             "gtw_version": "1.0"
         },
         {
