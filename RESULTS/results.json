@@ -2222,7 +2222,8 @@
             "application_id": "4C Suite",
             "version": "6.4",
             "equiv_releases": [
-                "6.5"
+                "6.5",
+                "6.6"
             ],
             "doc_type": [
                 "LDO", "RSA"
@@ -2441,6 +2442,19 @@
                 "VALIDATION"
             ],
             "date": "2024-12-12",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DICOMDATA",
+            "application_id": "DocViewer",
+            "version": "1.0.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-11-24",
             "gtw_version": "1.0"
         },
         {
@@ -5786,7 +5800,17 @@
                 "7.48.4",
                 "8.1.6",
                 "7.48.5",
-                "7.48.6"
+                "7.48.6",
+                "7.48.7",
+                "7.48.8",
+                "7.48.9",
+                "7.48.10",
+                "8.1.7",
+                "7.48.11",
+                "8.1.8",
+                "8.1.9",
+                "8.1.10",
+                "7.48.12"
             ],
             "doc_type": [
                 "RAD"
@@ -5949,6 +5973,19 @@
                 "VALIDATION"
             ],
             "date": "2025-01-14",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Originalsoft Srl",
+            "application_id": "analist-fse",
+            "version": "1.0",
+            "doc_type": [
+                "LAB", "RAD", "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-11-24",
             "gtw_version": "1.0"
         },
         {
@@ -7214,6 +7251,19 @@
                 "VALIDATION"
             ],
             "date": "2025-06-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "We BiNar S.r.l.",
+            "application_id": "wepacs",
+            "version": "2.0",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-11-24",
             "gtw_version": "1.0"
         },
         {
