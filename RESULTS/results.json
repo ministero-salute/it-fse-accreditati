@@ -28,13 +28,14 @@
             ],
             "date": "2023-10-24",
             "gtw_version": "1.0"
-        },       
+        },
         {
             "vendor": "4WardPro",
             "application_id": "8055060650018",
             "version": "1.2023.2.15",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -73,7 +74,8 @@
             "application_id": "SAP",
             "version": "1.0.0",
             "doc_type": [
-                "LDO", "VPS"
+                "LDO",
+                "VPS"
             ],
             "service": [
                 "VALIDATION"
@@ -86,7 +88,9 @@
             "application_id": "SAP",
             "version": "1.0.0",
             "doc_type": [
-                "LDO", "VPS", "RSA"
+                "LDO",
+                "VPS",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -119,7 +123,7 @@
             ],
             "date": "2024-10-28",
             "gtw_version": "1.0"
-        },   
+        },
         {
             "vendor": "ACSINFORMATICA",
             "application_id": "WINGLA",
@@ -190,7 +194,8 @@
             "application_id": "epersonam",
             "version": "1.0.0",
             "doc_type": [
-                "LDO","RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -203,7 +208,8 @@
             "application_id": "epersonam",
             "version": "1.0.0",
             "doc_type": [
-                "LDO","RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -216,7 +222,8 @@
             "application_id": "H2O",
             "version": "6.0",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -300,7 +307,8 @@
             "application_id": "ELEFANTE.NET",
             "version": "2",
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -316,7 +324,8 @@
             "application_id": "Elefante Web",
             "version": "1",
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -329,7 +338,8 @@
             "application_id": "cliniclick",
             "version": "1.15.9",
             "doc_type": [
-                "LDO", "VPS"
+                "LDO",
+                "VPS"
             ],
             "service": [
                 "VALIDATION"
@@ -342,7 +352,9 @@
             "application_id": "cliniclick",
             "version": "1.15.9",
             "doc_type": [
-                "LDO", "VPS", "RSA"
+                "LDO",
+                "VPS",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -355,20 +367,22 @@
             "application_id": "AlfaDocs",
             "version": "20240717",
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
             ],
             "date": "2024-11-21",
             "gtw_version": "1.0"
-        },        
+        },
         {
             "vendor": "ALMAVALUE_SRL",
             "application_id": "Doctor_Manager_DMFSE",
             "version": "1.0",
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -407,7 +421,10 @@
             "application_id": "BABELE_WPF",
             "version": "1.0",
             "doc_type": [
-                "RAD", "LDO", "VPS", "RSA"
+                "RAD",
+                "LDO",
+                "VPS",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -420,7 +437,8 @@
             "application_id": "ARCHIMED",
             "version": "8.48",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -472,7 +490,8 @@
             "application_id": "SIO",
             "version": "2.12.0",
             "doc_type": [
-                "LDO", "VPS"
+                "LDO",
+                "VPS"
             ],
             "service": [
                 "VALIDATION"
@@ -485,7 +504,9 @@
             "application_id": "SIO",
             "version": "2.13.0",
             "doc_type": [
-                "LDO", "VPS", "RSA"
+                "LDO",
+                "VPS",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -558,7 +579,7 @@
             "date": "2024-01-23",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "ARKO SRL",
             "application_id": "cartella emofilia rer",
             "version": "1.2",
@@ -577,10 +598,10 @@
             "version": "8",
             "equiv_releases": [
                 "8.0.0",
-                "8.0.1", 
-                "8.1.1", 
-                "8.2.1", 
-                "8.2.2", 
+                "8.0.1",
+                "8.1.1",
+                "8.2.1",
+                "8.2.2",
                 "8.3.1"
             ],
             "doc_type": [
@@ -662,7 +683,8 @@
             "application_id": "SIVIS",
             "version": "v.1.0.0",
             "doc_type": [
-                "LDO", "VPS"
+                "LDO",
+                "VPS"
             ],
             "service": [
                 "VALIDATION"
@@ -688,7 +710,10 @@
             "application_id": "OASIS4",
             "version": "V.9.9.0",
             "doc_type": [
-                "LDO", "VPS", "SING_VACC" , "CERT_VACC"
+                "LDO",
+                "VPS",
+                "SING_VACC",
+                "CERT_VACC"
             ],
             "service": [
                 "VALIDATION"
@@ -701,7 +726,11 @@
             "application_id": "OASIS4",
             "version": "V.9.9.0",
             "doc_type": [
-                "LDO", "VPS", "SING_VACC" , "CERT_VACC", "RSA"
+                "LDO",
+                "VPS",
+                "SING_VACC",
+                "CERT_VACC",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -714,7 +743,8 @@
             "application_id": "GestioneVaccinazioni",
             "version": "1.0",
             "doc_type": [
-                "SING_VACC" , "CERT_VACC"
+                "SING_VACC",
+                "CERT_VACC"
             ],
             "service": [
                 "VALIDATION"
@@ -740,7 +770,8 @@
             "application_id": "ASLCE_ADTPS",
             "version": "1.0",
             "doc_type": [
-                "LDO", "VPS"
+                "LDO",
+                "VPS"
             ],
             "service": [
                 "VALIDATION"
@@ -753,7 +784,8 @@
             "application_id": "IPAC",
             "version": "10.3",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -792,7 +824,9 @@
             "application_id": "FSE-PANICO",
             "version": "1.0",
             "doc_type": [
-                "LDO","VPS","RSA"
+                "LDO",
+                "VPS",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -856,7 +890,8 @@
                 "4.15.5.0"
             ],
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -937,9 +972,9 @@
             "application_id": "Human",
             "version": "10.6",
             "equiv_releases": [
-                "10.7", 
-                "10.8", 
-                "10.9", 
+                "10.7",
+                "10.8",
+                "10.9",
                 "12.1",
                 "12.2",
                 "12.3",
@@ -948,7 +983,8 @@
                 "12.7"
             ],
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -956,12 +992,13 @@
             "date": "2023-05-26",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "Blaissed S.r.l.",
             "application_id": "B-Medic",
             "version": "3.1.0.0",
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -974,7 +1011,8 @@
             "application_id": "BOLLINOFSE",
             "version": "1.0",
             "doc_type": [
-                "LAB", "RAD"
+                "LAB",
+                "RAD"
             ],
             "service": [
                 "VALIDATION"
@@ -987,7 +1025,10 @@
             "application_id": "BOLLINOFSE",
             "version": "1.0",
             "doc_type": [
-                "LAB", "RAD", "LDO", "RSA"
+                "LAB",
+                "RAD",
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -1000,7 +1041,9 @@
             "application_id": "ReMed",
             "version": "2.0.1",
             "doc_type": [
-                "RSA", "LDO", "PSS"
+                "RSA",
+                "LDO",
+                "PSS"
             ],
             "service": [
                 "VALIDATION"
@@ -1065,7 +1108,9 @@
             "application_id": "StudioLAB",
             "version": "3.3.0.0",
             "doc_type": [
-                "LAB","RAD","RSA"
+                "LAB",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -1130,7 +1175,8 @@
             "application_id": "CGMXFSE",
             "version": "1",
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -1143,7 +1189,8 @@
             "application_id": "Art-It",
             "version": "3.5.0",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -1245,7 +1292,7 @@
             "date": "2023-11-28",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.R.L.",
             "equiv_names": [
                 "COMPUGROUP MEDICAL ITALIA S.p.a."
@@ -1277,7 +1324,7 @@
             "date": "2023-11-28",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.R.L.",
             "equiv_names": [
                 "COMPUGROUP MEDICAL ITALIA S.p.a."
@@ -1309,7 +1356,7 @@
             "date": "2023-11-28",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.R.L.",
             "equiv_names": [
                 "COMPUGROUP MEDICAL ITALIA S.p.a."
@@ -1341,7 +1388,7 @@
             "date": "2023-12-15",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.R.L.",
             "equiv_names": [
                 "COMPUGROUP MEDICAL ITALIA S.p.a."
@@ -1373,7 +1420,7 @@
             "date": "2023-12-15",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.R.L.",
             "equiv_names": [
                 "COMPUGROUP MEDICAL ITALIA S.p.a."
@@ -1426,7 +1473,9 @@
             "application_id": "Equipe FSE Gateway",
             "version": "V1.0",
             "doc_type": [
-                "LDO", "RAD", "RSA"
+                "LDO",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -1439,7 +1488,8 @@
             "application_id": "SISPC",
             "version": "V.23",
             "doc_type": [
-                "SING_VACC", "CERT_VACC"
+                "SING_VACC",
+                "CERT_VACC"
             ],
             "service": [
                 "VALIDATION"
@@ -1452,7 +1502,8 @@
             "application_id": "HSG6",
             "version": "22.1",
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -1465,7 +1516,8 @@
             "application_id": "Gepadial",
             "version": "V.2.0.3",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -1491,7 +1543,8 @@
             "application_id": "Meditex",
             "version": "4",
             "doc_type": [
-                "RSA", "LAB"
+                "RSA",
+                "LAB"
             ],
             "service": [
                 "VALIDATION"
@@ -1517,7 +1570,8 @@
             "application_id": "DEVORIS",
             "version": "1.0",
             "doc_type": [
-                "LAB", "RAD"
+                "LAB",
+                "RAD"
             ],
             "service": [
                 "VALIDATION"
@@ -1530,7 +1584,9 @@
             "application_id": "DEVORIS",
             "version": "1.0",
             "doc_type": [
-                "LAB", "RAD", "RSA"
+                "LAB",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -1572,7 +1628,8 @@
             "application_id": "MEDINET-RAD",
             "version": "3.24.0.0",
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -1598,7 +1655,11 @@
             "application_id": "Smart*Health",
             "version": "4.5.048",
             "doc_type": [
-                "LDO", "RSA", "VPS", "SING_VACC", "CERT_VACC"
+                "LDO",
+                "RSA",
+                "VPS",
+                "SING_VACC",
+                "CERT_VACC"
             ],
             "service": [
                 "VALIDATION"
@@ -1643,7 +1704,8 @@
             "application_id": "INTELLILAB",
             "version": "3",
             "doc_type": [
-                "LAB","RAD"
+                "LAB",
+                "RAD"
             ],
             "service": [
                 "VALIDATION"
@@ -1662,7 +1724,9 @@
                 "3.42"
             ],
             "doc_type": [
-                "LAB","RAD","RSA"
+                "LAB",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -1678,7 +1742,9 @@
             "application_id": "fseENABLER",
             "version": "1.0",
             "doc_type": [
-                "LAB","RAD","RSA"
+                "LAB",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -1808,9 +1874,9 @@
                 "3.0.6",
                 "3.0.7",
                 "3.1.0",
-                "3.1.1", 
-                "3.1.2", 
-                "3.2.0", 
+                "3.1.1",
+                "3.1.2",
+                "3.2.0",
                 "3.3.0"
             ],
             "doc_type": [
@@ -1865,7 +1931,8 @@
             "application_id": "WHOSPITAL",
             "version": "28.6",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -1911,7 +1978,8 @@
                 "1.4.3"
             ],
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -1930,7 +1998,7 @@
                 "2.7.2",
                 "3.1.0",
                 "3.1.1",
-                "3.1.2", 
+                "3.1.2",
                 "3.2",
                 "3.3",
                 "3.4",
@@ -1948,13 +2016,14 @@
         },
         {
             "vendor": "dedalus",
-             "equiv_names": [
+            "equiv_names": [
                 "DEDALUS SPA"
             ],
             "application_id": "caleido_fse20_connector",
             "version": "2023",
             "doc_type": [
-                "LAB", "RAD"
+                "LAB",
+                "RAD"
             ],
             "service": [
                 "VALIDATION"
@@ -1970,7 +2039,9 @@
             "application_id": "caleido_fse20_connector",
             "version": "2023",
             "doc_type": [
-                "LAB", "RAD", "RSA"
+                "LAB",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -2018,10 +2089,13 @@
             "application_id": "TCWA",
             "version": "10.6",
             "equiv_releases": [
-                "10.7", "10.8", "10.9"
+                "10.7",
+                "10.8",
+                "10.9"
             ],
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -2053,7 +2127,8 @@
             "application_id": "Tabula",
             "version": "1.0.0",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -2077,7 +2152,9 @@
                 "6.0"
             ],
             "doc_type": [
-                "VPS", "LDO", "RSA"
+                "VPS",
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -2126,7 +2203,7 @@
             "version": "2303.05.01.00",
             "equiv_releases": [
                 "2308.06.00.00",
-                "2311.07.00.00", 
+                "2311.07.00.00",
                 "2402.07.05.02",
                 "2403.07.07.00",
                 "2405.01.03.04",
@@ -2137,7 +2214,8 @@
                 "2511.07.36.00"
             ],
             "doc_type": [
-                "SING_VACC", "CERT_VACC"
+                "SING_VACC",
+                "CERT_VACC"
             ],
             "service": [
                 "VALIDATION"
@@ -2153,7 +2231,8 @@
             "application_id": "P4PVACCINAZIONI",
             "version": "1.0.0",
             "doc_type": [
-                "SING_VACC", "CERT_VACC"
+                "SING_VACC",
+                "CERT_VACC"
             ],
             "service": [
                 "VALIDATION"
@@ -2169,7 +2248,8 @@
             "application_id": "INFOCLIN",
             "version": "2205.02.07.00",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -2201,7 +2281,7 @@
             "application_id": "4C Suite",
             "version": "5.5.0",
             "equiv_releases": [
-                "6.1", 
+                "6.1",
                 "6.1.4",
                 "6.2"
             ],
@@ -2226,7 +2306,8 @@
                 "6.6"
             ],
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -2241,10 +2322,10 @@
             ],
             "application_id": "CONCERTO",
             "version": "22.1.1",
-            "equiv_releases": [ 
-                "23.0.0", 
-                "22.1.2", 
-                "23.0.1", 
+            "equiv_releases": [
+                "23.0.0",
+                "22.1.2",
+                "23.0.1",
                 "23.1.0",
                 "23.2.0"
             ],
@@ -2280,8 +2361,8 @@
             ],
             "application_id": "INVITRO LIS",
             "version": "1.4",
-            "equiv_releases": [ 
-                "1.5", 
+            "equiv_releases": [
+                "1.5",
                 "1.6",
                 "1.7",
                 "1.8"
@@ -2302,7 +2383,7 @@
             ],
             "application_id": "4C Suite",
             "version": "6.1",
-            "equiv_releases": [ 
+            "equiv_releases": [
                 "6.1.4",
                 "6.2"
             ],
@@ -2355,7 +2436,8 @@
             "application_id": "ARGOS",
             "version": "4.25.25706",
             "doc_type": [
-                "LDO","RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -2384,7 +2466,8 @@
             "application_id": "GIV",
             "version": "23",
             "doc_type": [
-                "CERT_VACC", "SING_VACC"
+                "CERT_VACC",
+                "SING_VACC"
             ],
             "service": [
                 "VALIDATION"
@@ -2397,7 +2480,8 @@
             "application_id": "MYSANITA",
             "version": "24",
             "doc_type": [
-                "RSA", "RAD"
+                "RSA",
+                "RAD"
             ],
             "service": [
                 "VALIDATION"
@@ -2462,7 +2546,8 @@
             "application_id": "MediciConvenzionati",
             "version": "15.0",
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -2475,7 +2560,8 @@
             "application_id": "Vettore",
             "version": "26",
             "doc_type": [
-                "RSA", "RAD"
+                "RSA",
+                "RAD"
             ],
             "service": [
                 "VALIDATION"
@@ -2514,7 +2600,11 @@
             "application_id": "DTSHIS",
             "version": "1.0",
             "doc_type": [
-                "LAB", "LDO", "RAD", "VPS", "RSA"
+                "LAB",
+                "LDO",
+                "RAD",
+                "VPS",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -2527,7 +2617,8 @@
             "application_id": "sinfonia-vaccini",
             "version": "2.0",
             "doc_type": [
-                "SING_VACC", "CERT_VACC"
+                "SING_VACC",
+                "CERT_VACC"
             ],
             "service": [
                 "VALIDATION"
@@ -2606,10 +2697,11 @@
                 "34.9.0.3",
                 "34.12",
                 "3.0b35.x"
-                
             ],
             "doc_type": [
-                "RAD", "LDO", "RSA"
+                "RAD",
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -2648,7 +2740,8 @@
             "application_id": "AVR",
             "version": "v3.0.0",
             "doc_type": [
-                "SING_VACC", "CERT_VACC"
+                "SING_VACC",
+                "CERT_VACC"
             ],
             "service": [
                 "VALIDATION"
@@ -2677,7 +2770,12 @@
             "application_id": "KOS",
             "version": "2.6.0",
             "doc_type": [
-                "RAD", "LAB", "LDO", "VPS", "RSA", "RAP"
+                "RAD",
+                "LAB",
+                "LDO",
+                "VPS",
+                "RSA",
+                "RAP"
             ],
             "service": [
                 "VALIDATION"
@@ -2742,7 +2840,8 @@
             "application_id": "0012023",
             "version": "3",
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -2755,7 +2854,10 @@
             "application_id": "EliosSuite",
             "version": "3",
             "doc_type": [
-                "RAD", "RSA", "LDO", "LAB"
+                "RAD",
+                "RSA",
+                "LDO",
+                "LAB"
             ],
             "service": [
                 "VALIDATION"
@@ -2850,7 +2952,8 @@
                 "20.15.06"
             ],
             "doc_type": [
-                "LAB_TRASF", "LAB"
+                "LAB_TRASF",
+                "LAB"
             ],
             "service": [
                 "VALIDATION"
@@ -2863,7 +2966,8 @@
             "application_id": "Eliot CS",
             "version": "20.16.00",
             "doc_type": [
-                "LAB_TRASF", "LAB"
+                "LAB_TRASF",
+                "LAB"
             ],
             "service": [
                 "VALIDATION"
@@ -2914,7 +3018,7 @@
             "date": "2024-04-22",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "Engineering Ingegneria Informatica SpA",
             "application_id": "Winsap_CS",
             "version": "20.17.00",
@@ -2961,7 +3065,8 @@
             "application_id": "RADX",
             "version": "V.9",
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -3000,7 +3105,9 @@
             "application_id": "PLEIADE",
             "version": "3",
             "doc_type": [
-                "LDO", "RSA", "PSS"
+                "LDO",
+                "RSA",
+                "PSS"
             ],
             "service": [
                 "VALIDATION"
@@ -3060,7 +3167,7 @@
             "date": "2025-04-17",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "EVOLUZIONE",
             "application_id": "EVO_FSE",
             "version": "1.0",
@@ -3117,7 +3224,8 @@
             "application_id": "aurora",
             "version": "2",
             "doc_type": [
-                "LDO", "VPS"
+                "LDO",
+                "VPS"
             ],
             "service": [
                 "VALIDATION"
@@ -3172,7 +3280,8 @@
                 "8"
             ],
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -3224,7 +3333,8 @@
             "application_id": "C7",
             "version": "8.11.1",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -3250,7 +3360,8 @@
             "application_id": "ISA",
             "version": "1.15.0",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -3263,7 +3374,8 @@
             "application_id": "C6",
             "version": "6.1.3",
             "doc_type": [
-                "RAD", "LAB"
+                "RAD",
+                "LAB"
             ],
             "service": [
                 "VALIDATION"
@@ -3302,11 +3414,11 @@
             "application_id": "Synapse Value",
             "version": "1.6",
             "equiv_releases": [
-                "2.0.0", 
-                "2.1.0", 
-                "2.1.1", 
-                "2.1.2", 
-                "2.1.2.1", 
+                "2.0.0",
+                "2.1.0",
+                "2.1.1",
+                "2.1.2",
+                "2.1.2.1",
                 "2.1.2.2",
                 "2.1.2.3",
                 "2.1.3",
@@ -3314,7 +3426,8 @@
                 "2.1.4"
             ],
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -3340,7 +3453,8 @@
             "application_id": "Synapse Workflow",
             "version": "4.33",
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -3369,7 +3483,11 @@
             "application_id": "AnaSanPlus",
             "version": "1.0",
             "doc_type": [
-                "RAD", "RSA", "LDO", "VPS", "LAB"
+                "RAD",
+                "RSA",
+                "LDO",
+                "VPS",
+                "LAB"
             ],
             "service": [
                 "VALIDATION"
@@ -3403,12 +3521,13 @@
             "date": "2025-06-12",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "GE Medical Systems",
             "application_id": "CCW",
             "version": "7.0",
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -3455,12 +3574,13 @@
             "date": "2024-02-28",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "GeniusSrl",
             "application_id": "Pocr",
             "version": "1.0.0.0",
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -3661,7 +3781,8 @@
             "application_id": "CCE_Cartella_Clinica_Elettronica",
             "version": "14",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -3773,7 +3894,8 @@
             "application_id": "HCSUITE",
             "version": "3.19.23",
             "doc_type": [
-                "LDO", "VPS"
+                "LDO",
+                "VPS"
             ],
             "service": [
                 "VALIDATION"
@@ -3789,7 +3911,9 @@
             "application_id": "HCSUITE",
             "version": "3.19.23",
             "doc_type": [
-                "LDO", "VPS", "RSA"
+                "LDO",
+                "VPS",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -3875,15 +3999,16 @@
             "application_id": "IE-OPERA",
             "version": "5.0",
             "equiv_releases": [
-                "5.10", 
-                "5.11", 
-                "5.13", 
-                "5.13.3", 
-                "5.14", 
+                "5.10",
+                "5.11",
+                "5.13",
+                "5.13.3",
+                "5.14",
                 "5.22"
             ],
             "doc_type": [
-                "LDO", "VPS"
+                "LDO",
+                "VPS"
             ],
             "service": [
                 "VALIDATION"
@@ -3899,15 +4024,17 @@
             "application_id": "IE-OPERA",
             "version": "5.0",
             "equiv_releases": [
-                "5.10", 
-                "5.11", 
-                "5.13", 
-                "5.13.3", 
-                "5.14", 
+                "5.10",
+                "5.11",
+                "5.13",
+                "5.13.3",
+                "5.14",
                 "5.22"
             ],
             "doc_type": [
-                "LDO", "VPS", "RSA"
+                "LDO",
+                "VPS",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -3955,7 +4082,8 @@
             "application_id": "PHI",
             "version": "1.67",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -3971,7 +4099,8 @@
             "application_id": "IM-PATIDOK",
             "version": "IT_10.0.1",
             "doc_type": [
-                "LDO", "VPS"
+                "LDO",
+                "VPS"
             ],
             "service": [
                 "VALIDATION"
@@ -3987,7 +4116,9 @@
             "application_id": "IM-PATIDOK",
             "version": "IT_10.0.1",
             "doc_type": [
-                "LDO", "VPS", "RSA"
+                "LDO",
+                "VPS",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -4063,7 +4194,8 @@
             "application_id": "SSI",
             "version": "2.0",
             "doc_type": [
-                "LDO", "VPS"
+                "LDO",
+                "VPS"
             ],
             "service": [
                 "VALIDATION"
@@ -4111,7 +4243,8 @@
             "application_id": "EMOLIFE",
             "version": "10.85.0.0",
             "doc_type": [
-                "LAB_TRASF", "LAB"
+                "LAB_TRASF",
+                "LAB"
             ],
             "service": [
                 "VALIDATION"
@@ -4127,7 +4260,8 @@
             "application_id": "EMONET",
             "version": "9.6.3",
             "doc_type": [
-                "LAB_TRASF", "LAB"
+                "LAB_TRASF",
+                "LAB"
             ],
             "service": [
                 "VALIDATION"
@@ -4185,7 +4319,9 @@
             "application_id": "RESMEDICA",
             "version": "10.1.701",
             "doc_type": [
-                "RSA", "LAB", "RAD"
+                "RSA",
+                "LAB",
+                "RAD"
             ],
             "service": [
                 "VALIDATION"
@@ -4198,7 +4334,10 @@
             "application_id": "RESMEDICA",
             "version": "10.1.702",
             "doc_type": [
-                "RSA", "LAB", "RAD", "LDO"
+                "RSA",
+                "LAB",
+                "RAD",
+                "LDO"
             ],
             "service": [
                 "VALIDATION"
@@ -4206,12 +4345,13 @@
             "date": "2024-02-15",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "GRUPPO MAXED DI DANESI EMANUELE ALESSANDRO FABIO SNC",
             "application_id": "GMSoftFSE",
             "version": "V.1.1.0",
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -4315,7 +4455,8 @@
             "application_id": "HLT Central",
             "version": "4.2",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -4328,7 +4469,11 @@
             "application_id": "HLT Central",
             "version": "4.2",
             "doc_type": [
-                "LDO", "RSA", "RAD", "LAB", "VPS"
+                "LDO",
+                "RSA",
+                "RAD",
+                "LAB",
+                "VPS"
             ],
             "service": [
                 "VALIDATION"
@@ -4354,7 +4499,10 @@
             "application_id": "HTSANg",
             "version": "3.1.0",
             "doc_type": [
-                "LAB", "RAD", "LDO", "RSA"
+                "LAB",
+                "RAD",
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -4367,7 +4515,10 @@
             "application_id": "SISWeb",
             "version": "2.4.8",
             "doc_type": [
-                "LDO", "VPS", "RAD", "RSA"
+                "LDO",
+                "VPS",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -4404,7 +4555,8 @@
                 "5.114"
             ],
             "doc_type": [
-                "RSA", "RAD"
+                "RSA",
+                "RAD"
             ],
             "service": [
                 "VALIDATION"
@@ -4417,7 +4569,10 @@
             "application_id": "IGSUITE",
             "version": "4.0",
             "doc_type": [
-                "RAD", "LDO", "RSA", "LAB"
+                "RAD",
+                "LDO",
+                "RSA",
+                "LAB"
             ],
             "service": [
                 "VALIDATION"
@@ -4430,7 +4585,10 @@
             "application_id": "IGSUITE",
             "version": "4.0",
             "doc_type": [
-                "RAD", "LDO", "RSA", "LAB"
+                "RAD",
+                "LDO",
+                "RSA",
+                "LAB"
             ],
             "service": [
                 "VALIDATION"
@@ -4550,7 +4708,8 @@
             "application_id": "eVac",
             "version": "3.0.0",
             "doc_type": [
-                "SING_VACC", "CERT_VACC"
+                "SING_VACC",
+                "CERT_VACC"
             ],
             "service": [
                 "VALIDATION"
@@ -4570,12 +4729,15 @@
             ],
             "date": "2023-08-30",
             "gtw_version": "1.0"
-        },        {
+        },
+        {
             "vendor": "Infordata Digital Health Solutions",
             "application_id": "AstroL@bI/O",
             "version": "11.252.694",
             "doc_type": [
-                "LAB", "RAD", "RSA"
+                "LAB",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -4606,7 +4768,9 @@
                 "3.0"
             ],
             "doc_type": [
-                "RAD", "RSA", "LAB"
+                "RAD",
+                "RSA",
+                "LAB"
             ],
             "service": [
                 "VALIDATION"
@@ -4661,7 +4825,10 @@
             "application_id": "CareMed",
             "version": "1.0",
             "doc_type": [
-                "LAB", "LDO", "RAD", "RSA"
+                "LAB",
+                "LDO",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -4674,7 +4841,9 @@
             "application_id": "NOVAMED",
             "version": "8.4",
             "doc_type": [
-                "LDO", "RAD", "RSA"
+                "LDO",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -4700,7 +4869,8 @@
             "application_id": "CARDIONET",
             "version": "CAW04.04.25",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -4713,7 +4883,8 @@
             "application_id": "CLINICO",
             "version": "G4.3.0",
             "doc_type": [
-                "LDO", "RAD"
+                "LDO",
+                "RAD"
             ],
             "service": [
                 "VALIDATION"
@@ -4739,7 +4910,9 @@
             "application_id": "CLINICO",
             "version": "G4.3.10",
             "doc_type": [
-                "LDO", "RAD", "RSA"
+                "LDO",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -4765,7 +4938,8 @@
             "application_id": "parmagts",
             "version": "12",
             "doc_type": [
-                "LAB", "RSA"
+                "LAB",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -4778,7 +4952,10 @@
             "application_id": "TrakCare",
             "version": "ITXX",
             "doc_type": [
-                "VPS", "RAD", "LDO", "RSA"
+                "VPS",
+                "RAD",
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -4869,7 +5046,8 @@
             "application_id": "FIDCARE",
             "version": "5.25",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -4882,18 +5060,19 @@
             "application_id": "MEDGEST",
             "version": "5.0",
             "equiv_releases": [
-            "5.1",
-            "5.2", 
-            "5.3", 
-            "5.4", 
-            "5.5", 
-            "5.6", 
-            "5.7", 
-            "5.8",
-            "5.9"
+                "5.1",
+                "5.2",
+                "5.3",
+                "5.4",
+                "5.5",
+                "5.6",
+                "5.7",
+                "5.8",
+                "5.9"
             ],
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -4906,7 +5085,8 @@
             "application_id": "NETHOSPITAL",
             "version": "2.5.0",
             "doc_type": [
-                "RSA", "LDO"
+                "RSA",
+                "LDO"
             ],
             "service": [
                 "VALIDATION"
@@ -4945,7 +5125,8 @@
             "application_id": "fse2-connector",
             "version": "1.2.0",
             "doc_type": [
-                "LAB", "RSA"
+                "LAB",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -4997,7 +5178,8 @@
             "application_id": "Lepida_CVPI",
             "version": "2.0.0",
             "doc_type": [
-                "SING_VACC", "PSS"
+                "SING_VACC",
+                "PSS"
             ],
             "service": [
                 "VALIDATION"
@@ -5010,20 +5192,23 @@
             "application_id": "Lepida_CVPI",
             "version": "2.0.1",
             "doc_type": [
-                "SING_VACC", "PSS"
+                "SING_VACC",
+                "PSS"
             ],
             "service": [
                 "VALIDATION"
             ],
             "date": "2024-10-17",
             "gtw_version": "1.0"
-        },       
+        },
         {
             "vendor": "LIBRA SISTEMI SRL",
             "application_id": "Geslab",
             "version": "2.0",
             "doc_type": [
-                "LAB", "RAD", "RSA"
+                "LAB",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -5078,7 +5263,8 @@
                 "3.0"
             ],
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -5104,7 +5290,8 @@
             "application_id": "SOILAB Innovative",
             "version": "13.8.5",
             "doc_type": [
-                "LAB", "RSA"
+                "LAB",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -5143,7 +5330,8 @@
             "application_id": "MEDARCHIVER_FSE2.0",
             "version": "1.0.0.0",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -5328,7 +5516,8 @@
             "application_id": "MediStudio",
             "version": "24.2.28.0",
             "doc_type": [
-                "RSA", "RAD"
+                "RSA",
+                "RAD"
             ],
             "service": [
                 "VALIDATION"
@@ -5367,7 +5556,10 @@
             "application_id": "Urania Fse Evo",
             "version": "v.2.0.0",
             "doc_type": [
-                "LDO", "LAB", "RAD", "RSA"
+                "LDO",
+                "LAB",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -5388,12 +5580,15 @@
             "date": "2023-07-17",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "Medusa Software",
             "application_id": "Urania FSE",
             "version": "v.2.0.0",
             "doc_type": [
-                "LAB","LDO","RAD","RSA"
+                "LAB",
+                "LDO",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -5406,8 +5601,8 @@
             "application_id": "MetaClinic",
             "version": "10",
             "equiv_releases": [
-                "10.13", 
-                "10.14", 
+                "10.13",
+                "10.14",
                 "10.15",
                 "10.16",
                 "10.17",
@@ -5430,9 +5625,9 @@
             ],
             "application_id": "MILLEWIN",
             "version": "20.0.46.0",
-            "equiv_releases": [ 
-                "20.0.47.0", 
-                "20.0.48.0", 
+            "equiv_releases": [
+                "20.0.47.0",
+                "20.0.48.0",
                 "20.0.49.0",
                 "20.0.49.1",
                 "20.0.50.0",
@@ -5458,7 +5653,7 @@
             ],
             "application_id": "MILLEWIN",
             "version": "20.0.55.0",
-            "equiv_releases": [ 
+            "equiv_releases": [
                 "20.0.61.0",
                 "20.0.63.0"
             ],
@@ -5505,7 +5700,10 @@
             "application_id": "Medica",
             "version": "3.2.0.0",
             "doc_type": [
-                "RAD", "RSA","LDO", "LAB"
+                "RAD",
+                "RSA",
+                "LDO",
+                "LAB"
             ],
             "service": [
                 "VALIDATION"
@@ -5531,10 +5729,16 @@
             "application_id": "networksanitario",
             "version": "v.4.10.106",
             "equiv_releases": [
-                "4.10.387", "4.10.391", "4.10.395", "4.10.422"
+                "4.10.387",
+                "4.10.391",
+                "4.10.395",
+                "4.10.422"
             ],
             "doc_type": [
-                "LDO", "RAD", "RSA", "VPS"
+                "LDO",
+                "RAD",
+                "RSA",
+                "VPS"
             ],
             "service": [
                 "VALIDATION"
@@ -5555,12 +5759,14 @@
             "date": "2025-01-14",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "NEOTEK SOLUTIONS SRL",
             "application_id": "SALUTEADESSOFSE",
             "version": "2.0",
             "doc_type": [
-                "LAB","RAD","RSA"
+                "LAB",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -5599,7 +5805,8 @@
             "application_id": "ASAP",
             "version": "V.1.0",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -5703,10 +5910,13 @@
             "application_id": "nuplatform",
             "version": "2.4",
             "equiv_releases": [
-                "3.2", "3.3", "3.4"
+                "3.2",
+                "3.3",
+                "3.4"
             ],
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -5765,7 +5975,7 @@
                 "7.43.2",
                 "7.43.3",
                 "7.43.4",
-                "7.43.5", 
+                "7.43.5",
                 "7.43.6",
                 "7.43.7",
                 "7.44.0",
@@ -5852,7 +6062,9 @@
             "application_id": "oloHealth",
             "version": "V.3.0.0",
             "doc_type": [
-                "RSA", "LDO", "VPS"
+                "RSA",
+                "LDO",
+                "VPS"
             ],
             "service": [
                 "VALIDATION"
@@ -5878,7 +6090,8 @@
             "application_id": "OnVac",
             "version": "V.4.43.0.0",
             "doc_type": [
-                "SING_VACC", "CERT_VACC"
+                "SING_VACC",
+                "CERT_VACC"
             ],
             "service": [
                 "VALIDATION"
@@ -5896,7 +6109,8 @@
                 "V.4.44"
             ],
             "doc_type": [
-                "SING_VACC", "CERT_VACC"
+                "SING_VACC",
+                "CERT_VACC"
             ],
             "service": [
                 "VALIDATION"
@@ -5915,7 +6129,8 @@
                 "4.060"
             ],
             "doc_type": [
-                "SING_VACC", "CERT_VACC"
+                "SING_VACC",
+                "CERT_VACC"
             ],
             "service": [
                 "VALIDATION"
@@ -5928,7 +6143,8 @@
             "application_id": "AVacS",
             "version": "4",
             "doc_type": [
-                "SING_VACC", "CERT_VACC"
+                "SING_VACC",
+                "CERT_VACC"
             ],
             "service": [
                 "VALIDATION"
@@ -5941,7 +6157,8 @@
             "application_id": "SIAMA",
             "version": "4",
             "doc_type": [
-                "SING_VACC", "CERT_VACC"
+                "SING_VACC",
+                "CERT_VACC"
             ],
             "service": [
                 "VALIDATION"
@@ -5954,7 +6171,9 @@
             "application_id": "Klinika",
             "version": "1.2.0",
             "doc_type": [
-                "LDO", "RAD", "RSA"
+                "LDO",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -5967,7 +6186,9 @@
             "application_id": "OnHealth",
             "version": "1.2.0",
             "doc_type": [
-                "LDO", "RAD", "RSA"
+                "LDO",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -5980,7 +6201,9 @@
             "application_id": "analist-fse",
             "version": "1.0",
             "doc_type": [
-                "LAB", "RAD", "RSA"
+                "LAB",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -6006,7 +6229,8 @@
             "application_id": "MEDREP",
             "version": "1.0.0",
             "doc_type": [
-                "RAD","RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -6019,7 +6243,8 @@
             "application_id": "GSD.System",
             "version": "4.4",
             "doc_type": [
-                "LAB", "RAD"
+                "LAB",
+                "RAD"
             ],
             "service": [
                 "VALIDATION"
@@ -6097,7 +6322,8 @@
             "application_id": "ISOLABELLA",
             "version": "3.29.0.X",
             "doc_type": [
-                "VPS", "LDO"
+                "VPS",
+                "LDO"
             ],
             "service": [
                 "VALIDATION"
@@ -6110,7 +6336,10 @@
             "application_id": "ISOLABELLA",
             "version": "3.29.0.X",
             "doc_type": [
-                "VPS", "LDO", "RAD", "RSA"
+                "VPS",
+                "LDO",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -6123,7 +6352,8 @@
             "application_id": "MeFiSto",
             "version": "V.1.3",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -6149,7 +6379,9 @@
             "application_id": "LabPro",
             "version": "5.0",
             "doc_type": [
-                "LAB", "RAD", "RSA"
+                "LAB",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -6188,7 +6420,9 @@
             "application_id": "WGesLaAn",
             "version": "1",
             "doc_type": [
-                "LAB", "RAD", "RSA"
+                "LAB",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -6201,7 +6435,8 @@
             "application_id": "CCE",
             "version": "1",
             "doc_type": [
-                "RSA", "LDO"
+                "RSA",
+                "LDO"
             ],
             "service": [
                 "VALIDATION"
@@ -6265,7 +6500,8 @@
             "application_id": "ELIOT_SISaR_RAS",
             "version": "20.15",
             "doc_type": [
-                "LAB_TRASF", "LAB"
+                "LAB_TRASF",
+                "LAB"
             ],
             "service": [
                 "VALIDATION"
@@ -6330,7 +6566,8 @@
             "application_id": "LABGUI",
             "version": "3.0",
             "doc_type": [
-                "LAB", "RSA"
+                "LAB",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -6343,7 +6580,9 @@
             "application_id": "LABGUI",
             "version": "3.0",
             "doc_type": [
-                "LAB", "RSA", "RAD"
+                "LAB",
+                "RSA",
+                "RAD"
             ],
             "service": [
                 "VALIDATION"
@@ -6356,7 +6595,8 @@
             "application_id": "JHIS",
             "version": "23.01.01",
             "doc_type": [
-                "VPS", "LDO"
+                "VPS",
+                "LDO"
             ],
             "service": [
                 "VALIDATION"
@@ -6369,7 +6609,9 @@
             "application_id": "JHIS",
             "version": "23.01.01",
             "doc_type": [
-                "VPS", "LDO", "RSA"
+                "VPS",
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -6382,7 +6624,8 @@
             "application_id": "fertilab",
             "version": "v11.0",
             "doc_type": [
-                "LAB", "RSA"
+                "LAB",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -6395,7 +6638,9 @@
             "application_id": "santec_ecaresuite",
             "version": "5.0.0",
             "doc_type": [
-                "RSA", "LDO", "VPS"
+                "RSA",
+                "LDO",
+                "VPS"
             ],
             "service": [
                 "VALIDATION"
@@ -6421,7 +6666,9 @@
             "application_id": "ProgettoOsp",
             "version": "11.108",
             "doc_type": [
-                "RSA", "LDO", "RAD"
+                "RSA",
+                "LDO",
+                "RAD"
             ],
             "service": [
                 "VALIDATION"
@@ -6453,7 +6700,8 @@
             "application_id": "AUSYLIA",
             "version": "1.0.8",
             "doc_type": [
-                "LDO", "VPS"
+                "LDO",
+                "VPS"
             ],
             "service": [
                 "VALIDATION"
@@ -6479,7 +6727,8 @@
             "application_id": "SICO",
             "version": "V2023",
             "doc_type": [
-                "LDO","RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -6547,7 +6796,8 @@
             "application_id": "sicenter",
             "version": "1",
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -6573,7 +6823,8 @@
             "application_id": "CUP_VV",
             "version": "1.0",
             "doc_type": [
-                "RSA", "RAD"
+                "RSA",
+                "RAD"
             ],
             "service": [
                 "VALIDATION"
@@ -6586,7 +6837,8 @@
             "application_id": "GIAVA",
             "version": "6",
             "doc_type": [
-                "SING_VACC", "CERT_VACC"
+                "SING_VACC",
+                "CERT_VACC"
             ],
             "service": [
                 "VALIDATION"
@@ -6599,7 +6851,9 @@
             "application_id": "FSE_20_gateway",
             "version": "1.0",
             "doc_type": [
-                "LAB", "LDO", "RSA"
+                "LAB",
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -6612,7 +6866,8 @@
             "application_id": "MedWare",
             "version": "24.02.12",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -6664,7 +6919,10 @@
             "application_id": "FSE INI Adapter",
             "version": "1.0",
             "doc_type": [
-                "LAB", "RAD", "LDO", "RSA"
+                "LAB",
+                "RAD",
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -6690,7 +6948,8 @@
             "application_id": "Sdn.Net",
             "version": "1.1.0.0",
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -6703,20 +6962,25 @@
             "application_id": "SYNCLINIC",
             "version": "4.2.0",
             "doc_type": [
-                "LDO", "RAD", "RSA"
+                "LDO",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
             ],
             "date": "2024-10-28",
             "gtw_version": "1.0"
-        },      
+        },
         {
             "vendor": "Sys-Dat",
             "application_id": "Sys-Clinique",
             "version": "6.3.29.3",
             "doc_type": [
-                "LDO", "RAD","LAB","RSA"
+                "LDO",
+                "RAD",
+                "LAB",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -6767,19 +7031,20 @@
             "date": "2025-03-11",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "TESI SPA",
             "application_id": "PATHOX",
             "version": "14.0",
             "equiv_releases": [
                 "15.0",
-			    "16.0",
-			    "16.1",
-			    "17.0",
-			    "17.1"
+                "16.0",
+                "16.1",
+                "17.0",
+                "17.1"
             ],
             "doc_type": [
-                "RSA","RAP"
+                "RSA",
+                "RAP"
             ],
             "service": [
                 "VALIDATION"
@@ -6806,7 +7071,7 @@
             "date": "2025-03-31",
             "gtw_version": "1.0"
         },
-                {
+        {
             "vendor": "TESI SPA",
             "application_id": "PATHOXWEB",
             "version": "7.0",
@@ -6817,7 +7082,8 @@
                 "10.0"
             ],
             "doc_type": [
-                "RAP", "RSA"
+                "RAP",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -6998,7 +7264,8 @@
             "application_id": "MEDICAL REPORT",
             "version": "1.3",
             "doc_type": [
-                "RAD", "RSA"
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -7024,7 +7291,9 @@
             "application_id": "WLAB",
             "version": "126.2.c.a2",
             "doc_type": [
-                "LAB", "RAD", "RSA"
+                "LAB",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -7102,7 +7371,8 @@
             "application_id": "skipper",
             "version": "1.0",
             "doc_type": [
-                "CERT_VACC", "SING_VACC"
+                "CERT_VACC",
+                "SING_VACC"
             ],
             "service": [
                 "VALIDATION"
@@ -7128,7 +7398,9 @@
             "application_id": "GAPS",
             "version": "V1.0",
             "doc_type": [
-                "LAB", "RAD", "RSA"
+                "LAB",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -7206,7 +7478,8 @@
             "application_id": "8054145120002",
             "version": "2023.02.10.224",
             "doc_type": [
-                "LDO", "RSA"
+                "LDO",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -7219,7 +7492,10 @@
             "application_id": "isaac4fse",
             "version": "1.0",
             "doc_type": [
-                "LAB","LDO","RAD","RSA"
+                "LAB",
+                "LDO",
+                "RAD",
+                "RSA"
             ],
             "service": [
                 "VALIDATION"
@@ -7297,7 +7573,8 @@
             "application_id": "HealthMeeting",
             "version": "95.55.135",
             "equiv_releases": [
-                "96.56.136", "97.57.137"
+                "96.56.136",
+                "97.57.137"
             ],
             "doc_type": [
                 "RSA"
