@@ -196,12 +196,12 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Engineering Ingegneria Informatica S.p.A.||OpenLisCS|21.01.00||LAB|VALIDATION|2023-02-17|1.0|
 |Engineering Ingegneria Informatica S.p.A.||AREAS ADTWEB|20.15.00||LDO|VALIDATION|2023-03-13|1.0|
 |Engineering Ingegneria Informatica S.p.A.||AREAS PSWEB|20.15.00||VPS|VALIDATION|2023-03-15|1.0|
-|Engineering Ingegneria Informatica S.p.A.||Ellipse ADT|3.4.0||LDO|VALIDATION|2023-03-31|1.0|
-|Engineering Ingegneria Informatica S.p.A.||Ellipse PS|2.7.0||VPS|VALIDATION|2023-04-19|1.0|
+|Engineering Ingegneria Informatica S.p.A.||Ellipse ADT|3.4.0|3.10.0,3.11.0,3.12.0,3.9.1,3.9.2|LDO|VALIDATION|2023-03-31|1.0|
+|Engineering Ingegneria Informatica S.p.A.||Ellipse PS|2.7.0|2.14.0,2.14.1,2.15.0,2.15.1,2.16.0,2.17.0|VPS|VALIDATION|2023-04-19|1.0|
 |Engineering Ingegneria Informatica SpA||Eliot 3.0|20.15.04|20.15.05,20.15.06|LAB_TRASF,LAB|VALIDATION|2023-04-28|1.0|
 |Engineering Ingegneria Informatica SpA||Eliot CS|20.16.00||LAB_TRASF,LAB|VALIDATION|2023-04-28|1.0|
 |Engineering Ingegneria Informatica S.p.A.||AREAS AMBWEB|20.15.00||RSA|VALIDATION|2023-12-19|1.0|
-|Engineering Ingegneria Informatica S.p.A.||Ellipse AMB|4.0.0|4.1.0,4.4.0|RSA|VALIDATION|2024-03-27|1.0|
+|Engineering Ingegneria Informatica S.p.A.||Ellipse AMB|4.0.0|4.1.0,4.4.0,4.10.0,4.8.0,4.8.1,4.8.2,4.9.0|RSA|VALIDATION|2024-03-27|1.0|
 |Engineering Ingegneria Informatica S.p.A.||CURE|2.0||RSA|VALIDATION|2024-04-22|1.0|
 |Engineering Ingegneria Informatica SpA||Winsap_CS|20.17.00||RAP|VALIDATION|2025-05-20|1.0|
 |Engineering Ingegneria Informatica SpA||Winsap 3.0|20.17.02|20.17.03|RAP|VALIDATION|2025-02-13|1.0|
@@ -286,7 +286,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |GPI SPA|GPI_SPA|EMOLIFE|10.85.0.0||LAB_TRASF,LAB|VALIDATION|2024-02-14|1.0|
 |GPI SPA|GPI_SPA|EMONET|9.6.3||LAB_TRASF,LAB|VALIDATION|2024-02-19|1.0|
 |GPI SPA|GPI_SPA|PHI KLINIK|2.4.3||RSA|VALIDATION|2024-05-31|1.0|
-|GPI SPA|GPI_SPA|POHEMA|2.0.8||RSA|VALIDATION|2025-07-28|1.0|
+|GPI SPA|GPI_SPA|POHEMA|2.0.8|2.2.0|RSA|VALIDATION|2025-07-28|1.0|
 |GRUPPOINFORMATICO||RESMEDICA|10.1.701||RSA|VALIDATION|2024-01-10|1.0|
 |GRUPPOINFORMATICO||RESMEDICA|10.1.701||RSA,LAB,RAD|VALIDATION|2024-01-22|1.0|
 |GRUPPOINFORMATICO||RESMEDICA|10.1.702||RSA,LAB,RAD,LDO|VALIDATION|2024-02-15|1.0|
@@ -401,7 +401,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Nolex||NIGL|2023.05.12.1200||LAB|VALIDATION|2023-06-06|1.0|
 |nuvyta||nuplatform|2.4|3.2,3.3,3.4|LDO,RSA|VALIDATION|2023-05-05|1.0|
 |o3enterprise||mis|3.10.0||RAD|VALIDATION|2023-10-17|1.0|
-|o3enterprise||ris|7.0.0|7.37.2,7.37.3,7.37.4,7.38.0,7.38.1,7.38.2,7.38.3,7.38.4,7.38.5,7.38.6,7.38.7,7.38.8,7.39.0,7.39.1,7.39.2,7.39.3,7.40.0,7.40.1,7.41.0,7.41.1,7.41.2,7.41.3,7.41.4,7.42.0,7.42.1,7.42.2,7.42.3,7.42.4,7.43.0,7.43.1,7.43.2,7.43.3,7.43.4,7.43.5,7.43.6,7.43.7,7.44.0,7.44.1,7.44.2,7.45.0,7.45.1,7.45.2,7.45.3,7.45.4,7.45.5,7.46.0,7.46.1,7.46.2,7.46.3,7.47.0,7.47.1,7.47.2,7.47.3,8.1.1-pr.1,7.47.4,7.48.0,7.48.1,7.48.2,8.1.0,7.48.3,8.1.1,8.1.2,8.1.3,8.1.4,8.1.5,7.48.4,8.1.6,7.48.5,7.48.6,7.48.7,7.48.8,7.48.9,7.48.10,8.1.7,7.48.11,8.1.8,8.1.9,8.1.10,7.48.12,7.48.13,7.48.14,7.49.0,8.1.11,8.2.0,8.2.1|RAD|VALIDATION|2023-10-17|1.0|
+|o3enterprise||ris|7.0.0|7.37.2,7.37.3,7.37.4,7.38.0,7.38.1,7.38.2,7.38.3,7.38.4,7.38.5,7.38.6,7.38.7,7.38.8,7.39.0,7.39.1,7.39.2,7.39.3,7.40.0,7.40.1,7.41.0,7.41.1,7.41.2,7.41.3,7.41.4,7.42.0,7.42.1,7.42.2,7.42.3,7.42.4,7.43.0,7.43.1,7.43.2,7.43.3,7.43.4,7.43.5,7.43.6,7.43.7,7.44.0,7.44.1,7.44.2,7.45.0,7.45.1,7.45.2,7.45.3,7.45.4,7.45.5,7.46.0,7.46.1,7.46.2,7.46.3,7.47.0,7.47.1,7.47.2,7.47.3,8.1.1-pr.1,7.47.4,7.48.0,7.48.1,7.48.2,8.1.0,7.48.3,8.1.1,8.1.2,8.1.3,8.1.4,8.1.5,7.48.4,8.1.6,7.48.5,7.48.6,7.48.7,7.48.8,7.48.9,7.48.10,8.1.7,7.48.11,8.1.8,8.1.9,8.1.10,7.48.12,7.48.13,7.48.14,7.49.0,8.1.11,8.2.0,8.2.1,8.2.2,8.2.3,8.2.4|RAD|VALIDATION|2023-10-17|1.0|
 |o3enterprise||cis|4.20.0||RSA|VALIDATION|2024-09-03|1.0|
 |OllySoft||OllyMed|1.0||LDO|VALIDATION|2025-06-17|1.0|
 |Olomedia||oloHealth|V.3.0.0||RSA,LDO,VPS|VALIDATION|2023-06-26|1.0|
