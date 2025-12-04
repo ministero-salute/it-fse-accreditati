@@ -807,6 +807,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "AVVALESPA",
+            "application_id": "PuntoDegaVisite",
+            "version": "2.0.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-12-03",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Azserve",
             "application_id": "EumedWeb",
             "version": "1.0.0",
@@ -832,6 +845,24 @@
                 "VALIDATION"
             ],
             "date": "2025-10-13",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "AZ-PANICO",
+            "application_id": "FSE-PANICO",
+            "version": "1.0",
+            "doc_type": [
+                "LDO",
+                "VPS",
+                "RSA",
+                "LAB",
+                "RAD",
+                "RAP"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-12-03",
             "gtw_version": "1.0"
         },
         {
