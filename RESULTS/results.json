@@ -45,6 +45,19 @@
         },
         {
             "vendor": "4wardPro",
+            "application_id": "8055060650018LAB",
+            "version": "1.2023.2.15",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-12-09",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "4wardPro",
             "application_id": "8055060650018RX",
             "version": "1.2023.2.15",
             "doc_type": [
@@ -1628,8 +1641,9 @@
         {
             "vendor": "D-MEDICAL SRL",
             "application_id": "MEDINET-LAB",
-            "version": "3.15.0.0",
+            "version": "V.3.15.0.0",
             "equiv_releases": [
+                "3.15.0.0",
                 "3.24.0.0"
             ],
             "doc_type": [
@@ -3773,6 +3787,20 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "GESTIONE SALUTE SRL",
+            "application_id": "GSD FSE Link",
+            "version": "1.0",
+            "doc_type": [
+                "LDO",
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-12-09",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Ginevra Media Communication",
             "application_id": "GMC-Medical",
             "version": "1.0.0",
@@ -4599,6 +4627,19 @@
                 "VALIDATION"
             ],
             "date": "2023-12-15",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "I.T. Svil Srl",
+            "application_id": "4Heasy ADT",
+            "version": "v.1.0.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-12-11",
             "gtw_version": "1.0"
         },
         {
@@ -7051,6 +7092,21 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Studio di Ingegneria Informatica CONSALVI",
+            "application_id": "GSD ce",
+            "version": "4.0",
+            "doc_type": [
+                "LAB",
+                "RAD",
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-12-09",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Synlab SDN",
             "application_id": "Sdn.Net",
             "version": "1.1.0.0",
@@ -7621,6 +7677,19 @@
                 "VALIDATION"
             ],
             "date": "2025-07-11",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "visivcomunicazione.it",
+            "application_id": "cardiomanager@visivcomunicazione.it",
+            "version": "1.0.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-12-09",
             "gtw_version": "1.0"
         },
         {
