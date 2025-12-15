@@ -5406,6 +5406,9 @@
         },
         {
             "vendor": "MCA S.A.S.",
+            "equiv_names": [
+                "Marcello Nisi"
+            ],
             "application_id": "LAB2000",
             "version": "2.0",
             "doc_type": [
