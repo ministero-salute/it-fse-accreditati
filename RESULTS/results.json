@@ -2601,6 +2601,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Docplanner",
+            "application_id": "GipoLisFSE",
+            "version": "1",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-12-15",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Doctolib",
             "application_id": "Vettore",
             "version": "26",
@@ -6390,6 +6403,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "PANTAREIINFORMATICASRL",
+            "application_id": "GSILAB",
+            "version": "1.0.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-12-15",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Penta Sistemi srl",
             "application_id": "GSD.System",
             "version": "4.4",
@@ -6466,6 +6492,20 @@
                 "VALIDATION"
             ],
             "date": "2023-07-21",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "POPPIX_SRL",
+            "application_id": "BEEBEEDOC",
+            "version": "1.3.56",
+            "doc_type": [
+                "LAB",
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-12-15",
             "gtw_version": "1.0"
         },
         {
@@ -7136,6 +7176,19 @@
                 "VALIDATION"
             ],
             "date": "2024-10-28",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Sync-Line Studio Srls",
+            "application_id": "NetClinic",
+            "version": "v.1.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-12-15",
             "gtw_version": "1.0"
         },
         {
