@@ -174,7 +174,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |DICOMDATA||DocRis Pro|4.2.0||RAD|VALIDATION|2024-12-12|1.0|
 |DICOMDATA||DocViewer|1.0.0||RSA|VALIDATION|2025-11-24|1.0|
 |DLService||MediciConvenzionati|15.0||RAD,RSA|VALIDATION|2024-11-21|1.0|
-|Docplanner||GipoLisFSE|1||LAB|VALIDATION|2025-12-15|1.0|
+|Docplanner|Ianiri Informatica,Ianiri_Informatica|GipoLisFSE|1||LAB|VALIDATION|2025-12-15|1.0|
 |Doctolib||Vettore|26||RSA,RAD|VALIDATION|2024-04-16|1.0|
 |Docunque SRL||Docunque|V.1.0.0||PSS|VALIDATION|2024-01-10|1.0|
 |DSP||HCSuite|v4.3.0||RSA|VALIDATION|2024-02-15|1.0|
