@@ -2603,6 +2603,10 @@
         },
         {
             "vendor": "Docplanner",
+            "equiv_names": [
+                "Ianiri Informatica",
+                "Ianiri_Informatica"
+            ],
             "application_id": "GipoLisFSE",
             "version": "1",
             "doc_type": [
