@@ -169,6 +169,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |DEDALUS SPA|DEDALUS|OK-DH|3.0.0||RSA|VALIDATION|2024-04-05|1.0|
 |Delta Informatica||GIV|23||CERT_VACC,SING_VACC|VALIDATION|2023-12-28|1.0|
 |Delta Informatica||MYSANITA|24||RSA,RAD|VALIDATION|2024-03-14|1.0|
+|Delta Informatica srl||MYSANITA_LDO|25||LDO|VALIDATION|2025-12-19|1.0|
 |DHARMA||HEALTHNET|0.1||LAB|VALIDATION|2023-09-05|1.0|
 |DHARMA||HNRIS|0.1||RAD|VALIDATION|2025-07-11|1.0|
 |DICOMDATA||DocRis Pro|4.2.0||RAD|VALIDATION|2024-12-12|1.0|
@@ -360,6 +361,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Log 80 s.r.l.||SUITE LOG80|2.0||LDO|VALIDATION|2023-04-20|1.0|
 |Log 80 s.r.l.||SUITE LOG80|1.0||LDO|VALIDATION|2023-05-02|1.0|
 |Log 80 s.r.l.||MEDICAL 80|1.0||LDO|VALIDATION|2023-10-20|1.0|
+|Log 80 s.r.l.||MEDICAL 80|1.0||LDO,RSA|VALIDATION|2025-12-19|1.0|
 |Log 80 s.r.l.||SUITE LOG80|2.0|3.0|LDO,RSA|VALIDATION|2023-12-19|1.0|
 |MCA S.A.S.|Marcello Nisi|LAB2000|2.0||LAB|VALIDATION|2023-10-20|1.0|
 |MDA TECHNOLOGY||SOILAB Innovative|13.8.5||LAB,RSA|VALIDATION|2025-11-13|1.0|
@@ -469,6 +471,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |SINCON S.R.L||GIAVA|6||SING_VACC,CERT_VACC|VALIDATION|2023-07-19|1.0|
 |sincronet||FSE_20_gateway|1.0||LAB,LDO,RSA|VALIDATION|2024-01-26|1.0|
 |Sined S.r.l.||MedWare|24.02.12||LDO,RSA|VALIDATION|2024-04-22|1.0|
+|SNB||WebMed|1.0.0||RAD,RSA|VALIDATION|2025-12-19|1.0|
 |SOL_SPA||BIOMANAGEMENT|V.3.1.0||RSA|VALIDATION|2024-10-28|1.0|
 |SOSEPE S.R.L.||JUNIORBIT|7||PSS|VALIDATION|2024-02-07|1.0|
 |SOSEPE_SRL||CAMILLA|FSE-2.0||PSS|VALIDATION|2025-03-04|1.0|
@@ -514,6 +517,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Unicorn Apulia Srl||isaac4fse|1.0||LAB,LDO,RAD,RSA|VALIDATION|2025-05-30|1.0|
 |Varian_Medical_System_Spa||Aria_FSE_Gateway|1.0||RSA|VALIDATION|2025-07-11|1.0|
 |visivcomunicazione.it||cardiomanager@visivcomunicazione.it|1.0.0||RSA|VALIDATION|2025-12-09|1.0|
+|visivcomunicazione.it||ambulatoripilimar@visivcomunicazione.it|1.0.0||RSA|VALIDATION|2025-12-19|1.0|
 |VitalSoftware di Vitale Salvatore||Isolab9002|2.0||LAB|VALIDATION|2025-06-17|1.0|
 |We BiNar S.r.l.||wepacs|2.0||RAD|VALIDATION|2025-11-24|1.0|
 |WECONSTUDIO||CDCSM|1.0||LDO|VALIDATION|2023-09-21|1.0|
