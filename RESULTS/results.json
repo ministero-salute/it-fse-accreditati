@@ -2536,6 +2536,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Delta Informatica srl",
+            "application_id": "MYSANITA_LDO",
+            "version": "25",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-12-19",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "DHARMA",
             "application_id": "HEALTHNET",
             "version": "0.1",
@@ -5407,6 +5420,20 @@
         },
         {
             "vendor": "Log 80 s.r.l.",
+            "application_id": "MEDICAL 80",
+            "version": "1.0",
+            "doc_type": [
+                "LDO",
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-12-19",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Log 80 s.r.l.",
             "application_id": "SUITE LOG80",
             "version": "2.0",
             "equiv_releases": [
@@ -7077,6 +7104,20 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "SNB",
+            "application_id": "WebMed",
+            "version": "1.0.0",
+            "doc_type": [
+                "RAD",
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-12-19",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "SOL_SPA",
             "application_id": "BIOMANAGEMENT",
             "version": "V.3.1.0",
@@ -7756,6 +7797,19 @@
                 "VALIDATION"
             ],
             "date": "2025-12-09",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "visivcomunicazione.it",
+            "application_id": "ambulatoripilimar@visivcomunicazione.it",
+            "version": "1.0.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2025-12-19",
             "gtw_version": "1.0"
         },
         {
