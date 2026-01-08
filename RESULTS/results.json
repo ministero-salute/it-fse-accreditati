@@ -1893,7 +1893,8 @@
             "application_id": "LABMANAGER",
             "version": "1.1.1",
             "equiv_releases": [
-                "2.0.0"
+                "2.0.0",
+                "2.1.0"
             ],
             "doc_type": [
                 "RAP"
@@ -5176,7 +5177,12 @@
                 "VALIDATION"
             ],
             "date": "2025-02-07",
-            "gtw_version": "1.0"
+            "gtw_version": "1.0",
+            "equiv_releases": [
+                "13.0.0",
+                "13.0.1",
+                "13.0.2"
+            ]
         },
         {
             "vendor": "KG Partners s.r.l.",
@@ -5733,7 +5739,10 @@
                 "VALIDATION"
             ],
             "date": "2025-03-06",
-            "gtw_version": "1.0"
+            "gtw_version": "1.0",
+            "equiv_releases": [
+                "2.2.3"
+            ]
         },
         {
             "vendor": "MedNext",
@@ -6221,7 +6230,9 @@
                 "7.49.3",
                 "7.49.4",
                 "7.49.5",
-                "7.49.6"
+                "7.49.6",
+                "7.50.0",
+                "8.2.5"
             ],
             "doc_type": [
                 "RAD"
@@ -6761,7 +6772,10 @@
                 "VALIDATION"
             ],
             "date": "2025-05-26",
-            "gtw_version": "1.0"
+            "gtw_version": "1.0",
+            "equiv_releases": [
+                "2026.1.0"
+            ]
         },
         {
             "vendor": "xenia-reply",
