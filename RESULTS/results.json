@@ -417,6 +417,20 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "AMBULATORI DELLA MISERICORDIA",
+            "application_id": "HSG6",
+            "version": "23",
+            "doc_type": [
+                "RAD",
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-01-07",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "AO Ordine Mauriziano",
             "application_id": "BABELE_WPF",
             "version": "1.0",
@@ -1350,6 +1364,22 @@
                 "VALIDATION"
             ],
             "date": "2025-05-20",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "COMPUGROUP MEDICAL ITALIA S.R.L.",
+            "equiv_names": [
+                "COMPUGROUP MEDICAL ITALIA S.p.a."
+            ],
+            "application_id": "DFD",
+            "version": "4.40",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-01-07",
             "gtw_version": "1.0"
         },
         {
@@ -2573,6 +2603,19 @@
                 "VALIDATION"
             ],
             "date": "2025-07-11",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "DHARMA",
+            "application_id": "HNRSA",
+            "version": "0.1",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-01-07",
             "gtw_version": "1.0"
         },
         {
@@ -5181,7 +5224,8 @@
             "equiv_releases": [
                 "13.0.0",
                 "13.0.1",
-                "13.0.2"
+                "13.0.2",
+                "13.0.3"
             ]
         },
         {
