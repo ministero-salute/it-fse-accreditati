@@ -568,6 +568,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Area Software S.r.l.",
+            "application_id": "WinRAD",
+            "version": "V.1.0.0",
+            "doc_type": [
+                "LDO"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-01-13",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "ARIA SPA",
             "application_id": "CDA2VACC",
             "version": "1.0",
@@ -5952,6 +5965,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "MultimediaSrl",
+            "application_id": "MedicaRAP",
+            "version": "3.3.0.0",
+            "doc_type": [
+                "RAP"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-01-13",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Namur srl",
             "application_id": "GLPX",
             "version": "1.0",
@@ -6608,6 +6634,21 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "POPPIX_SRL",
+            "application_id": "BEEBEEDOC",
+            "version": "1.3.57",
+            "doc_type": [
+                "LAB",
+                "RAD",
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-01-13",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "PRAEZISION",
             "application_id": "ISOLABELLA",
             "version": "3.29.0.X",
@@ -6839,6 +6880,20 @@
                 "VALIDATION"
             ],
             "date": "2023-07-06",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "sanmatteo",
+            "application_id": "fse-referti",
+            "version": "2.0.0",
+            "doc_type": [
+                "RAD",
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-01-13",
             "gtw_version": "1.0"
         },
         {
@@ -7888,6 +7943,20 @@
                 "VALIDATION"
             ],
             "date": "2025-06-17",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "KWEL",
+            "application_id": "CADUAMB",
+            "version": "9",
+            "doc_type": [
+                "RAD",
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-01-13",
             "gtw_version": "1.0"
         },
         {
