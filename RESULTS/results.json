@@ -165,6 +165,20 @@
         },
         {
             "vendor": "ACSINFORMATICA",
+            "application_id": "WINGSR",
+            "version": "V1",
+            "doc_type": [
+                "RAD",
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-01-20",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "ACSINFORMATICA",
             "application_id": "MEDICALSUITE",
             "version": "1",
             "doc_type": [
@@ -174,6 +188,20 @@
                 "VALIDATION"
             ],
             "date": "2024-06-14",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "ACSINFORMATICA",
+            "application_id": "MEDICALSUITE",
+            "version": "1",
+            "doc_type": [
+                "RAD",
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-01-20",
             "gtw_version": "1.0"
         },
         {
@@ -5946,6 +5974,19 @@
                 "VALIDATION"
             ],
             "date": "2023-03-29",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "mimedical",
+            "application_id": "webrap3",
+            "version": "webrap3rsa",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-01-20",
             "gtw_version": "1.0"
         },
         {
