@@ -5831,6 +5831,19 @@
             ]
         },
         {
+            "vendor": "MEDIWARE",
+            "application_id": "ADVMEDNET",
+            "version": "2.2.3",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-01-22",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "MedNext",
             "application_id": "Urania Fse Evo",
             "version": "v.2.0.0",
@@ -7373,6 +7386,24 @@
                 "VALIDATION"
             ],
             "date": "2025-12-09",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Studio di Ingegneria Informatica CONSALVI",
+            "application_id": "GSD ce",
+            "version": "4.0",
+            "doc_type": [
+                "LAB",
+                "RAD",
+                "RSA",
+                "SING_VAC",
+                "CERT_VAC",
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-01-22",
             "gtw_version": "1.0"
         },
         {
