@@ -7396,8 +7396,8 @@
                 "LAB",
                 "RAD",
                 "RSA",
-                "SING_VAC",
-                "CERT_VAC",
+                "SING_VACC",
+                "CERT_VACC",
                 "PSS"
             ],
             "service": [
