@@ -390,6 +390,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Medinformatica||MediStudio|24.2.28.0||RSA,RAD|VALIDATION|2024-05-03|1.0|
 |MEDIWARE||ADVMEDNET|2.2.1||PSS|VALIDATION|2024-02-15|1.0|
 |MEDIWARE||ADVMEDNET|2.2.2|2.2.3|PSS|VALIDATION|2025-03-06|1.0|
+|MEDIWARE||ADVMEDNET|2.2.3||PSS|VALIDATION|2026-01-22|1.0|
 |MedNext||Urania Fse Evo|v.2.0.0||LDO,LAB,RAD,RSA|VALIDATION|2025-06-25|1.0|
 |Medusa Software||Urania FSE|v.1.0.0||LAB|VALIDATION|2023-07-17|1.0|
 |Medusa Software||Urania FSE|v.2.0.0||LAB,LDO,RAD,RSA|VALIDATION|2025-05-30|1.0|
@@ -489,6 +490,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |SPE.IT s.r.l.||FSE INI Adapter|1.0||LAB,RAD,LDO,RSA|VALIDATION|2023-09-21|1.0|
 |STI srl||IGEA|V.1.0||RSA|VALIDATION|2024-09-30|1.0|
 |Studio di Ingegneria Informatica CONSALVI||GSD ce|4.0||LAB,RAD,RSA|VALIDATION|2025-12-09|1.0|
+|Studio di Ingegneria Informatica CONSALVI||GSD ce|4.0||LAB,RAD,RSA,SING_VACC,CERT_VACC,PSS|VALIDATION|2026-01-22|1.0|
 |Synlab SDN||Sdn.Net|1.1.0.0||RAD,RSA|VALIDATION|2023-06-06|1.0|
 |SYNCLAB_Srl||SYNCLINIC|4.2.0||LDO,RAD,RSA|VALIDATION|2024-10-28|1.0|
 |Sync-Line Studio Srls||NetClinic|v.1.0||LAB|VALIDATION|2025-12-15|1.0|
