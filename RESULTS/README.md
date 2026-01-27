@@ -360,6 +360,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Labica Srl||fse2-connector|1.2.0||LAB,RSA|VALIDATION|2025-10-21|1.0|
 |LAB.NET||Gestilab-FSE2.0|1.0||LAB|VALIDATION|2025-06-17|1.0|
 |LazioCrea||SISMED|4.0_RC_0000||RSA|VALIDATION|2025-05-15|1.0|
+|LeanMe Srls||LeanFSE|1.0||LAB,RAD|VALIDATION|2026-01-27|1.0|
 |Lepida||CVPI_Lepida|1.0.0||SING_VACC|VALIDATION|2024-01-31|1.0|
 |Lepida||Lepida_CVPI|2.0.0||SING_VACC,PSS|VALIDATION|2024-06-14|1.0|
 |Lepida||Lepida_CVPI|2.0.1||SING_VACC,PSS|VALIDATION|2024-10-17|1.0|
