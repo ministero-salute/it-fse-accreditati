@@ -5428,6 +5428,20 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "LeanMe Srls",
+            "application_id": "LeanFSE",
+            "version": "1.0",
+            "doc_type": [
+                "LAB",
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-01-27",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Lepida",
             "application_id": "CVPI_Lepida",
             "version": "1.0.0",
