@@ -5639,6 +5639,21 @@
         },
         {
             "vendor": "MEDARCHIVER",
+            "application_id": "MEDARCHIVER_FSE2.0",
+            "version": "1.0.0.0",
+            "doc_type": [
+                "LDO",
+                "RSA",
+                "VPS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-01-30",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "MEDARCHIVER",
             "application_id": "MEDLIS_FSE2.0",
             "version": "1.0.0.0",
             "doc_type": [
