@@ -3489,6 +3489,9 @@
         },
         {
             "vendor": "FEDSTUDIOS DI DEBORAH BARATELLI",
+            "equiv_names": [
+                "HISTOSOFT S.R.L.S."
+            ],
             "application_id": "HISTOSOFT",
             "version": "4.1.9",
             "doc_type": [
@@ -7452,6 +7455,19 @@
                 "VALIDATION"
             ],
             "date": "2026-01-22",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "SynbrAIn srl",
+            "application_id": "AID Patient Summary",
+            "version": "1.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-02-06",
             "gtw_version": "1.0"
         },
         {
