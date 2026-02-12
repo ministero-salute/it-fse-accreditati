@@ -5573,6 +5573,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "MARCO_ANTONIO_SILVESTRIS",
+            "application_id": "LINNEO",
+            "version": "FSE_V.1.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-02-12",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "MCA S.A.S.",
             "equiv_names": [
                 "Marcello Nisi"
@@ -7395,6 +7408,19 @@
                 "VALIDATION"
             ],
             "date": "2024-02-07",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "SOSEPE S.R.L.",
+            "application_id": "JUNIORBIT",
+            "version": "7",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-02-12",
             "gtw_version": "1.0"
         },
         {
