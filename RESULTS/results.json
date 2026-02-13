@@ -231,6 +231,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "ADL",
+            "application_id": "ARIA",
+            "version": "2.99.2",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-02-13",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "advenias",
             "application_id": "epersonam",
             "version": "1.0.0",
