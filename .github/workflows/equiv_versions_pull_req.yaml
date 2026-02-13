@@ -1,0 +1,41 @@
+name: Create PR for equivalent versions
+
+on:
+  workflow_dispatch:
+  schedule: 
+    - cron: '0 8 * * 5' 
+
+jobs:
+  create-pr-for-equivalent-versions:
+    name: equiv_versions_pr_creator
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout this workflow repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install requirements
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests openpyxl pandas pyarrow
+
+      - name: Run script - Scan for equivalent versions PRs
+        run: |
+          python scripts/equiv_versions_01_pr_scanner.py
+        env:
+          GITHUB_TOKEN_IT_FSE_ACCREDITAMENTO_READ_ONLY: ${{ secrets.REPO_ACCREDITAMENTO_READER_TOKEN }}
+          
+      - name: Run script - Check new versions
+        run: |
+          python scripts/equiv_versions_02_check_new_equiv.py
+
+      - name: Run script - Create PR with equivalent versions
+        run: |
+          python scripts/equiv_versions_03_create_pr.py
+        env:
+          GITHUB_TOKEN_IT_FSE_ACCREDITATI_PR_WRITE: ${{ secrets.REPO_ACCREDITAMENTO_PR_TOKEN }}
