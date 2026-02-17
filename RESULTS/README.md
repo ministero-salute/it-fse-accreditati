@@ -243,6 +243,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Fondazione Toscana Gabriele Monasterio||ISA|1.15.0||LDO,RSA|VALIDATION|2023-10-24|1.0|
 |Fondazione Toscana Gabriele Monasterio||C6|6.1.3||RAD,LAB|VALIDATION|2023-05-29|1.0|
 |FRAMESRL||GOMED-PEDIATOTEM|1.0||PSS|VALIDATION|2025-07-01|1.0|
+|FRAMESRL||GOMED-PEDIATOTEM|1.0||PSS|VALIDATION|2026-02-16|1.0|
 |Fujifilm Italia S.p.A.||Synapse Value|1.6|2.1.5,2.1.5.1,2.1.6.0,2.1.7.0|RAD|VALIDATION|2023-04-19|1.0|
 |Fujifilm Italia S.p.A.||Synapse Value|1.6|2.0.0,2.1.0,2.1.1,2.1.2,2.1.2.1,2.1.2.2,2.1.2.3,2.1.3,2.1.3.1,2.1.4,2.1.5,2.1.5.1,2.1.6.0,2.1.7.0|RAD,RSA|VALIDATION|2024-03-06|1.0|
 |Fujifilm Italia S.p.A.||Synapse Workflow|4.33||RAD|VALIDATION|2023-04-19|1.0|
