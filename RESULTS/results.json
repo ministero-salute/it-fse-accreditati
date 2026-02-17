@@ -3599,6 +3599,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "FRAMESRL",
+            "application_id": "GOMED-PEDIATOTEM",
+            "version": "1.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-02-16",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Fujifilm Italia S.p.A.",
             "application_id": "Synapse Value",
             "version": "1.6",
