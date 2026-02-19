@@ -181,6 +181,22 @@
       "equiv_names": [
         "HISTOSOFT S.R.L.S."
       ]
+    },
+    {
+      "appVendor": "SCS SRL",
+      "ts": "2026-02-19T15:52:54.740153Z",
+      "equiv_names": [
+        "ARTEXE SPA",
+        "MAPS HEALTHCARE S.P.A."
+      ]
+    },
+    {
+      "appVendor": "SCS SRL",
+      "ts": "2026-02-19T15:52:54.740172Z",
+      "equiv_names": [
+        "ARTEXE SPA",
+        "MAPS HEALTHCARE S.P.A."
+      ]
     }
   ]
 }
