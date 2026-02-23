@@ -1896,6 +1896,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "DaVinci Healthcare",
+            "application_id": "DaVinci",
+            "version": "3.3",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-02-23",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "DBMSOFTWARE SRLS",
             "application_id": "DBMEDICA",
             "version": "1.0",
