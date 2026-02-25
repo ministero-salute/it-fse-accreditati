@@ -540,6 +540,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |visivcomunicazione.it||cardiomanager@visivcomunicazione.it|1.0.0||RSA|VALIDATION|2025-12-09|1.0|
 |visivcomunicazione.it||ambulatoripilimar@visivcomunicazione.it|1.0.0||RSA|VALIDATION|2025-12-19|1.0|
 |VitalSoftware di Vitale Salvatore||Isolab9002|2.0||LAB|VALIDATION|2025-06-17|1.0|
+|VitalSoftware di Vitale Salvatore||Isolab9002|2.1||LAB,RAD|VALIDATION|2026-02-25|1.0|
 |KWEL||CADUAMB|9||RAD,RSA|VALIDATION|2026-01-13|1.0|
 |We BiNar S.r.l.||wepacs|2.0||RAD|VALIDATION|2025-11-24|1.0|
 |WECONSTUDIO||CDCSM|1.0||LDO|VALIDATION|2023-09-21|1.0|
