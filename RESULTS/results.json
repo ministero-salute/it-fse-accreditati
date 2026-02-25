@@ -8183,6 +8183,20 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "VitalSoftware di Vitale Salvatore",
+            "application_id": "Isolab9002",
+            "version": "2.1",
+            "doc_type": [
+                "LAB",
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-02-25",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "KWEL",
             "application_id": "CADUAMB",
             "version": "9",
