@@ -7251,6 +7251,20 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "SDSINFORMATICA",
+            "application_id": "RIABILITIODIAGNO",
+            "version": "4.0",
+            "doc_type": [
+                "RAD",
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-02-26",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "SID SRL",
             "application_id": "SICO",
             "version": "V2023",
