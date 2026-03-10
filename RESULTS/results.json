@@ -2857,6 +2857,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "e-Shark S.r.l.",
+            "application_id": "FaithK",
+            "version": "2.9.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-03-10",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "EBITSRL",
             "equiv_names": [
                 "EBIT",
@@ -3396,6 +3409,9 @@
         },
         {
             "vendor": "EXPLORA CONSULTING SRL",
+                        "equiv_names": [
+                "Zucchetti Centro Sistemi S.p.A."
+            ],
             "application_id": "VLFSE",
             "version": "1.40",
             "doc_type": [
