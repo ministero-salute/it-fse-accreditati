@@ -2846,6 +2846,19 @@
         },
         {
             "vendor": "e-Shark S.r.l.",
+            "application_id": "FaithG",
+            "version": "2.9.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-03-12",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "e-Shark S.r.l.",
             "application_id": "FaithK",
             "version": "2.9.0",
             "doc_type": [
@@ -3992,6 +4005,21 @@
                 "VALIDATION"
             ],
             "date": "2025-12-09",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GESTIONE SALUTE SRL",
+            "application_id": "GSD FSE Link",
+            "version": "1.0",
+            "doc_type": [
+                "LDO",
+                "LAB",
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-03-12",
             "gtw_version": "1.0"
         },
         {
@@ -6084,6 +6112,22 @@
                 "VALIDATION"
             ],
             "date": "2025-03-07",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "MILLENNIUM SPA",
+            "equiv_names": [
+                "MILLENNIUM SRL"
+            ],
+            "application_id": "MILLEWIN",
+            "version": "20.0.69.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-03-12",
             "gtw_version": "1.0"
         },
         {
