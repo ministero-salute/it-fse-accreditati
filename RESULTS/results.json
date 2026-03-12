@@ -2358,7 +2358,8 @@
                 "2406.07.11.01",
                 "2406.07.11.00",
                 "2507.07.31.00",
-                "2511.07.36.00"
+                "2511.07.36.00",
+                "2603.09.00.00"
             ],
             "doc_type": [
                 "SING_VACC",
@@ -3409,7 +3410,7 @@
         },
         {
             "vendor": "EXPLORA CONSULTING SRL",
-                        "equiv_names": [
+            "equiv_names": [
                 "Zucchetti Centro Sistemi S.p.A."
             ],
             "application_id": "VLFSE",
@@ -3447,7 +3448,10 @@
                 "VALIDATION"
             ],
             "date": "2023-05-23",
-            "gtw_version": "1.0"
+            "gtw_version": "1.0",
+            "equiv_releases": [
+                "6"
+            ]
         },
         {
             "vendor": "exprivia",
@@ -6511,7 +6515,10 @@
                 "8.2.28",
                 "7.51.6",
                 "8.2.29",
-                "8.2.30"
+                "8.2.30",
+                "7.51.7",
+                "7.51.8",
+                "8.2.31"
             ],
             "doc_type": [
                 "RAD"
