@@ -7577,7 +7577,7 @@
             "application_id": "Refertazio",
             "version": "V1.2",
             "doc_type": [
-                "RAD",
+                "RAD"
             ],
             "service": [
                 "VALIDATION"
