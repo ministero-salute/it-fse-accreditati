@@ -1534,6 +1534,22 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "COMPUGROUP MEDICAL ITALIA S.R.L.",
+            "equiv_names": [
+                "COMPUGROUP MEDICAL ITALIA S.p.a."
+            ],
+            "application_id": "PHRONESIS",
+            "version": "4.50",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-03-18",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "COMPUGROUP MEDICAL ITALIA S.p.a.",
             "equiv_names": [
                 "COMPUGROUP MEDICAL ITALIA S.R.L."
@@ -5884,6 +5900,20 @@
                 "VALIDATION"
             ],
             "date": "2025-03-12",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "MedianetServizi",
+            "application_id": "4Handy.it",
+            "version": "2025.12",
+            "doc_type": [
+                "PSS",
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-03-18",
             "gtw_version": "1.0"
         },
         {
