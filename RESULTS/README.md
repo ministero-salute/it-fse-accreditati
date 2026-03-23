@@ -498,6 +498,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Sined S.r.l.||MedWare|24.02.12||LDO,RSA|VALIDATION|2024-04-22|1.0|
 |SNB||WebMed|1.0.0||RAD,RSA|VALIDATION|2025-12-19|1.0|
 |SOL_SPA||BIOMANAGEMENT|V.3.1.0||RSA|VALIDATION|2024-10-28|1.0|
+|SOLUTIONMED SRL||SPHERE|4.0||RSA|VALIDATION|2026-03-20|1.0|
 |SOSEPE S.R.L.||JUNIORBIT|7||PSS|VALIDATION|2024-02-07|1.0|
 |SOSEPE S.R.L.||JUNIORBIT|7||PSS|VALIDATION|2026-02-12|1.0|
 |SOSEPE_SRL||CAMILLA|FSE-2.0||PSS|VALIDATION|2025-03-04|1.0|
@@ -552,6 +553,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |VitalSoftware di Vitale Salvatore||Isolab9002|2.0||LAB|VALIDATION|2025-06-17|1.0|
 |VitalSoftware di Vitale Salvatore||Isolab9002|2.1||LAB,RAD|VALIDATION|2026-02-25|1.0|
 |KWEL||CADUAMB|9||RAD,RSA|VALIDATION|2026-01-13|1.0|
+|WebComNet||GesFisioInCloud|1.0.0||RSA|VALIDATION|2026-03-20|1.0|
 |We BiNar S.r.l.||wepacs|2.0||RAD|VALIDATION|2025-11-24|1.0|
 |WECONSTUDIO||CDCSM|1.0||LDO|VALIDATION|2023-09-21|1.0|
 |Werfen S.p.A||Modulab|4.5.0||LAB|VALIDATION|2023-04-13|1.0|
