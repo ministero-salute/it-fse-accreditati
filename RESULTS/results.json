@@ -417,6 +417,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Aizoi",
+            "application_id": "ACP",
+            "version": "3.9",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-03-24",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "AlfaDocs Italia srl",
             "application_id": "AlfaDocs",
             "version": "20240717",
@@ -1426,6 +1439,22 @@
             "equiv_names": [
                 "COMPUGROUP MEDICAL ITALIA S.p.a."
             ],
+            "application_id": "CCBASIC",
+            "version": "3.39",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-03-24",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "COMPUGROUP MEDICAL ITALIA S.R.L.",
+            "equiv_names": [
+                "COMPUGROUP MEDICAL ITALIA S.p.a."
+            ],
             "application_id": "DFD",
             "version": "4.40",
             "doc_type": [
@@ -1499,6 +1528,22 @@
                 "VALIDATION"
             ],
             "date": "2025-05-20",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "COMPUGROUP MEDICAL ITALIA S.R.L.",
+            "equiv_names": [
+                "COMPUGROUP MEDICAL ITALIA S.p.a."
+            ],
+            "application_id": "FPF",
+            "version": "5.62",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-03-24",
             "gtw_version": "1.0"
         },
         {
@@ -3797,6 +3842,22 @@
                 "VALIDATION"
             ],
             "date": "2024-09-09",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "GasNet Group",
+            "application_id": "SaniPocket",
+            "version": "1.0",
+            "doc_type": [
+                "LAB",
+                "LDO",
+                "RAD",
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-03-24",
             "gtw_version": "1.0"
         },
         {
@@ -6295,6 +6356,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "NETLUX SRL",
+            "application_id": "NetluxFse",
+            "version": "1.0.0",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-03-24",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "NETMEDICAITALIA",
             "application_id": "NETMEDICA",
             "version": "1.0",
@@ -7548,6 +7622,22 @@
                 "VALIDATION"
             ],
             "date": "2025-12-19",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "SOFTWAREENGINE",
+            "application_id": "SILENO",
+            "version": "1.0",
+            "doc_type": [
+                "LAB",
+                "LDO",
+                "RAD",
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-03-24",
             "gtw_version": "1.0"
         },
         {
