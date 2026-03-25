@@ -3852,7 +3852,8 @@
                 "LAB",
                 "LDO",
                 "RAD",
-                "RSA"
+                "RSA",
+                "RAP"
             ],
             "service": [
                 "VALIDATION"
