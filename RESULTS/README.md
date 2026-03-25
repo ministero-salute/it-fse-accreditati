@@ -258,7 +258,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |Fujifilm Italia S.p.A.||Synapse WorkflowES|1.0|1.1.0|RSA|VALIDATION|2025-02-07|1.0|
 |Gara Software||AnaSanPlus|1.0||RAD,RSA,LDO,VPS,LAB|VALIDATION|2024-04-10|1.0|
 |GasNet Group||SaniPocket|1.0||RSA|VALIDATION|2024-09-09|1.0|
-|GasNet Group||SaniPocket|1.0||LAB,LDO,RAD,RSA|VALIDATION|2026-03-24|1.0|
+|GasNet Group||SaniPocket|1.0||LAB,LDO,RAD,RSA,RAP|VALIDATION|2026-03-24|1.0|
 |GE Medical Systems||MUSE|NX||RSA|VALIDATION|2025-06-12|1.0|
 |GE Medical Systems||CCW|7.0||RAD,RSA|VALIDATION|2025-06-17|1.0|
 |GE_Medical_System_Italia_SPA||WEBCENTRYRIS|1.25||RAD|VALIDATION|2025-06-17|1.0|
