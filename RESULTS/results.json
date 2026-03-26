@@ -874,6 +874,24 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "ASPTRAPANI",
+            "application_id": "FSE",
+            "version": "1.0",
+            "doc_type": [
+                "LDO",
+                "LAB",
+                "RAD",
+                "VPS",
+                "RSA",
+                "RAP"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-03-26",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "ASST Lecco",
             "application_id": "IPAC",
             "version": "10.3",
@@ -1624,6 +1642,22 @@
                 "VALIDATION"
             ],
             "date": "2025-05-26",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "COMPUGROUP MEDICAL ITALIA S.R.L.",
+            "equiv_names": [
+                "COMPUGROUP MEDICAL ITALIA S.p.a."
+            ],
+            "application_id": "PROFIM",
+            "version": "6.7",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-03-26",
             "gtw_version": "1.0"
         },
         {
@@ -8328,6 +8362,19 @@
                 "VALIDATION"
             ],
             "date": "2025-05-15",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "TSF SRL",
+            "application_id": "IATROS",
+            "version": "4.2.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-03-26",
             "gtw_version": "1.0"
         },
         {
