@@ -5253,7 +5253,7 @@
             ],
             "equiv_releases": [
                 "WEB",
-                "lite"
+                "LITE"
             ],
             "service": [
                 "VALIDATION"
