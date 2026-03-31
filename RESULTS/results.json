@@ -417,6 +417,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "AISM",
+            "application_id": "Rehab-MS",
+            "version": "1.8",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-03-31",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Aizoi",
             "application_id": "ACP",
             "version": "3.9",
@@ -1395,6 +1408,20 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Ciditech",
+            "application_id": "Point",
+            "version": "9.0",
+            "doc_type": [
+                "LDO",
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-03-31",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "CiD Software SpA",
             "application_id": "ADT",
             "version": "3.0",
@@ -1418,6 +1445,19 @@
                 "VALIDATION"
             ],
             "date": "2023-05-02",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "CODEBYTESRL|11212050964",
+            "application_id": "codebyte.medisolution",
+            "version": "2026.03",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-03-31",
             "gtw_version": "1.0"
         },
         {
@@ -4813,6 +4853,20 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Gsquared",
+            "application_id": "ReSked",
+            "version": "6.0",
+            "doc_type": [
+                "RAD",
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-03-31",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "HEALTH INSIDE",
             "application_id": "SADI HEALTH",
             "version": "V.1.0",
@@ -7743,6 +7797,19 @@
                 "VALIDATION"
             ],
             "date": "2025-03-04",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "SOSEPE_SRL",
+            "application_id": "CAMILLA",
+            "version": "FSE-2.0",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-03-31",
             "gtw_version": "1.0"
         },
         {
