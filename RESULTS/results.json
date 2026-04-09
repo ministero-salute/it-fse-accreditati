@@ -6834,6 +6834,9 @@
         },
         {
             "vendor": "OnitGroup",
+            "equiv_names": [
+                "Onit Sanita"
+            ],
             "application_id": "OnVac",
             "version": "V.4.43.0.0",
             "doc_type": [
@@ -6848,6 +6851,9 @@
         },
         {
             "vendor": "OnitGroup",
+            "equiv_names": [
+                "Onit Sanita"
+            ],
             "application_id": "SIRVa",
             "version": "V.4.42.0.0",
             "equiv_releases": [
@@ -6867,6 +6873,9 @@
         },
         {
             "vendor": "OnitGroup",
+            "equiv_names": [
+                "Onit Sanita"
+            ],
             "application_id": "SIAVr",
             "version": "4",
             "equiv_releases": [
@@ -6887,6 +6896,9 @@
         },
         {
             "vendor": "OnitGroup",
+            "equiv_names": [
+                "Onit Sanita"
+            ],
             "application_id": "AVacS",
             "version": "4",
             "doc_type": [
@@ -6901,6 +6913,9 @@
         },
         {
             "vendor": "OnitGroup",
+            "equiv_names": [
+                "Onit Sanita"
+            ],
             "application_id": "SIAMA",
             "version": "4",
             "doc_type": [
@@ -6915,6 +6930,9 @@
         },
         {
             "vendor": "Onit Sanita",
+            "equiv_names": [
+                "OnitGroup"
+            ],
             "application_id": "Klinika",
             "version": "1.2.0",
             "doc_type": [
@@ -6930,6 +6948,9 @@
         },
         {
             "vendor": "Onit Sanita",
+            "equiv_names": [
+                "OnitGroup"
+            ],
             "application_id": "OnHealth",
             "version": "1.2.0",
             "doc_type": [
@@ -7850,6 +7871,9 @@
         },
         {
             "vendor": "STI srl",
+            "equiv_names": [
+                "INSIGHT by NG"
+            ],
             "application_id": "IGEA",
             "version": "V.1.0",
             "doc_type": [
