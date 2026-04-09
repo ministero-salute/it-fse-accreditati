@@ -196,6 +196,62 @@
       "equiv_names": [
         "ZUCCHETTI CENTRO SISTEMI S.P.A."
       ]
+    },
+    {
+      "appVendor": "ONITGROUP",
+      "ts": "2026-04-09T09:50:36.197029Z",
+      "equiv_names": [
+        "ONIT SANITA"
+      ]
+    },
+    {
+      "appVendor": "ONITGROUP",
+      "ts": "2026-04-09T09:50:36.197044Z",
+      "equiv_names": [
+        "ONIT SANITA"
+      ]
+    },
+    {
+      "appVendor": "ONITGROUP",
+      "ts": "2026-04-09T09:50:36.197049Z",
+      "equiv_names": [
+        "ONIT SANITA"
+      ]
+    },
+    {
+      "appVendor": "ONITGROUP",
+      "ts": "2026-04-09T09:50:36.197053Z",
+      "equiv_names": [
+        "ONIT SANITA"
+      ]
+    },
+    {
+      "appVendor": "ONITGROUP",
+      "ts": "2026-04-09T09:50:36.197055Z",
+      "equiv_names": [
+        "ONIT SANITA"
+      ]
+    },
+    {
+      "appVendor": "ONIT SANITA",
+      "ts": "2026-04-09T09:50:36.197058Z",
+      "equiv_names": [
+        "ONITGROUP"
+      ]
+    },
+    {
+      "appVendor": "ONIT SANITA",
+      "ts": "2026-04-09T09:50:36.197061Z",
+      "equiv_names": [
+        "ONITGROUP"
+      ]
+    },
+    {
+      "appVendor": "STI SRL",
+      "ts": "2026-04-09T09:50:36.197071Z",
+      "equiv_names": [
+        "INSIGHT BY NG"
+      ]
     }
   ]
 }
