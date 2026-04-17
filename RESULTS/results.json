@@ -4219,6 +4219,24 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "GP1 HEALTH SYSTEM",
+            "equiv_names": [
+                "GP1 HEALTH SYSTEM srls"
+            ],
+            "application_id": "FSE_SENDER",
+            "version": "V.1.0",
+            "doc_type": [
+                "LAB",
+                "RAD",
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-04-17",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "GPI_SPA",
             "equiv_names": [
                 "GPI SPA"
