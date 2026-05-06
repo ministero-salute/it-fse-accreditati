@@ -1734,6 +1734,22 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "COMPUGROUP MEDICAL ITALIA S.R.L.",
+            "equiv_names": [
+                "COMPUGROUP MEDICAL ITALIA S.p.a."
+            ],
+            "application_id": "VENERE",
+            "version": "8.33",
+            "doc_type": [
+                "PSS"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-05-06",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Connect Informatics SRL",
             "application_id": "Equipe FSE Gateway",
             "version": "V1.0",
@@ -4219,6 +4235,21 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "GPI_HEALTH_SYSTEM",
+            "application_id": "FSE_SENDER",
+            "version": "V.1.0",
+            "doc_type": [
+                "LAB",
+                "RAD",
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-05-06",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "GPI_SPA",
             "equiv_names": [
                 "GPI SPA"
@@ -5200,6 +5231,20 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "INFO99_SAS",
+            "application_id": "GLAB400",
+            "version": "2.30",
+            "doc_type": [
+                "LAB",
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-05-06",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "INFOGRAMMA",
             "application_id": "GALENUS",
             "version": "2024.1",
@@ -5513,6 +5558,20 @@
                 "VALIDATION"
             ],
             "date": "2024-04-03",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "Joinsoft Srl",
+            "application_id": "Gestione Stabilimenti Termali",
+            "version": "Ver 6.31",
+            "doc_type": [
+                "RAD",
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-05-06",
             "gtw_version": "1.0"
         },
         {
@@ -6198,6 +6257,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "Med Store Saronno S.r.l.",
+            "application_id": "MEDDREAMX",
+            "version": "2.0",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-05-06",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Medusa Software",
             "application_id": "Urania FSE",
             "version": "v.1.0.0",
@@ -6528,6 +6600,19 @@
                 "VALIDATION"
             ],
             "date": "2025-03-06",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "nidek-technologies",
+            "application_id": "nlife",
+            "version": "210",
+            "doc_type": [
+                "RSA"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-05-06",
             "gtw_version": "1.0"
         },
         {
@@ -7227,6 +7312,19 @@
                 "VALIDATION"
             ],
             "date": "2025-08-08",
+            "gtw_version": "1.0"
+        },
+        {
+            "vendor": "PROSANITASSRL",
+            "application_id": "AUTOLABNET",
+            "version": "1.1",
+            "doc_type": [
+                "RAD"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-05-06",
             "gtw_version": "1.0"
         },
         {
