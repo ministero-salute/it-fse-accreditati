@@ -5561,6 +5561,19 @@
             "gtw_version": "1.0"
         },
         {
+            "vendor": "it.entersrl",
+            "application_id": "it.entersrl.extralab",
+            "version": "4.15.4.0",
+            "doc_type": [
+                "LAB"
+            ],
+            "service": [
+                "VALIDATION"
+            ],
+            "date": "2026-05-07",
+            "gtw_version": "1.0"
+        },
+        {
             "vendor": "Joinsoft Srl",
             "application_id": "Gestione Stabilimenti Termali",
             "version": "Ver 6.31",
