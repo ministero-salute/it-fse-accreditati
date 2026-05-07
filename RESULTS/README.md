@@ -368,6 +368,7 @@ Di seguito la lista dei software che hanno superato la *fase1* di convalida:
 |InterSystems Italia S.r.l.||TrakCare|ITXX||VPS,RAD,LDO,RSA|VALIDATION|2023-05-23|1.0|
 |isaac4||isaac4|1.0||RAD|VALIDATION|2024-04-18|1.0|
 |ISED S.p.A.||CARESTUDIO|1||PSS|VALIDATION|2024-04-03|1.0|
+|it.entersrl||it.entersrl.extralab|4.15.4.0||LAB|VALIDATION|2026-05-07|1.0|
 |Joinsoft Srl||Gestione Stabilimenti Termali|Ver 6.31||RAD,RSA|VALIDATION|2026-05-06|1.0|
 |JOKER SRL||MGCup|1.0||RSA|VALIDATION|2025-03-06|1.0|
 |KAPPAWEB SRL||KAPPAMED|13.0|13.0.0,13.0.1,13.0.2,13.0.3,13.0.4,13.0.5,13.0.6,13.0.7,13.0.8|PSS|VALIDATION|2025-02-07|1.0|
