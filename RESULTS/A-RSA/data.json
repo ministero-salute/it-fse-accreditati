@@ -1,0 +1,61 @@
+{
+    "appVendor": "Altab_Srl",
+    "appID": "A-RSA",
+    "appVersion": "1.0",
+    "results": [
+        {
+            "id": 100,
+            "ts": "2026-06-23T15:25:48Z",
+            "traceId": "9fc4ab3612df6545abb1a9231cf8461c",
+            "workflowInstanceId": "",
+            "files": [
+                "scenario_1_rsa_ok_ct24.xml"
+            ]
+        },
+        {
+            "id": 101,
+            "ts": "2026-06-23T15:25:48Z",
+            "traceId": "c9041ccb05442733162bd7861ca52704",
+            "workflowInstanceId": "",
+            "files": [
+                "scenario_2_rsa_ok_ct25.xml"
+            ]
+        },
+        {
+            "id": 102,
+            "ts": "2026-06-23T15:25:48Z",
+            "traceId": "ab2c4e8834d22ffb51ed9994fba32cd4",
+            "workflowInstanceId": "",
+            "files": [
+                "scenario_3_rsa_ko_cf.xml"
+            ]
+        },
+        {
+            "id": 103,
+            "ts": "2026-06-23T15:25:48Z",
+            "traceId": "d977c90264ee26b4bd69bc09bd8f703e",
+            "workflowInstanceId": "",
+            "files": [
+                "scenario_4_rsa_ko_nome.xml"
+            ]
+        },
+        {
+            "id": 104,
+            "ts": "2026-06-23T15:25:48Z",
+            "traceId": "4250ab1c9bdc671555c156437b5aa517",
+            "workflowInstanceId": "",
+            "files": [
+                "scenario_5_rsa_ko_sesso.xml"
+            ]
+        },
+        {
+            "id": 105,
+            "ts": "2026-06-23T15:25:48Z",
+            "traceId": "910bbe4d4a6537930362654bc7476b3e",
+            "workflowInstanceId": "",
+            "files": [
+                "scenario_6_rsa_ko_firma.xml"
+            ]
+        }
+    ]
+}

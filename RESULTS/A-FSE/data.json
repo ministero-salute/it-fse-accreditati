@@ -1,0 +1,52 @@
+{
+    "appVendor": "Altab_Srl",
+    "appID": "A-FSE",
+    "appVersion": "1.0",
+    "results": [
+        {
+            "id": 63,
+            "ts": "2026-05-27T09:00:00Z",
+            "traceId": "7b217b31755ece3a85ade32df40452f2",
+            "workflowInstanceId": "2.16.840.1.113883.2.9.2.090.4.4.9ba2292a90843ed86e1df1fdc630c1e2a0e3d91e3e36d2af71c54fb68b5d41f4.ec5bc7bf60^^^^urn:ihe:iti:xdw:2013:workflowInstanceId",
+            "files": [
+                "LDO_1.pdf"
+            ]
+        },
+        {
+            "id": 64,
+            "ts": "2026-05-27T09:05:00Z",
+            "traceId": "a19a5c16648267c2624beb6901fae9f0",
+            "workflowInstanceId": "",
+            "files": [
+                "LDO_2.pdf"
+            ]
+        },
+        {
+            "id": 66,
+            "ts": "2026-05-27T09:10:00Z",
+            "traceId": "a4ad3246b7c87bf018f99086aae59cba",
+            "workflowInstanceId": "",
+            "files": [
+                "LDO_3.pdf"
+            ]
+        },
+        {
+            "id": 67,
+            "ts": "2026-05-27T09:15:00Z",
+            "traceId": "d430125f096b954164a08961193a7604",
+            "workflowInstanceId": "",
+            "files": [
+                "LDO_4.pdf"
+            ]
+        },
+        {
+            "id": 448,
+            "ts": "2026-05-27T09:22:00Z",
+            "traceId": "79f8f852b6356dc3c9495383d4547e94",
+            "workflowInstanceId": "",
+            "files": [
+                "LDO_5.pdf"
+            ]
+        }
+    ]
+}
